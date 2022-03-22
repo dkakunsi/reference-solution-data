@@ -1,0 +1,40 @@
+{
+  "period": {"year": 2022},
+  "lastUpdatedDate": "2022-03-22T23:06:51.299419+08:00",
+  "code": "BDG018",
+  "createdDate": "2022-03-22T23:06:51.298618+08:00",
+  "domain": "budget",
+  "name": "Budget 18",
+  "id": "bb2af3fc-fbe5-4c2f-8e0e-10852de77913",
+  "department": {
+    "lastUpdatedDate": "2022-03-21T12:23:00.940824+08:00",
+    "code": "DPT01",
+    "createdDate": "2022-03-21T12:23:00.940729+08:00",
+    "domain": "department",
+    "name": "Dinas Pariwisata Kota Manado",
+    "description": "Dinas Pariwisata Manado",
+    "id": "63e63596-d523-4a9c-a29a-2117475836a6",
+    "region": {
+      "parent": {
+        "lastUpdatedDate": "2022-03-21T12:22:08.781509+08:00",
+        "code": "PRV01",
+        "createdDate": "2022-03-21T12:22:08.77903+08:00",
+        "domain": "region",
+        "postalCode": 65,
+        "name": "Province Sulawesi Utara",
+        "description": "Provinsi SULUT",
+        "id": "1e2e1085-f7ad-43c3-868d-b15f07ea7727",
+        "type": "PROVINCE"
+      },
+      "lastUpdatedDate": "2022-03-21T12:22:33.877936+08:00",
+      "code": "CTY01",
+      "createdDate": "2022-03-21T12:22:33.877811+08:00",
+      "domain": "region",
+      "postalCode": 11,
+      "name": "Kota Manado",
+      "description": "ManadoKota",
+      "id": "4301e9ea-31bc-4471-9d51-6828fc590bde",
+      "type": "CITY"
+    }
+  }
+}
