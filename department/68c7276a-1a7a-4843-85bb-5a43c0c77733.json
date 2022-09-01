@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-09-02T01:23:19.32323+08:00",
+  "code": "881-198-18-856-259",
+  "createdDate": "2022-09-02T01:23:19.323064+08:00",
+  "createdBy": "default default",
+  "domain": "department",
+  "name": "Department 881-198-18-856-259",
+  "description": "Department 881-198-18-856-259 description",
+  "id": "68c7276a-1a7a-4843-85bb-5a43c0c77733",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "default default",
+      "lastUpdatedDate": "2022-09-02T01:23:16.225125+08:00",
+      "code": "249-546-583-34-206",
+      "createdDate": "2022-09-02T01:23:16.225017+08:00",
+      "createdBy": "default default",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 249-546-583-34-206",
+      "description": "Province 249-546-583-34-206 description",
+      "id": "e861d839-8297-4c1e-80ad-29b209a0177f",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "default default",
+    "lastUpdatedDate": "2022-09-02T01:23:17.824419+08:00",
+    "code": "747-17-507-584-522",
+    "createdDate": "2022-09-02T01:23:17.824313+08:00",
+    "createdBy": "default default",
+    "domain": "region",
+    "postalCode": 11,
+    "name": "City 747-17-507-584-522",
+    "description": "City 747-17-507-584-522 description",
+    "id": "ce487a52-d65e-42e5-a71a-48a68d27a167",
+    "type": "CITY"
+  }
+}
