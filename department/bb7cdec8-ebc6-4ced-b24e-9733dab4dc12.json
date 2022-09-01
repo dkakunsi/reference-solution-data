@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "UNKNOWN",
+  "lastUpdatedDate": "2022-09-01T16:57:21.151947+08:00",
+  "code": "290-232-997-177-225",
+  "createdDate": "2022-09-01T16:57:21.151818+08:00",
+  "createdBy": "UNKNOWN",
+  "domain": "department",
+  "name": "Department 290-232-997-177-225",
+  "description": "Department 290-232-997-177-225 description",
+  "id": "bb7cdec8-ebc6-4ced-b24e-9733dab4dc12",
+  "region": {
+    "domain": "region",
+    "id": "2e863bac-27bf-4b46-b5ab-6a0df6a5f373"
+  }
+}
