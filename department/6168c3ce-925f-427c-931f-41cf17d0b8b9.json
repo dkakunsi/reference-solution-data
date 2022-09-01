@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "UNKNOWN",
+  "lastUpdatedDate": "2022-09-01T23:35:37.526193+08:00",
+  "code": "745-495-708-793-484",
+  "createdDate": "2022-09-01T23:35:37.524515+08:00",
+  "createdBy": "UNKNOWN",
+  "domain": "department",
+  "name": "Department 745-495-708-793-484",
+  "description": "Department 745-495-708-793-484 description",
+  "id": "6168c3ce-925f-427c-931f-41cf17d0b8b9",
+  "region": {
+    "domain": "region",
+    "id": "7a6e1fe3-a791-44bb-972b-88ca6d6573c2"
+  }
+}
