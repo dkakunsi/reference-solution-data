@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "UNKNOWN",
+  "lastUpdatedDate": "2022-09-01T22:40:56.4529+08:00",
+  "code": "784-603-228-34-47",
+  "createdDate": "2022-09-01T22:40:56.452741+08:00",
+  "createdBy": "UNKNOWN",
+  "domain": "department",
+  "name": "Department 784-603-228-34-47",
+  "description": "Department 784-603-228-34-47 description",
+  "id": "77521b43-83d1-4be7-bf7f-c353adb74ecf",
+  "region": {
+    "domain": "region",
+    "id": "7a6e1fe3-a791-44bb-972b-88ca6d6573c2"
+  }
+}
