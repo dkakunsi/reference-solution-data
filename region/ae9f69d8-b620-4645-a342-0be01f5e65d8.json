@@ -1,14 +1,14 @@
 {
   "parent": {
     "lastUpdatedBy": "UNKNOWN",
-    "lastUpdatedDate": "2022-09-02T00:03:38.704458+08:00",
+    "lastUpdatedDate": "2022-09-02T00:03:51.698167+08:00",
     "code": "221-276-925-4-283",
     "createdDate": "2022-09-02T00:03:38.704299+08:00",
     "createdBy": "UNKNOWN",
     "domain": "region",
     "postalCode": 1,
     "name": "Province 221-276-925-4-283",
-    "description": "Province 221-276-925-4-283 description",
+    "description": "Province 221-276-925-4-283 updated description",
     "id": "9bc94e5a-d746-4f2e-9bb9-5cc84973c705",
     "type": "PROVINCE"
   },
@@ -17,8 +17,8 @@
   "code": "659-921-170-479-663",
   "createdDate": "2022-09-02T00:03:40.062791+08:00",
   "createdBy": "UNKNOWN",
-  "domain": "region",
   "postalCode": 11,
+  "domain": "region",
   "name": "City 659-921-170-479-663",
   "description": "City 659-921-170-479-663 description",
   "id": "ae9f69d8-b620-4645-a342-0be01f5e65d8",
