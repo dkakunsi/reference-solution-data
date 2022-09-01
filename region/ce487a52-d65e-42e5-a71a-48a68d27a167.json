@@ -1,14 +1,14 @@
 {
   "parent": {
     "lastUpdatedBy": "default default",
-    "lastUpdatedDate": "2022-09-02T01:23:16.225125+08:00",
+    "lastUpdatedDate": "2022-09-02T01:23:29.5814+08:00",
     "code": "249-546-583-34-206",
     "createdDate": "2022-09-02T01:23:16.225017+08:00",
     "createdBy": "default default",
     "domain": "region",
     "postalCode": 1,
     "name": "Province 249-546-583-34-206",
-    "description": "Province 249-546-583-34-206 description",
+    "description": "Province 249-546-583-34-206 updated description",
     "id": "e861d839-8297-4c1e-80ad-29b209a0177f",
     "type": "PROVINCE"
   },
@@ -17,8 +17,8 @@
   "code": "747-17-507-584-522",
   "createdDate": "2022-09-02T01:23:17.824313+08:00",
   "createdBy": "default default",
-  "domain": "region",
   "postalCode": 11,
+  "domain": "region",
   "name": "City 747-17-507-584-522",
   "description": "City 747-17-507-584-522 description",
   "id": "ce487a52-d65e-42e5-a71a-48a68d27a167",
