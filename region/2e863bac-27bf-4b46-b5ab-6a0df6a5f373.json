@@ -1,0 +1,26 @@
+{
+  "parent": {
+    "lastUpdatedBy": "UNKNOWN",
+    "lastUpdatedDate": "2022-09-01T10:15:47.116539+08:00",
+    "code": "191-798-417-748-700",
+    "createdDate": "2022-09-01T10:13:27.417797+08:00",
+    "createdBy": "UNKNOWN",
+    "domain": "region",
+    "postalCode": 1,
+    "name": "Province 191-798-417-748-700",
+    "description": "Province 191-798-417-748-700 updated description",
+    "id": "c849dd66-eebb-4124-a915-ce147e0e8582",
+    "type": "PROVINCE"
+  },
+  "lastUpdatedBy": "UNKNOWN",
+  "lastUpdatedDate": "2022-09-01T16:51:42.086202+08:00",
+  "code": "830-456-212-58-461",
+  "createdDate": "2022-09-01T16:51:42.082866+08:00",
+  "createdBy": "UNKNOWN",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 830-456-212-58-461",
+  "description": "City 830-456-212-58-461 description",
+  "id": "2e863bac-27bf-4b46-b5ab-6a0df6a5f373",
+  "type": "CITY"
+}
