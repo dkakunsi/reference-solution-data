@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "UNKNOWN",
-  "lastUpdatedDate": "2022-09-02T00:03:42.730182+08:00",
+  "lastUpdatedDate": "2022-09-02T00:03:47.755446+08:00",
   "code": "492-421-450-957-309",
   "createdDate": "2022-09-02T00:03:42.730046+08:00",
   "createdBy": "UNKNOWN",
@@ -45,5 +45,6 @@
       "id": "ae9f69d8-b620-4645-a342-0be01f5e65d8",
       "type": "CITY"
     }
-  }
+  },
+  "status": "ACTIVE"
 }
