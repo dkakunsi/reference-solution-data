@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "UNKNOWN",
+  "lastUpdatedDate": "2022-09-02T00:02:26.169497+08:00",
+  "code": "495-69-326-391-825",
+  "createdDate": "2022-09-02T00:02:26.167777+08:00",
+  "createdBy": "UNKNOWN",
+  "domain": "department",
+  "name": "Department 495-69-326-391-825",
+  "description": "Department 495-69-326-391-825 description",
+  "id": "1a464d3c-c0a1-4d4c-8b9b-18df9bbc14aa",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "UNKNOWN",
+      "lastUpdatedDate": "2022-09-01T22:09:52.263168+08:00",
+      "code": "380-29-153-143-434",
+      "createdDate": "2022-09-01T22:09:52.261873+08:00",
+      "createdBy": "UNKNOWN",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 380-29-153-143-434",
+      "description": "Province 380-29-153-143-434 description",
+      "id": "bad080e3-062b-47a7-addd-9d9a586bc0f6",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "UNKNOWN",
+    "lastUpdatedDate": "2022-09-01T22:09:53.74069+08:00",
+    "code": "691-929-658-858-751",
+    "createdDate": "2022-09-01T22:09:53.740481+08:00",
+    "createdBy": "UNKNOWN",
+    "domain": "region",
+    "postalCode": 11,
+    "name": "City 691-929-658-858-751",
+    "description": "City 691-929-658-858-751 description",
+    "id": "7a6e1fe3-a791-44bb-972b-88ca6d6573c2",
+    "type": "CITY"
+  }
+}
