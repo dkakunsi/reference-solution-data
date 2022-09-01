@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "UNKNOWN",
+  "lastUpdatedDate": "2022-09-01T22:09:55.183824+08:00",
+  "code": "893-361-727-648-196",
+  "createdDate": "2022-09-01T22:09:55.183645+08:00",
+  "createdBy": "UNKNOWN",
+  "domain": "department",
+  "name": "Department 893-361-727-648-196",
+  "description": "Department 893-361-727-648-196 description",
+  "id": "dc40601b-a6ab-4695-9c18-9d1fc826ebb4",
+  "region": {
+    "domain": "region",
+    "id": "7a6e1fe3-a791-44bb-972b-88ca6d6573c2"
+  }
+}
