@@ -1,6 +1,6 @@
 {
-  "lastUpdatedBy": "default default",
-  "lastUpdatedDate": "2022-09-09T20:01:10.224865+08:00",
+  "lastUpdatedBy": "UNKNOWN",
+  "lastUpdatedDate": "2022-09-09T20:01:13.379018+08:00",
   "code": "405-87-453-65-663",
   "createdDate": "2022-09-09T20:01:10.224739+08:00",
   "createdBy": "default default",
@@ -45,5 +45,6 @@
       "id": "a266e38e-de43-4c11-994d-3e648de37a3a",
       "type": "CITY"
     }
-  }
+  },
+  "status": "ACTIVE"
 }
