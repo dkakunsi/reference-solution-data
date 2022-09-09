@@ -1,0 +1,26 @@
+{
+  "parent": {
+    "lastUpdatedBy": "default default",
+    "lastUpdatedDate": "2022-09-09T20:01:05.630625+08:00",
+    "code": "454-8-371-431-795",
+    "createdDate": "2022-09-09T20:01:05.629634+08:00",
+    "createdBy": "default default",
+    "domain": "region",
+    "postalCode": 1,
+    "name": "Province 454-8-371-431-795",
+    "description": "Province 454-8-371-431-795 description",
+    "id": "90e9f735-0709-4ca3-8fef-e473b54af65e",
+    "type": "PROVINCE"
+  },
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-09-09T20:01:07.366163+08:00",
+  "code": "180-518-125-460-397",
+  "createdDate": "2022-09-09T20:01:07.366069+08:00",
+  "createdBy": "default default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 180-518-125-460-397",
+  "description": "City 180-518-125-460-397 description",
+  "id": "a266e38e-de43-4c11-994d-3e648de37a3a",
+  "type": "CITY"
+}
