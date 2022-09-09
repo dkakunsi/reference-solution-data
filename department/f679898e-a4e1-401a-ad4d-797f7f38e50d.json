@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-09-09T18:24:13.935734+08:00",
+  "code": "216-383-312-383-753",
+  "createdDate": "2022-09-09T18:24:13.935628+08:00",
+  "createdBy": "default default",
+  "domain": "department",
+  "name": "Department 216-383-312-383-753",
+  "description": "Department 216-383-312-383-753 description",
+  "id": "f679898e-a4e1-401a-ad4d-797f7f38e50d",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "default default",
+      "lastUpdatedDate": "2022-09-09T18:24:11.305807+08:00",
+      "code": "957-158-498-427-336",
+      "createdDate": "2022-09-09T18:24:11.305713+08:00",
+      "createdBy": "default default",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 957-158-498-427-336",
+      "description": "Province 957-158-498-427-336 description",
+      "id": "9bdeddd9-883f-479f-a2c5-5630e2203b0c",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "default default",
+    "lastUpdatedDate": "2022-09-09T18:24:12.644422+08:00",
+    "code": "983-564-936-37-328",
+    "createdDate": "2022-09-09T18:24:12.644267+08:00",
+    "createdBy": "default default",
+    "domain": "region",
+    "postalCode": 11,
+    "name": "City 983-564-936-37-328",
+    "description": "City 983-564-936-37-328 description",
+    "id": "19e7b7e1-c831-4161-b0a5-df451fdbd1db",
+    "type": "CITY"
+  }
+}
