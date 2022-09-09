@@ -11,14 +11,14 @@
   "region": {
     "parent": {
       "lastUpdatedBy": "default default",
-      "lastUpdatedDate": "2022-09-09T20:01:05.630625+08:00",
+      "lastUpdatedDate": "2022-09-09T20:01:16.168325+08:00",
       "code": "454-8-371-431-795",
       "createdDate": "2022-09-09T20:01:05.629634+08:00",
       "createdBy": "default default",
       "domain": "region",
       "postalCode": 1,
       "name": "Province 454-8-371-431-795",
-      "description": "Province 454-8-371-431-795 description",
+      "description": "Province 454-8-371-431-795 updated description",
       "id": "90e9f735-0709-4ca3-8fef-e473b54af65e",
       "type": "PROVINCE"
     },
