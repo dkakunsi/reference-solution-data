@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-09-09T18:54:55.915283+08:00",
+  "code": "381-942-961-741-775",
+  "createdDate": "2022-09-09T18:54:55.915006+08:00",
+  "createdBy": "default default",
+  "domain": "department",
+  "name": "Department 381-942-961-741-775",
+  "description": "Department 381-942-961-741-775 description",
+  "id": "2ce9fdba-796d-44f5-ba80-46025528ba25",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "default default",
+      "lastUpdatedDate": "2022-09-09T18:54:52.62149+08:00",
+      "code": "443-814-18-291-15",
+      "createdDate": "2022-09-09T18:54:52.620218+08:00",
+      "createdBy": "default default",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 443-814-18-291-15",
+      "description": "Province 443-814-18-291-15 description",
+      "id": "56d3380f-2bc8-45e5-8b78-b91cfe466d5b",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "default default",
+    "lastUpdatedDate": "2022-09-09T18:54:54.420355+08:00",
+    "code": "403-63-502-48-791",
+    "createdDate": "2022-09-09T18:54:54.420255+08:00",
+    "createdBy": "default default",
+    "domain": "region",
+    "postalCode": 11,
+    "name": "City 403-63-502-48-791",
+    "description": "City 403-63-502-48-791 description",
+    "id": "ac50f1f1-955d-40bc-994a-948aa23fe27e",
+    "type": "CITY"
+  }
+}
