@@ -1,0 +1,27 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-10-30T00:34:08.627951+08:00",
+  "code": "932-661-837-182-780",
+  "createdDate": "2022-10-30T00:34:08.625597+08:00",
+  "createdBy": "default default",
+  "domain": "project",
+  "name": "Project 932-661-837-182-780",
+  "description": "Project 932-661-837-182-780 description",
+  "location": "Project 932-661-837-182-780 location",
+  "id": "781e1180-f558-4ab9-ae89-d322694f5006",
+  "department": {
+    "lastUpdatedBy": "default default",
+    "lastUpdatedDate": "2022-10-29T21:38:01.929302+08:00",
+    "code": "798-151-589-33-579",
+    "createdDate": "2022-10-29T21:38:01.929131+08:00",
+    "createdBy": "default default",
+    "domain": "department",
+    "name": "Department 798-151-589-33-579",
+    "description": "Department 798-151-589-33-579 description",
+    "id": "4c9a6075-6d84-4de6-92df-5fd8d928a5fd",
+    "region": {
+      "domain": "region",
+      "id": "08d4a272-fce8-42ea-840e-4902e887ec35"
+    }
+  }
+}
