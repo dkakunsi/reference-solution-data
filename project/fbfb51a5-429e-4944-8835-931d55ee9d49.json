@@ -1,6 +1,6 @@
 {
-  "lastUpdatedBy": "default default",
-  "lastUpdatedDate": "2022-10-31T23:19:42.468014+08:00",
+  "lastUpdatedBy": "UNKNOWN",
+  "lastUpdatedDate": "2022-10-31T23:27:54.651622+08:00",
   "code": "409-426-454-565-986",
   "createdDate": "2022-10-31T23:19:42.466563+08:00",
   "createdBy": "default default",
@@ -45,5 +45,6 @@
       "id": "072f28a1-c044-4840-acae-0b5b5bb71377",
       "type": "CITY"
     }
-  }
+  },
+  "status": "ACTIVE"
 }
