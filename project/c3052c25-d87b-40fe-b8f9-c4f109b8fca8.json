@@ -1,6 +1,6 @@
 {
-  "lastUpdatedBy": "default default",
-  "lastUpdatedDate": "2022-11-01T17:40:46.457246+08:00",
+  "lastUpdatedBy": "UNKNOWN",
+  "lastUpdatedDate": "2022-11-01T17:49:14.865131+08:00",
   "code": "691-109-780-484-61",
   "createdDate": "2022-11-01T17:40:46.455562+08:00",
   "createdBy": "default default",
@@ -45,5 +45,6 @@
       "id": "072f28a1-c044-4840-acae-0b5b5bb71377",
       "type": "CITY"
     }
-  }
+  },
+  "status": "ACTIVE"
 }
