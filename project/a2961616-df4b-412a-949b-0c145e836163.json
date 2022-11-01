@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "UNKNOWN",
-  "lastUpdatedDate": "2022-11-01T21:20:50.251454+08:00",
+  "lastUpdatedDate": "2022-11-01T21:22:51.01948+08:00",
   "code": "239-492-291-422-315",
   "createdDate": "2022-11-01T21:20:50.249839+08:00",
   "createdBy": "UNKNOWN",
@@ -45,5 +45,6 @@
       "id": "072f28a1-c044-4840-acae-0b5b5bb71377",
       "type": "CITY"
     }
-  }
+  },
+  "status": "ACTIVE"
 }
