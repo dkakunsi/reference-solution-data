@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-02T23:40:58.723273+08:00",
+  "code": "485-247-367-464-101",
+  "createdDate": "2022-11-02T23:40:58.723111+08:00",
+  "createdBy": "default default",
+  "domain": "department",
+  "name": "Department 485-247-367-464-101",
+  "description": "Department 485-247-367-464-101 description",
+  "id": "639e96f5-157b-4250-913e-2b0b23fe0fef",
+  "region": {
+    "domain": "region",
+    "id": "e1d621e8-3c1d-435d-92a8-a9dd6dcd4f6b"
+  }
+}
