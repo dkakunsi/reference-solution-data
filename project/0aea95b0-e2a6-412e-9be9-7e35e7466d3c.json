@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-02T23:45:31.831492+08:00",
+  "code": "643-298-871-257-185",
+  "createdDate": "2022-11-02T23:45:31.830793+08:00",
+  "createdBy": "default default",
+  "domain": "project",
+  "name": "Project 643-298-871-257-185",
+  "description": "Project 643-298-871-257-185 description",
+  "location": "Project 643-298-871-257-185 location",
+  "id": "0aea95b0-e2a6-412e-9be9-7e35e7466d3c",
+  "department": {
+    "domain": "department",
+    "id": "db6312b8-4168-4647-a029-92e4ea63e639"
+  }
+}
