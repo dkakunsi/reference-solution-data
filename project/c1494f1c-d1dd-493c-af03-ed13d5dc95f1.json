@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-02T23:40:42.533163+08:00",
+  "code": "270-63-305-175-565",
+  "createdDate": "2022-11-02T23:40:42.532836+08:00",
+  "createdBy": "default default",
+  "domain": "project",
+  "name": "Project 270-63-305-175-565",
+  "description": "Project 270-63-305-175-565 description",
+  "location": "Project 270-63-305-175-565 location",
+  "id": "c1494f1c-d1dd-493c-af03-ed13d5dc95f1",
+  "department": {
+    "domain": "department",
+    "id": "cb06f716-9eb4-4249-bace-35cdaafab821"
+  }
+}
