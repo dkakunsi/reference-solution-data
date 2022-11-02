@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-02T23:45:30.5898+08:00",
+  "code": "994-945-693-17-871",
+  "createdDate": "2022-11-02T23:45:30.589652+08:00",
+  "createdBy": "default default",
+  "domain": "department",
+  "name": "Department 994-945-693-17-871",
+  "description": "Department 994-945-693-17-871 description",
+  "id": "db6312b8-4168-4647-a029-92e4ea63e639",
+  "region": {
+    "domain": "region",
+    "id": "2b54543c-61d5-45b4-a85c-fdfefbe0208d"
+  }
+}
