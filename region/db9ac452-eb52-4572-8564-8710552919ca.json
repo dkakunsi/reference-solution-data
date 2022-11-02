@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "a824df05-1f97-4f24-89cc-11739aceee41"
+  },
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-02T23:40:40.146561+08:00",
+  "code": "740-136-643-152-401",
+  "createdDate": "2022-11-02T23:40:40.146424+08:00",
+  "createdBy": "default default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 740-136-643-152-401",
+  "description": "City 740-136-643-152-401 description",
+  "id": "db9ac452-eb52-4572-8564-8710552919ca",
+  "type": "CITY"
+}
