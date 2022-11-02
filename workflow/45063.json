@@ -1,11 +1,11 @@
 {
   "lastUpdatedBy": "default default",
-  "lastUpdatedDate": "2022-11-02T22:50:08.417361+08:00",
+  "lastUpdatedDate": "2022-11-02T22:50:11.896221+08:00",
   "task": [{
     "name": "Validate",
     "executionId": "45070",
     "id": "45074",
-    "status": "Active"
+    "status": "Complete"
   }],
   "createdDate": "2022-11-02T22:50:08.417243+08:00",
   "createdBy": "default default",
@@ -15,7 +15,7 @@
   "id": "45063",
   "entity": {
     "lastUpdatedBy": "default default",
-    "lastUpdatedDate": "2022-11-02T22:50:08.252321+08:00",
+    "lastUpdatedDate": "2022-11-02T22:50:11.653971+08:00",
     "code": "535-456-531-62-369",
     "createdDate": "2022-11-02T22:50:08.252089+08:00",
     "createdBy": "default default",
@@ -60,7 +60,8 @@
         "id": "a7fe29c7-a46b-4128-bc62-61b72033afbe",
         "type": "CITY"
       }
-    }
+    },
+    "status": "ACTIVE"
   },
-  "status": "Active"
+  "status": "Complete"
 }
