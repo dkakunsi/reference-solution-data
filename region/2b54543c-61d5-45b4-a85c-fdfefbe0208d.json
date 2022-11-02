@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "2a79d94e-131a-4510-928d-61973ac2dbaf"
+  },
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-02T23:45:29.270036+08:00",
+  "code": "701-495-393-297-345",
+  "createdDate": "2022-11-02T23:45:29.269915+08:00",
+  "createdBy": "default default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 701-495-393-297-345",
+  "description": "City 701-495-393-297-345 description",
+  "id": "2b54543c-61d5-45b4-a85c-fdfefbe0208d",
+  "type": "CITY"
+}
