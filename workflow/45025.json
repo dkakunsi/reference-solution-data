@@ -1,0 +1,66 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-02T22:42:19.615526+08:00",
+  "task": [{
+    "name": "Validate",
+    "executionId": "45032",
+    "id": "45036",
+    "status": "Active"
+  }],
+  "createdDate": "2022-11-02T22:42:19.615405+08:00",
+  "createdBy": "default default",
+  "domain": "workflow",
+  "name": "Project 823-472-991-2-490",
+  "action": "project.create",
+  "id": "45025",
+  "entity": {
+    "lastUpdatedBy": "default default",
+    "lastUpdatedDate": "2022-11-02T22:42:19.407764+08:00",
+    "code": "823-472-991-2-490",
+    "createdDate": "2022-11-02T22:42:19.407488+08:00",
+    "createdBy": "default default",
+    "domain": "project",
+    "name": "Project 823-472-991-2-490",
+    "description": "Project 823-472-991-2-490 description",
+    "location": "Project 823-472-991-2-490 location",
+    "id": "14c74b67-dc27-4333-8fed-c70fc35bccb8",
+    "department": {
+      "lastUpdatedBy": "default default",
+      "lastUpdatedDate": "2022-11-02T22:42:18.193111+08:00",
+      "code": "414-363-199-252-600",
+      "createdDate": "2022-11-02T22:42:18.192988+08:00",
+      "createdBy": "default default",
+      "domain": "department",
+      "name": "Department 414-363-199-252-600",
+      "description": "Department 414-363-199-252-600 description",
+      "id": "3bf9d37f-7ad7-41cf-b3f3-78648e6d8ca8",
+      "region": {
+        "parent": {
+          "lastUpdatedBy": "default default",
+          "lastUpdatedDate": "2022-11-02T22:42:15.617247+08:00",
+          "code": "170-657-553-990-85",
+          "createdDate": "2022-11-02T22:42:15.616937+08:00",
+          "createdBy": "default default",
+          "domain": "region",
+          "postalCode": 1,
+          "name": "Province 170-657-553-990-85",
+          "description": "Province 170-657-553-990-85 description",
+          "id": "d09c462e-9244-45b2-ba74-d1cd4a348d4d",
+          "type": "PROVINCE"
+        },
+        "lastUpdatedBy": "default default",
+        "lastUpdatedDate": "2022-11-02T22:42:16.925604+08:00",
+        "code": "66-602-226-180-269",
+        "createdDate": "2022-11-02T22:42:16.925469+08:00",
+        "createdBy": "default default",
+        "domain": "region",
+        "postalCode": 11,
+        "name": "City 66-602-226-180-269",
+        "description": "City 66-602-226-180-269 description",
+        "id": "a7cd2548-7ff2-4d39-934c-b77d003e0bd6",
+        "type": "CITY"
+      }
+    }
+  },
+  "status": "Active"
+}
