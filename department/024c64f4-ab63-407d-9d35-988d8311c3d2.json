@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-02T23:41:54.2682+08:00",
+  "code": "302-150-186-528-977",
+  "createdDate": "2022-11-02T23:41:54.267746+08:00",
+  "createdBy": "default default",
+  "domain": "department",
+  "name": "Department 302-150-186-528-977",
+  "description": "Department 302-150-186-528-977 description",
+  "id": "024c64f4-ab63-407d-9d35-988d8311c3d2",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "default default",
+      "lastUpdatedDate": "2022-11-02T23:41:54.267759+08:00",
+      "code": "472-468-981-894-50",
+      "createdDate": "2022-11-02T23:41:54.264989+08:00",
+      "createdBy": "default default",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 472-468-981-894-50",
+      "description": "Province 472-468-981-894-50 description",
+      "id": "1c32e02c-751f-4077-99dc-65ed3f3e5711",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "default default",
+    "lastUpdatedDate": "2022-11-02T23:41:54.268675+08:00",
+    "code": "749-994-130-995-25",
+    "createdDate": "2022-11-02T23:41:54.268552+08:00",
+    "createdBy": "default default",
+    "domain": "region",
+    "postalCode": 11,
+    "name": "City 749-994-130-995-25",
+    "description": "City 749-994-130-995-25 description",
+    "id": "355056e4-543b-44f6-955c-3e84c5e051fd",
+    "type": "CITY"
+  }
+}
