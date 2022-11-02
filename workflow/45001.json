@@ -1,0 +1,66 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-02T22:25:55.730146+08:00",
+  "task": [{
+    "name": "Validate",
+    "executionId": "45013",
+    "id": "45023",
+    "status": "Active"
+  }],
+  "createdDate": "2022-11-02T22:25:55.730023+08:00",
+  "createdBy": "default default",
+  "domain": "workflow",
+  "name": "Project 116-583-406-530-656",
+  "action": "project.create",
+  "id": "45001",
+  "entity": {
+    "lastUpdatedBy": "default default",
+    "lastUpdatedDate": "2022-11-02T22:25:53.032101+08:00",
+    "code": "116-583-406-530-656",
+    "createdDate": "2022-11-02T22:25:53.031431+08:00",
+    "createdBy": "default default",
+    "domain": "project",
+    "name": "Project 116-583-406-530-656",
+    "description": "Project 116-583-406-530-656 description",
+    "location": "Project 116-583-406-530-656 location",
+    "id": "74423182-2deb-41a7-ae6f-a26d5fc96ba1",
+    "department": {
+      "lastUpdatedBy": "default default",
+      "lastUpdatedDate": "2022-11-02T22:25:52.740571+08:00",
+      "code": "177-900-356-965-405",
+      "createdDate": "2022-11-02T22:25:52.740408+08:00",
+      "createdBy": "default default",
+      "domain": "department",
+      "name": "Department 177-900-356-965-405",
+      "description": "Department 177-900-356-965-405 description",
+      "id": "cccd80ae-e0c7-4016-9b49-571ce89257cb",
+      "region": {
+        "parent": {
+          "lastUpdatedBy": "default default",
+          "lastUpdatedDate": "2022-11-02T22:25:51.974191+08:00",
+          "code": "317-915-152-132-140",
+          "createdDate": "2022-11-02T22:25:51.971753+08:00",
+          "createdBy": "default default",
+          "domain": "region",
+          "postalCode": 1,
+          "name": "Province 317-915-152-132-140",
+          "description": "Province 317-915-152-132-140 description",
+          "id": "1bb376ee-efc8-4ab2-84f9-13d31a05ba83",
+          "type": "PROVINCE"
+        },
+        "lastUpdatedBy": "default default",
+        "lastUpdatedDate": "2022-11-02T22:25:52.366729+08:00",
+        "code": "230-614-751-529-878",
+        "createdDate": "2022-11-02T22:25:52.366548+08:00",
+        "createdBy": "default default",
+        "domain": "region",
+        "postalCode": 11,
+        "name": "City 230-614-751-529-878",
+        "description": "City 230-614-751-529-878 description",
+        "id": "e6fd1e50-240d-46ca-b16e-2834bccab0d4",
+        "type": "CITY"
+      }
+    }
+  },
+  "status": "Active"
+}
