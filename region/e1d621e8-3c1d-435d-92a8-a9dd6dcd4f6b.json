@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "1dc726cd-e808-4f01-86e3-aa014b7fe57f"
+  },
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-02T23:40:57.487146+08:00",
+  "code": "456-248-217-816-802",
+  "createdDate": "2022-11-02T23:40:57.486943+08:00",
+  "createdBy": "default default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 456-248-217-816-802",
+  "description": "City 456-248-217-816-802 description",
+  "id": "e1d621e8-3c1d-435d-92a8-a9dd6dcd4f6b",
+  "type": "CITY"
+}
