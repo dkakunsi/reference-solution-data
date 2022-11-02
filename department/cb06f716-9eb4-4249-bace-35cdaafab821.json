@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-02T23:40:41.355704+08:00",
+  "code": "42-143-610-383-491",
+  "createdDate": "2022-11-02T23:40:41.355528+08:00",
+  "createdBy": "default default",
+  "domain": "department",
+  "name": "Department 42-143-610-383-491",
+  "description": "Department 42-143-610-383-491 description",
+  "id": "cb06f716-9eb4-4249-bace-35cdaafab821",
+  "region": {
+    "domain": "region",
+    "id": "db9ac452-eb52-4572-8564-8710552919ca"
+  }
+}
