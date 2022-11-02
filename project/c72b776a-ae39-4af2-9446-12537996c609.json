@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "default default",
-  "lastUpdatedDate": "2022-11-02T17:01:27.076694+08:00",
+  "lastUpdatedDate": "2022-11-02T19:38:48.64237+08:00",
   "code": "826-707-478-684-189",
   "createdDate": "2022-11-02T17:01:27.07417+08:00",
   "createdBy": "default default",
@@ -45,5 +45,6 @@
       "id": "072f28a1-c044-4840-acae-0b5b5bb71377",
       "type": "CITY"
     }
-  }
+  },
+  "status": "ACTIVE"
 }
