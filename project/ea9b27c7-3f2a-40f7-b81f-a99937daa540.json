@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-02T23:40:59.91154+08:00",
+  "code": "89-220-209-442-674",
+  "createdDate": "2022-11-02T23:40:59.911296+08:00",
+  "createdBy": "default default",
+  "domain": "project",
+  "name": "Project 89-220-209-442-674",
+  "description": "Project 89-220-209-442-674 description",
+  "location": "Project 89-220-209-442-674 location",
+  "id": "ea9b27c7-3f2a-40f7-b81f-a99937daa540",
+  "department": {
+    "domain": "department",
+    "id": "639e96f5-157b-4250-913e-2b0b23fe0fef"
+  }
+}
