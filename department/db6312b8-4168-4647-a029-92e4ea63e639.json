@@ -9,7 +9,29 @@
   "description": "Department 994-945-693-17-871 description",
   "id": "db6312b8-4168-4647-a029-92e4ea63e639",
   "region": {
+    "parent": {
+      "lastUpdatedBy": "default default",
+      "lastUpdatedDate": "2022-11-02T23:45:27.922983+08:00",
+      "code": "768-319-419-123-685",
+      "createdDate": "2022-11-02T23:45:27.921244+08:00",
+      "createdBy": "default default",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 768-319-419-123-685",
+      "description": "Province 768-319-419-123-685 description",
+      "id": "2a79d94e-131a-4510-928d-61973ac2dbaf",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "default default",
+    "lastUpdatedDate": "2022-11-02T23:45:29.270036+08:00",
+    "code": "701-495-393-297-345",
+    "createdDate": "2022-11-02T23:45:29.269915+08:00",
+    "createdBy": "default default",
     "domain": "region",
-    "id": "2b54543c-61d5-45b4-a85c-fdfefbe0208d"
+    "postalCode": 11,
+    "name": "City 701-495-393-297-345",
+    "description": "City 701-495-393-297-345 description",
+    "id": "2b54543c-61d5-45b4-a85c-fdfefbe0208d",
+    "type": "CITY"
   }
 }
