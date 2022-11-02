@@ -1,0 +1,49 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-02T13:19:16.442225+08:00",
+  "code": "693-4-425-383-82",
+  "createdDate": "2022-11-02T13:19:16.44065+08:00",
+  "createdBy": "default default",
+  "domain": "project",
+  "name": "Project 693-4-425-383-82",
+  "description": "Project 693-4-425-383-82 description",
+  "location": "Project 693-4-425-383-82 location",
+  "id": "a46b79f3-e5b5-43d6-9beb-0ddb6326b4c4",
+  "department": {
+    "lastUpdatedBy": "default default",
+    "lastUpdatedDate": "2022-10-30T21:17:34.847428+08:00",
+    "code": "120-312-401-862-963",
+    "createdDate": "2022-10-30T21:17:34.847305+08:00",
+    "createdBy": "default default",
+    "domain": "department",
+    "name": "Department 120-312-401-862-963",
+    "description": "Department 120-312-401-862-963 description",
+    "id": "667d84ce-5ab4-4600-be82-047bbd14adb1",
+    "region": {
+      "parent": {
+        "lastUpdatedBy": "default default",
+        "lastUpdatedDate": "2022-10-30T21:17:23.640577+08:00",
+        "code": "782-38-875-500-121",
+        "createdDate": "2022-10-30T21:17:23.638539+08:00",
+        "createdBy": "default default",
+        "domain": "region",
+        "postalCode": 1,
+        "name": "Province 782-38-875-500-121",
+        "description": "Province 782-38-875-500-121 description",
+        "id": "d21648e3-a035-4d4e-985d-0a40db0dcada",
+        "type": "PROVINCE"
+      },
+      "lastUpdatedBy": "default default",
+      "lastUpdatedDate": "2022-10-30T21:17:29.25584+08:00",
+      "code": "129-135-325-302-904",
+      "createdDate": "2022-10-30T21:17:29.255602+08:00",
+      "createdBy": "default default",
+      "domain": "region",
+      "postalCode": 11,
+      "name": "City 129-135-325-302-904",
+      "description": "City 129-135-325-302-904 description",
+      "id": "072f28a1-c044-4840-acae-0b5b5bb71377",
+      "type": "CITY"
+    }
+  }
+}
