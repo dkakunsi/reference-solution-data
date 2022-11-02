@@ -1,0 +1,26 @@
+{
+  "parent": {
+    "lastUpdatedBy": "default default",
+    "lastUpdatedDate": "2022-11-02T22:50:04.50193+08:00",
+    "code": "275-543-222-757-896",
+    "createdDate": "2022-11-02T22:50:04.501708+08:00",
+    "createdBy": "default default",
+    "domain": "region",
+    "postalCode": 1,
+    "name": "Province 275-543-222-757-896",
+    "description": "Province 275-543-222-757-896 description",
+    "id": "2b18f1cd-6b11-4bf6-a9c8-b40c5fae4df3",
+    "type": "PROVINCE"
+  },
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-02T22:50:05.791139+08:00",
+  "code": "113-635-286-107-148",
+  "createdDate": "2022-11-02T22:50:05.790976+08:00",
+  "createdBy": "default default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 113-635-286-107-148",
+  "description": "City 113-635-286-107-148 description",
+  "id": "a7fe29c7-a46b-4128-bc62-61b72033afbe",
+  "type": "CITY"
+}
