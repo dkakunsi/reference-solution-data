@@ -15,7 +15,7 @@
   "id": "45037",
   "entity": {
     "lastUpdatedBy": "default default",
-    "lastUpdatedDate": "2022-11-02T22:47:44.696588+08:00",
+    "lastUpdatedDate": "2022-11-02T22:47:48.269588+08:00",
     "code": "392-425-78-65-98",
     "createdDate": "2022-11-02T22:47:44.696317+08:00",
     "createdBy": "default default",
@@ -60,7 +60,8 @@
         "id": "d12831ec-bba5-474b-97f6-f0c25d906309",
         "type": "CITY"
       }
-    }
+    },
+    "status": "ACTIVE"
   },
   "status": "Complete"
 }
