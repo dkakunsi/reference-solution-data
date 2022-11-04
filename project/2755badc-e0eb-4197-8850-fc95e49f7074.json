@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "default default",
-  "lastUpdatedDate": "2022-11-04T21:34:13.909178+08:00",
+  "lastUpdatedDate": "2022-11-04T21:34:17.307661+08:00",
   "code": "158-166-711-995-511",
   "createdDate": "2022-11-04T21:34:13.90894+08:00",
   "createdBy": "default default",
@@ -12,5 +12,6 @@
   "department": {
     "domain": "department",
     "id": "c7f0582d-f489-4e63-8da4-3a41f3c66bae"
-  }
+  },
+  "status": "ACTIVE"
 }
