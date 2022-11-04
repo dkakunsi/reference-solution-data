@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "cb660582-1090-428a-aea6-b73001868802"
+  },
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T21:40:46.46691+08:00",
+  "code": "531-12-116-888-370",
+  "createdDate": "2022-11-04T21:40:46.466811+08:00",
+  "createdBy": "default default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 531-12-116-888-370",
+  "description": "City 531-12-116-888-370 description",
+  "id": "a688048f-8392-4092-8747-40c73af03746",
+  "type": "CITY"
+}
