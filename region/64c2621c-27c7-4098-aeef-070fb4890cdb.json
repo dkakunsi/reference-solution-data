@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "83fd5f57-3ead-4d56-817d-495c808cb49a"
+  },
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T21:08:19.648668+08:00",
+  "code": "699-731-813-703-412",
+  "createdDate": "2022-11-04T21:08:19.648546+08:00",
+  "createdBy": "default default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 699-731-813-703-412",
+  "description": "City 699-731-813-703-412 description",
+  "id": "64c2621c-27c7-4098-aeef-070fb4890cdb",
+  "type": "CITY"
+}
