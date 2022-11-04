@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "62262f0d-89a5-42d2-be0c-d03b4ec5b924"
+  },
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T14:31:28.650105+08:00",
+  "code": "733-31-641-9-194",
+  "createdDate": "2022-11-04T14:31:28.649516+08:00",
+  "createdBy": "default default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 733-31-641-9-194",
+  "description": "City 733-31-641-9-194 description",
+  "id": "e7061f8f-739e-46d8-9cee-342ae79309f9",
+  "type": "CITY"
+}
