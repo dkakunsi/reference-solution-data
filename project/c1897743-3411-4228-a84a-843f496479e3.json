@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "default default",
-  "lastUpdatedDate": "2022-11-04T20:18:28.203676+08:00",
+  "lastUpdatedDate": "2022-11-04T20:18:31.655698+08:00",
   "code": "566-915-410-97-165",
   "createdDate": "2022-11-04T20:18:28.203113+08:00",
   "createdBy": "default default",
@@ -12,5 +12,6 @@
   "department": {
     "domain": "department",
     "id": "bdf77022-dd47-4fdf-abe3-e37370cc0858"
-  }
+  },
+  "status": "ACTIVE"
 }
