@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T13:33:27.403781+08:00",
+  "code": "970-675-21-166-727",
+  "createdDate": "2022-11-04T13:33:27.403615+08:00",
+  "createdBy": "default default",
+  "domain": "project",
+  "name": "Project 970-675-21-166-727",
+  "description": "Project 970-675-21-166-727 description",
+  "location": "Project 970-675-21-166-727 location",
+  "id": "dd9d1912-43dc-4dbf-8f45-505426cbc62e",
+  "department": {
+    "domain": "department",
+    "id": "c25f627b-0004-4776-a5e5-f5149b1bb297"
+  }
+}
