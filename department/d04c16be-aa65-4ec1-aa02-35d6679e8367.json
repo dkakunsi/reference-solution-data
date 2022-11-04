@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T19:59:26.884491+08:00",
+  "code": "118-961-3-36-695",
+  "createdDate": "2022-11-04T19:59:26.884282+08:00",
+  "createdBy": "default default",
+  "domain": "department",
+  "name": "Department 118-961-3-36-695",
+  "description": "Department 118-961-3-36-695 description",
+  "id": "d04c16be-aa65-4ec1-aa02-35d6679e8367",
+  "region": {
+    "domain": "region",
+    "id": "54cf8401-8ddd-45f6-af19-e59c9448f3b0"
+  }
+}
