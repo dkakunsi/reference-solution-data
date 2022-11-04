@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T14:31:31.379488+08:00",
+  "code": "918-113-721-658-955",
+  "createdDate": "2022-11-04T14:31:31.379282+08:00",
+  "createdBy": "default default",
+  "domain": "project",
+  "name": "Project 918-113-721-658-955",
+  "description": "Project 918-113-721-658-955 description",
+  "location": "Project 918-113-721-658-955 location",
+  "id": "5d46dbac-83d8-451b-8a11-e69d3291d4d9",
+  "department": {
+    "domain": "department",
+    "id": "a0160a12-729e-43bb-9506-b89f59b8db46"
+  }
+}
