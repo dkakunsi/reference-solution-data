@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T21:53:50.276873+08:00",
+  "code": "859-731-127-947-561",
+  "createdDate": "2022-11-04T21:53:50.276598+08:00",
+  "createdBy": "default default",
+  "domain": "department",
+  "name": "Department 859-731-127-947-561",
+  "description": "Department 859-731-127-947-561 description",
+  "id": "76c89811-7281-4d05-9ddf-39ddeaa5a0a0",
+  "region": {
+    "domain": "region",
+    "id": "ceb7efd5-e263-489c-86c4-4855c76adfce"
+  }
+}
