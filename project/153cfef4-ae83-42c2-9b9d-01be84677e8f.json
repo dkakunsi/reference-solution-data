@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T19:59:28.118824+08:00",
+  "code": "905-846-249-842-29",
+  "createdDate": "2022-11-04T19:59:28.118444+08:00",
+  "createdBy": "default default",
+  "domain": "project",
+  "name": "Project 905-846-249-842-29",
+  "description": "Project 905-846-249-842-29 description",
+  "location": "Project 905-846-249-842-29 location",
+  "id": "153cfef4-ae83-42c2-9b9d-01be84677e8f",
+  "department": {
+    "domain": "department",
+    "id": "d04c16be-aa65-4ec1-aa02-35d6679e8367"
+  }
+}
