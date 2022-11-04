@@ -1,0 +1,17 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-05T01:37:20.750558+08:00",
+  "code": "404-398-72-410-739",
+  "createdDate": "2022-11-05T01:37:17.097698+08:00",
+  "createdBy": "default default",
+  "domain": "project",
+  "name": "Project 404-398-72-410-739",
+  "description": "Project 404-398-72-410-739 description",
+  "location": "Project 404-398-72-410-739 location",
+  "id": "1c21cf61-65ea-4e52-887f-fc6e2f5a67db",
+  "department": {
+    "domain": "department",
+    "id": "649a5b1d-01b8-4a44-b20c-33e7d660b4d0"
+  },
+  "status": "ACTIVE"
+}
