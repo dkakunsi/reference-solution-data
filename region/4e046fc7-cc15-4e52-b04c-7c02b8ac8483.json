@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "4efbaabf-886f-4537-985b-18f1170c4592"
+  },
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T20:18:25.730751+08:00",
+  "code": "454-248-835-622-10",
+  "createdDate": "2022-11-04T20:18:25.730611+08:00",
+  "createdBy": "default default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 454-248-835-622-10",
+  "description": "City 454-248-835-622-10 description",
+  "id": "4e046fc7-cc15-4e52-b04c-7c02b8ac8483",
+  "type": "CITY"
+}
