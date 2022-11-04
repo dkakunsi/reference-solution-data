@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T21:08:22.116654+08:00",
+  "code": "105-283-35-310-719",
+  "createdDate": "2022-11-04T21:08:22.115954+08:00",
+  "createdBy": "default default",
+  "domain": "project",
+  "name": "Project 105-283-35-310-719",
+  "description": "Project 105-283-35-310-719 description",
+  "location": "Project 105-283-35-310-719 location",
+  "id": "45c6c368-d9d4-4dd2-a52a-6516a6b817d3",
+  "department": {
+    "domain": "department",
+    "id": "f55f443a-6ab7-4ca4-849d-35afbe63fbf2"
+  }
+}
