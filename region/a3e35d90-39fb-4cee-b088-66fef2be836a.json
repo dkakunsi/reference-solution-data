@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "8b4c2e35-4f5b-46af-8616-00debc46ac05"
+  },
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T21:34:11.416298+08:00",
+  "code": "44-173-458-216-726",
+  "createdDate": "2022-11-04T21:34:11.416156+08:00",
+  "createdBy": "default default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 44-173-458-216-726",
+  "description": "City 44-173-458-216-726 description",
+  "id": "a3e35d90-39fb-4cee-b088-66fef2be836a",
+  "type": "CITY"
+}
