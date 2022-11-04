@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "acf3299b-230a-47de-81d8-11269445aec8"
+  },
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T21:14:15.943484+08:00",
+  "code": "327-323-394-26-118",
+  "createdDate": "2022-11-04T21:14:15.943235+08:00",
+  "createdBy": "default default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 327-323-394-26-118",
+  "description": "City 327-323-394-26-118 description",
+  "id": "eecfeab3-e1a6-47c3-8060-1e6807f41d23",
+  "type": "CITY"
+}
