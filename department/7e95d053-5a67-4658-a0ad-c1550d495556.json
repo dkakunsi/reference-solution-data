@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T21:38:39.69675+08:00",
+  "code": "409-221-855-281-417",
+  "createdDate": "2022-11-04T21:38:39.696567+08:00",
+  "createdBy": "default default",
+  "domain": "department",
+  "name": "Department 409-221-855-281-417",
+  "description": "Department 409-221-855-281-417 description",
+  "id": "7e95d053-5a67-4658-a0ad-c1550d495556",
+  "region": {
+    "domain": "region",
+    "id": "57dcf27c-378a-4406-9764-74e30b0580bb"
+  }
+}
