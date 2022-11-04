@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T21:38:40.930661+08:00",
+  "code": "55-538-697-534-633",
+  "createdDate": "2022-11-04T21:38:40.930437+08:00",
+  "createdBy": "default default",
+  "domain": "project",
+  "name": "Project 55-538-697-534-633",
+  "description": "Project 55-538-697-534-633 description",
+  "location": "Project 55-538-697-534-633 location",
+  "id": "cfa90d0a-69d9-4f65-a487-a312a8e63f2d",
+  "department": {
+    "domain": "department",
+    "id": "7e95d053-5a67-4658-a0ad-c1550d495556"
+  }
+}
