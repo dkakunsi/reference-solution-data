@@ -1,0 +1,21 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T13:33:28.209277+08:00",
+  "task": [{
+    "name": "Validate",
+    "executionId": "55008",
+    "id": "55012",
+    "status": "Active"
+  }],
+  "createdDate": "2022-11-04T13:33:28.209068+08:00",
+  "createdBy": "default default",
+  "domain": "workflow",
+  "name": "Project 970-675-21-166-727",
+  "action": "project.create",
+  "id": "55001",
+  "entity": {
+    "domain": "project",
+    "id": "dd9d1912-43dc-4dbf-8f45-505426cbc62e"
+  },
+  "status": "Active"
+}
