@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T21:14:18.426289+08:00",
+  "code": "272-938-276-207-563",
+  "createdDate": "2022-11-04T21:14:18.426131+08:00",
+  "createdBy": "default default",
+  "domain": "project",
+  "name": "Project 272-938-276-207-563",
+  "description": "Project 272-938-276-207-563 description",
+  "location": "Project 272-938-276-207-563 location",
+  "id": "61ea7c81-6a88-4b9b-ba90-15cec67f8f6f",
+  "department": {
+    "domain": "department",
+    "id": "3470ee10-5350-4d78-8663-fbe002fe4b87"
+  }
+}
