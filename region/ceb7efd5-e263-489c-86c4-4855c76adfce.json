@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "c35253df-4c74-4549-b366-02249a73dd0d"
+  },
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T21:53:48.015342+08:00",
+  "code": "118-789-12-395-562",
+  "createdDate": "2022-11-04T21:53:48.015183+08:00",
+  "createdBy": "default default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 118-789-12-395-562",
+  "description": "City 118-789-12-395-562 description",
+  "id": "ceb7efd5-e263-489c-86c4-4855c76adfce",
+  "type": "CITY"
+}
