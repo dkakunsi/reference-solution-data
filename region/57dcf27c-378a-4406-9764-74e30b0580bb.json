@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "cae1c68b-45cc-420e-b51d-91b2a4861c27"
+  },
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T21:38:38.420114+08:00",
+  "code": "726-380-964-893-444",
+  "createdDate": "2022-11-04T21:38:38.419966+08:00",
+  "createdBy": "default default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 726-380-964-893-444",
+  "description": "City 726-380-964-893-444 description",
+  "id": "57dcf27c-378a-4406-9764-74e30b0580bb",
+  "type": "CITY"
+}
