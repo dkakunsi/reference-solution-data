@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T20:18:27.019353+08:00",
+  "code": "357-431-237-310-772",
+  "createdDate": "2022-11-04T20:18:27.019179+08:00",
+  "createdBy": "default default",
+  "domain": "department",
+  "name": "Department 357-431-237-310-772",
+  "description": "Department 357-431-237-310-772 description",
+  "id": "bdf77022-dd47-4fdf-abe3-e37370cc0858",
+  "region": {
+    "domain": "region",
+    "id": "4e046fc7-cc15-4e52-b04c-7c02b8ac8483"
+  }
+}
