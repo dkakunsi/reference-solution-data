@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T21:34:12.707162+08:00",
+  "code": "509-412-841-701-881",
+  "createdDate": "2022-11-04T21:34:12.70704+08:00",
+  "createdBy": "default default",
+  "domain": "department",
+  "name": "Department 509-412-841-701-881",
+  "description": "Department 509-412-841-701-881 description",
+  "id": "c7f0582d-f489-4e63-8da4-3a41f3c66bae",
+  "region": {
+    "domain": "region",
+    "id": "a3e35d90-39fb-4cee-b088-66fef2be836a"
+  }
+}
