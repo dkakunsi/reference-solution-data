@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T21:40:48.72369+08:00",
+  "code": "29-669-963-169-962",
+  "createdDate": "2022-11-04T21:40:48.723102+08:00",
+  "createdBy": "default default",
+  "domain": "department",
+  "name": "Department 29-669-963-169-962",
+  "description": "Department 29-669-963-169-962 description",
+  "id": "83463ea7-afd3-47c6-9adf-7ffe4481fb27",
+  "region": {
+    "domain": "region",
+    "id": "a688048f-8392-4092-8747-40c73af03746"
+  }
+}
