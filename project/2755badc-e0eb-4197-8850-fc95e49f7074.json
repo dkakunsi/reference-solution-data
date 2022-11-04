@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T21:34:13.909178+08:00",
+  "code": "158-166-711-995-511",
+  "createdDate": "2022-11-04T21:34:13.90894+08:00",
+  "createdBy": "default default",
+  "domain": "project",
+  "name": "Project 158-166-711-995-511",
+  "description": "Project 158-166-711-995-511 description",
+  "location": "Project 158-166-711-995-511 location",
+  "id": "2755badc-e0eb-4197-8850-fc95e49f7074",
+  "department": {
+    "domain": "department",
+    "id": "c7f0582d-f489-4e63-8da4-3a41f3c66bae"
+  }
+}
