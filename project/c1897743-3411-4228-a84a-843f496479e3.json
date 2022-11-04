@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T20:18:28.203676+08:00",
+  "code": "566-915-410-97-165",
+  "createdDate": "2022-11-04T20:18:28.203113+08:00",
+  "createdBy": "default default",
+  "domain": "project",
+  "name": "Project 566-915-410-97-165",
+  "description": "Project 566-915-410-97-165 description",
+  "location": "Project 566-915-410-97-165 location",
+  "id": "c1897743-3411-4228-a84a-843f496479e3",
+  "department": {
+    "domain": "department",
+    "id": "bdf77022-dd47-4fdf-abe3-e37370cc0858"
+  }
+}
