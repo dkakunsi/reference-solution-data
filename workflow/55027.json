@@ -1,11 +1,11 @@
 {
   "lastUpdatedBy": "default default",
-  "lastUpdatedDate": "2022-11-04T14:31:31.899237+08:00",
+  "lastUpdatedDate": "2022-11-04T14:31:35.513575+08:00",
   "task": [{
     "name": "Validate",
     "executionId": "55034",
     "id": "55038",
-    "status": "Active"
+    "status": "Complete"
   }],
   "createdDate": "2022-11-04T14:31:31.898946+08:00",
   "createdBy": "default default",
@@ -17,5 +17,5 @@
     "domain": "project",
     "id": "5d46dbac-83d8-451b-8a11-e69d3291d4d9"
   },
-  "status": "Active"
+  "status": "Complete"
 }
