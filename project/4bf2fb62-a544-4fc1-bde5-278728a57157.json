@@ -1,0 +1,17 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T21:53:56.075753+08:00",
+  "code": "131-44-636-75-47",
+  "createdDate": "2022-11-04T21:53:52.616097+08:00",
+  "createdBy": "default default",
+  "domain": "project",
+  "name": "Project 131-44-636-75-47",
+  "description": "Project 131-44-636-75-47 description",
+  "location": "Project 131-44-636-75-47 location",
+  "id": "4bf2fb62-a544-4fc1-bde5-278728a57157",
+  "department": {
+    "domain": "department",
+    "id": "76c89811-7281-4d05-9ddf-39ddeaa5a0a0"
+  },
+  "status": "ACTIVE"
+}
