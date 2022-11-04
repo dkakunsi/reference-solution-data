@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T14:31:30.108014+08:00",
+  "code": "51-796-445-272-995",
+  "createdDate": "2022-11-04T14:31:30.107815+08:00",
+  "createdBy": "default default",
+  "domain": "department",
+  "name": "Department 51-796-445-272-995",
+  "description": "Department 51-796-445-272-995 description",
+  "id": "a0160a12-729e-43bb-9506-b89f59b8db46",
+  "region": {
+    "domain": "region",
+    "id": "e7061f8f-739e-46d8-9cee-342ae79309f9"
+  }
+}
