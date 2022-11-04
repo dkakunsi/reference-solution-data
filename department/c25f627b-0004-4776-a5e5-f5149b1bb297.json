@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T13:33:26.152845+08:00",
+  "code": "96-906-338-457-922",
+  "createdDate": "2022-11-04T13:33:26.15268+08:00",
+  "createdBy": "default default",
+  "domain": "department",
+  "name": "Department 96-906-338-457-922",
+  "description": "Department 96-906-338-457-922 description",
+  "id": "c25f627b-0004-4776-a5e5-f5149b1bb297",
+  "region": {
+    "domain": "region",
+    "id": "6ef56e5b-d3ea-4f0e-9ef6-c289f85291b9"
+  }
+}
