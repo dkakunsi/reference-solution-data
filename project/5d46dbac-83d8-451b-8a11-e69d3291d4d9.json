@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "default default",
-  "lastUpdatedDate": "2022-11-04T14:31:31.379488+08:00",
+  "lastUpdatedDate": "2022-11-04T14:31:35.116261+08:00",
   "code": "918-113-721-658-955",
   "createdDate": "2022-11-04T14:31:31.379282+08:00",
   "createdBy": "default default",
@@ -12,5 +12,6 @@
   "department": {
     "domain": "department",
     "id": "a0160a12-729e-43bb-9506-b89f59b8db46"
-  }
+  },
+  "status": "ACTIVE"
 }
