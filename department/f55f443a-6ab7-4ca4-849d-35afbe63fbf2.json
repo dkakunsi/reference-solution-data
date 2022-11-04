@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T21:08:20.924396+08:00",
+  "code": "612-870-632-952-381",
+  "createdDate": "2022-11-04T21:08:20.924282+08:00",
+  "createdBy": "default default",
+  "domain": "department",
+  "name": "Department 612-870-632-952-381",
+  "description": "Department 612-870-632-952-381 description",
+  "id": "f55f443a-6ab7-4ca4-849d-35afbe63fbf2",
+  "region": {
+    "domain": "region",
+    "id": "64c2621c-27c7-4098-aeef-070fb4890cdb"
+  }
+}
