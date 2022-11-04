@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "cacfa6dd-7b85-4726-af4a-a3f17513d50a"
+  },
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-05T01:37:12.501203+08:00",
+  "code": "812-508-267-720-488",
+  "createdDate": "2022-11-05T01:37:12.50108+08:00",
+  "createdBy": "default default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 812-508-267-720-488",
+  "description": "City 812-508-267-720-488 description",
+  "id": "14b934a3-5ef9-4be6-b472-8b97414bfa72",
+  "type": "CITY"
+}
