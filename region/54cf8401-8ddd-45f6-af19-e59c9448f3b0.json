@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "4f9db459-fdde-4fc3-8645-643d475a5aa4"
+  },
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T19:59:25.581051+08:00",
+  "code": "762-525-789-447-870",
+  "createdDate": "2022-11-04T19:59:25.580907+08:00",
+  "createdBy": "default default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 762-525-789-447-870",
+  "description": "City 762-525-789-447-870 description",
+  "id": "54cf8401-8ddd-45f6-af19-e59c9448f3b0",
+  "type": "CITY"
+}
