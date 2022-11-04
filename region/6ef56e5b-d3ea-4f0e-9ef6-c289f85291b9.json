@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "47eaa0a1-c170-4656-8406-41bdf5477ba6"
+  },
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T13:33:24.797399+08:00",
+  "code": "665-77-790-220-336",
+  "createdDate": "2022-11-04T13:33:24.797209+08:00",
+  "createdBy": "default default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 665-77-790-220-336",
+  "description": "City 665-77-790-220-336 description",
+  "id": "6ef56e5b-d3ea-4f0e-9ef6-c289f85291b9",
+  "type": "CITY"
+}
