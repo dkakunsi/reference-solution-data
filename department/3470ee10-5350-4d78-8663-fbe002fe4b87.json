@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-04T21:14:17.223891+08:00",
+  "code": "888-693-806-83-484",
+  "createdDate": "2022-11-04T21:14:17.223715+08:00",
+  "createdBy": "default default",
+  "domain": "department",
+  "name": "Department 888-693-806-83-484",
+  "description": "Department 888-693-806-83-484 description",
+  "id": "3470ee10-5350-4d78-8663-fbe002fe4b87",
+  "region": {
+    "domain": "region",
+    "id": "eecfeab3-e1a6-47c3-8060-1e6807f41d23"
+  }
+}
