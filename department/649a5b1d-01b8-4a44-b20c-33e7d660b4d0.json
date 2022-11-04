@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "default default",
+  "lastUpdatedDate": "2022-11-05T01:37:14.838335+08:00",
+  "code": "654-731-750-244-366",
+  "createdDate": "2022-11-05T01:37:14.838143+08:00",
+  "createdBy": "default default",
+  "domain": "department",
+  "name": "Department 654-731-750-244-366",
+  "description": "Department 654-731-750-244-366 description",
+  "id": "649a5b1d-01b8-4a44-b20c-33e7d660b4d0",
+  "region": {
+    "domain": "region",
+    "id": "14b934a3-5ef9-4be6-b472-8b97414bfa72"
+  }
+}
