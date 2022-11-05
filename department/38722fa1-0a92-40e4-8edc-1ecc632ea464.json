@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "Admin1 Default",
+  "lastUpdatedDate": "2022-11-06T01:48:27.921252+08:00",
+  "code": "440-874-274-343-788",
+  "createdDate": "2022-11-06T01:48:27.921071+08:00",
+  "createdBy": "Admin1 Default",
+  "domain": "department",
+  "name": "Department 440-874-274-343-788",
+  "description": "Department 440-874-274-343-788 description",
+  "id": "38722fa1-0a92-40e4-8edc-1ecc632ea464",
+  "region": {
+    "domain": "region",
+    "id": "3f79e613-f8c5-4af7-995e-8d267b21024e"
+  }
+}
