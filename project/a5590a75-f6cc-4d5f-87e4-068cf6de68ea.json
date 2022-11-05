@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin admin",
+  "lastUpdatedDate": "2022-11-06T02:09:51.367833+08:00",
+  "code": "770-84-465-422-923",
+  "createdDate": "2022-11-06T02:09:51.367669+08:00",
+  "createdBy": "admin admin",
+  "domain": "project",
+  "name": "Project 770-84-465-422-923",
+  "description": "Project 770-84-465-422-923 description",
+  "location": "Project 770-84-465-422-923 location",
+  "id": "a5590a75-f6cc-4d5f-87e4-068cf6de68ea",
+  "department": {
+    "domain": "department",
+    "id": "d168b4ba-2963-483d-855b-ec5e72fcaa07"
+  }
+}
