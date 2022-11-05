@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "ac1bd08a-ec26-44c0-8380-525fd2bab213"
+  },
+  "lastUpdatedBy": "admin admin",
+  "lastUpdatedDate": "2022-11-06T02:04:50.803501+08:00",
+  "code": "268-37-519-858-278",
+  "createdDate": "2022-11-06T02:04:50.802386+08:00",
+  "createdBy": "admin admin",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 268-37-519-858-278",
+  "description": "City 268-37-519-858-278 description",
+  "id": "ea1e37fc-270a-4c93-b933-12f17f3894dd",
+  "type": "CITY"
+}
