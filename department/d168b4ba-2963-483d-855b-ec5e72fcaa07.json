@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin admin",
+  "lastUpdatedDate": "2022-11-06T02:06:16.404129+08:00",
+  "code": "465-534-718-117-893",
+  "createdDate": "2022-11-06T02:06:16.403961+08:00",
+  "createdBy": "admin admin",
+  "domain": "department",
+  "name": "Department 465-534-718-117-893",
+  "description": "Department 465-534-718-117-893 description",
+  "id": "d168b4ba-2963-483d-855b-ec5e72fcaa07",
+  "region": {
+    "domain": "region",
+    "id": "75105367-e664-415b-b826-038d70ab8ced"
+  }
+}
