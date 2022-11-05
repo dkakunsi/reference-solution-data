@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin admin",
+  "lastUpdatedDate": "2022-11-06T02:06:18.585681+08:00",
+  "code": "446-767-701-330-212",
+  "createdDate": "2022-11-06T02:06:18.585254+08:00",
+  "createdBy": "admin admin",
+  "domain": "project",
+  "name": "Project 446-767-701-330-212",
+  "description": "Project 446-767-701-330-212 description",
+  "location": "Project 446-767-701-330-212 location",
+  "id": "887eac5c-8190-493d-882a-75aeb9a79e5d",
+  "department": {
+    "domain": "department",
+    "id": "d168b4ba-2963-483d-855b-ec5e72fcaa07"
+  }
+}
