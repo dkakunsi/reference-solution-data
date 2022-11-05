@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "37b4c529-fdc5-4664-b962-9e00f1374301"
+  },
+  "lastUpdatedBy": "Admin1 Default",
+  "lastUpdatedDate": "2022-11-06T01:48:25.519118+08:00",
+  "code": "545-922-702-830-170",
+  "createdDate": "2022-11-06T01:48:25.51877+08:00",
+  "createdBy": "Admin1 Default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 545-922-702-830-170",
+  "description": "City 545-922-702-830-170 description",
+  "id": "3f79e613-f8c5-4af7-995e-8d267b21024e",
+  "type": "CITY"
+}
