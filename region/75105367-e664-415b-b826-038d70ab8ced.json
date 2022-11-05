@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "61246e33-1ad6-4958-89fa-02208e47d958"
+  },
+  "lastUpdatedBy": "admin admin",
+  "lastUpdatedDate": "2022-11-06T02:06:14.051611+08:00",
+  "code": "63-250-753-638-782",
+  "createdDate": "2022-11-06T02:06:14.051392+08:00",
+  "createdBy": "admin admin",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 63-250-753-638-782",
+  "description": "City 63-250-753-638-782 description",
+  "id": "75105367-e664-415b-b826-038d70ab8ced",
+  "type": "CITY"
+}
