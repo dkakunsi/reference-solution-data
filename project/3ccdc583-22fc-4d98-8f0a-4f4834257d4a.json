@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-06T21:48:51.793693+08:00",
+  "code": "321-264-129-412-938",
+  "createdDate": "2022-11-06T21:48:51.793561+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "project",
+  "name": "Project 321-264-129-412-938",
+  "description": "Project 321-264-129-412-938 description",
+  "location": "Project 321-264-129-412-938 location",
+  "id": "3ccdc583-22fc-4d98-8f0a-4f4834257d4a",
+  "department": {
+    "domain": "department",
+    "id": "826e5960-8d85-4f03-9b40-abd7029256fa"
+  }
+}
