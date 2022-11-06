@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "9f0de5c3-00b2-4ffc-acd6-a2c34b6bde02"
+  },
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-06T21:46:50.191112+08:00",
+  "code": "507-340-894-337-163",
+  "createdDate": "2022-11-06T21:46:50.190857+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 507-340-894-337-163",
+  "description": "City 507-340-894-337-163 description",
+  "id": "63f536c9-23d4-4d05-8bf2-2b6afc9406db",
+  "type": "CITY"
+}
