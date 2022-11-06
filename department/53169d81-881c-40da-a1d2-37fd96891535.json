@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-06T21:48:00.540021+08:00",
+  "code": "864-99-927-668-444",
+  "createdDate": "2022-11-06T21:48:00.539878+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "department",
+  "name": "Department 864-99-927-668-444",
+  "description": "Department 864-99-927-668-444 description",
+  "id": "53169d81-881c-40da-a1d2-37fd96891535",
+  "region": {
+    "domain": "region",
+    "id": "77ad539b-7a60-43a4-84c5-79f9079e4254"
+  }
+}
