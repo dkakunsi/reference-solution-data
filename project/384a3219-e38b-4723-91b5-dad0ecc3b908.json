@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-06T21:46:54.683886+08:00",
+  "code": "965-346-380-312-359",
+  "createdDate": "2022-11-06T21:46:54.683693+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "project",
+  "name": "Project 965-346-380-312-359",
+  "description": "Project 965-346-380-312-359 description",
+  "location": "Project 965-346-380-312-359 location",
+  "id": "384a3219-e38b-4723-91b5-dad0ecc3b908",
+  "department": {
+    "domain": "department",
+    "id": "fd6aa8a2-3291-49c0-994c-c900a1dae7a8"
+  }
+}
