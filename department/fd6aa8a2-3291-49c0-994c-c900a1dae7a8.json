@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-06T21:46:52.467616+08:00",
+  "code": "525-961-856-186-125",
+  "createdDate": "2022-11-06T21:46:52.467456+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "department",
+  "name": "Department 525-961-856-186-125",
+  "description": "Department 525-961-856-186-125 description",
+  "id": "fd6aa8a2-3291-49c0-994c-c900a1dae7a8",
+  "region": {
+    "domain": "region",
+    "id": "63f536c9-23d4-4d05-8bf2-2b6afc9406db"
+  }
+}
