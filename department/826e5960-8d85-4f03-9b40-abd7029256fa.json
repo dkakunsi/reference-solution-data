@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-06T21:48:49.594871+08:00",
+  "code": "453-75-740-161-270",
+  "createdDate": "2022-11-06T21:48:49.594613+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "department",
+  "name": "Department 453-75-740-161-270",
+  "description": "Department 453-75-740-161-270 description",
+  "id": "826e5960-8d85-4f03-9b40-abd7029256fa",
+  "region": {
+    "domain": "region",
+    "id": "3c9f2314-380d-4def-89f9-aed202628a2d"
+  }
+}
