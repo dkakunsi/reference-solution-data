@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "fd7edb3a-e2e7-4196-a3e5-a9f23839b0a2"
+  },
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-06T21:47:58.252759+08:00",
+  "code": "778-424-335-461-438",
+  "createdDate": "2022-11-06T21:47:58.252623+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 778-424-335-461-438",
+  "description": "City 778-424-335-461-438 description",
+  "id": "77ad539b-7a60-43a4-84c5-79f9079e4254",
+  "type": "CITY"
+}
