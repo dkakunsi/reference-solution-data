@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-06T21:48:02.722774+08:00",
+  "code": "285-881-766-666-99",
+  "createdDate": "2022-11-06T21:48:02.722577+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "project",
+  "name": "Project 285-881-766-666-99",
+  "description": "Project 285-881-766-666-99 description",
+  "location": "Project 285-881-766-666-99 location",
+  "id": "8bb35dda-cdca-4c87-b877-f2add33a2d45",
+  "department": {
+    "domain": "department",
+    "id": "53169d81-881c-40da-a1d2-37fd96891535"
+  }
+}
