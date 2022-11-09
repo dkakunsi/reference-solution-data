@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "f1f32025-99ec-4f14-ae87-a87057097191"
+  },
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-09T21:40:07.109999+08:00",
+  "code": "347-386-992-733-456",
+  "createdDate": "2022-11-09T21:40:07.108259+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 347-386-992-733-456",
+  "description": "City 347-386-992-733-456 description",
+  "id": "40ec2771-7283-4ab5-8dee-58b7fd803646",
+  "type": "CITY"
+}
