@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-09T21:41:00.545007+08:00",
+  "code": "802-739-897-109-701",
+  "createdDate": "2022-11-09T21:41:00.544887+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "department",
+  "name": "Department 802-739-897-109-701",
+  "description": "Department 802-739-897-109-701 description",
+  "id": "44c11064-f2f4-4fb0-abf5-831662f5e8d5",
+  "region": {
+    "domain": "region",
+    "id": "40ec2771-7283-4ab5-8dee-58b7fd803646"
+  }
+}
