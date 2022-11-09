@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-09T21:43:14.677076+08:00",
+  "code": "634-639-160-453-302",
+  "createdDate": "2022-11-09T21:43:14.676848+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "project",
+  "name": "Project 634-639-160-453-302",
+  "description": "Project 634-639-160-453-302 description",
+  "location": "Project 634-639-160-453-302 location",
+  "id": "adb241f2-164b-4827-9eaf-46393c0af8ef",
+  "department": {
+    "domain": "department",
+    "id": "44c11064-f2f4-4fb0-abf5-831662f5e8d5"
+  }
+}
