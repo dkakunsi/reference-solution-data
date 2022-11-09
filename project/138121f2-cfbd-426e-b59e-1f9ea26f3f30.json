@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-09T22:55:44.126999+08:00",
+  "code": "318-42-310-387-347",
+  "createdDate": "2022-11-09T22:55:44.125774+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "project",
+  "name": "Project 318-42-310-387-347",
+  "description": "Project 318-42-310-387-347 description",
+  "location": "Project 318-42-310-387-347 location",
+  "id": "138121f2-cfbd-426e-b59e-1f9ea26f3f30",
+  "department": {
+    "domain": "department",
+    "id": "44c11064-f2f4-4fb0-abf5-831662f5e8d5"
+  }
+}
