@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-10T14:41:04.648483+08:00",
+  "code": "571-177-611-130-618",
+  "createdDate": "2022-11-10T14:41:04.643842+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "project",
+  "name": "Project 571-177-611-130-618",
+  "description": "Project 571-177-611-130-618 description",
+  "location": "Project 571-177-611-130-618 location",
+  "id": "219eae41-73e1-4cff-8d28-a4206679dbbf",
+  "department": {
+    "domain": "department",
+    "id": "44c11064-f2f4-4fb0-abf5-831662f5e8d5"
+  }
+}
