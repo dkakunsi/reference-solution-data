@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "Admin Reference",
-  "lastUpdatedDate": "2022-11-10T21:45:57.325551+08:00",
+  "lastUpdatedDate": "2022-11-10T21:48:04.401732+08:00",
   "code": "823-109-816-102-152",
   "createdDate": "2022-11-10T21:45:57.32428+08:00",
   "createdBy": "Admin Reference",
@@ -12,5 +12,6 @@
   "department": {
     "domain": "department",
     "id": "f4df8d91-3ec8-4132-a862-81bc9de475cd"
-  }
+  },
+  "status": "Declined"
 }
