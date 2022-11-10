@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-10T18:20:27.956473+08:00",
+  "code": "926-279-461-763-643",
+  "createdDate": "2022-11-10T18:20:27.954848+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "project",
+  "name": "Project 926-279-461-763-643",
+  "description": "Project 926-279-461-763-643 description",
+  "location": "Project 926-279-461-763-643 location",
+  "id": "cef0f4e9-a44a-4176-a187-3ee713e41b59",
+  "department": {
+    "domain": "department",
+    "id": "f4df8d91-3ec8-4132-a862-81bc9de475cd"
+  }
+}
