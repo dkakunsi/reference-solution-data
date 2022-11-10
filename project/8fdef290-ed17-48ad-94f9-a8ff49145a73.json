@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "Admin Reference",
-  "lastUpdatedDate": "2022-11-10T20:07:07.244405+08:00",
+  "lastUpdatedDate": "2022-11-10T21:28:29.858203+08:00",
   "code": "342-946-447-398-804",
   "createdDate": "2022-11-10T20:07:07.241814+08:00",
   "createdBy": "Admin Reference",
@@ -12,5 +12,6 @@
   "department": {
     "domain": "department",
     "id": "f4df8d91-3ec8-4132-a862-81bc9de475cd"
-  }
+  },
+  "status": "Active"
 }
