@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-10T20:07:07.244405+08:00",
+  "code": "342-946-447-398-804",
+  "createdDate": "2022-11-10T20:07:07.241814+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "project",
+  "name": "Project 342-946-447-398-804",
+  "description": "Project 342-946-447-398-804 description",
+  "location": "Project 342-946-447-398-804 location",
+  "id": "8fdef290-ed17-48ad-94f9-a8ff49145a73",
+  "department": {
+    "domain": "department",
+    "id": "f4df8d91-3ec8-4132-a862-81bc9de475cd"
+  }
+}
