@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-10T13:27:47.972188+08:00",
+  "code": "725-732-382-920-976",
+  "createdDate": "2022-11-10T13:27:47.97089+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "project",
+  "name": "Project 725-732-382-920-976",
+  "description": "Project 725-732-382-920-976 description",
+  "location": "Project 725-732-382-920-976 location",
+  "id": "9c206eb4-5dab-4ceb-b308-3aafe3bfbbc9",
+  "department": {
+    "domain": "department",
+    "id": "44c11064-f2f4-4fb0-abf5-831662f5e8d5"
+  }
+}
