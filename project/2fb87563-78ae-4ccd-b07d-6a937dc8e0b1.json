@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-10T18:40:06.317788+08:00",
+  "code": "282-48-882-118-690",
+  "createdDate": "2022-11-10T18:40:06.317636+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "project",
+  "name": "Project 282-48-882-118-690",
+  "description": "Project 282-48-882-118-690 description",
+  "location": "Project 282-48-882-118-690 location",
+  "id": "2fb87563-78ae-4ccd-b07d-6a937dc8e0b1",
+  "department": {
+    "domain": "department",
+    "id": "f4df8d91-3ec8-4132-a862-81bc9de475cd"
+  }
+}
