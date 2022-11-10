@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-10T21:45:57.325551+08:00",
+  "code": "823-109-816-102-152",
+  "createdDate": "2022-11-10T21:45:57.32428+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "project",
+  "name": "Project 823-109-816-102-152",
+  "description": "Project 823-109-816-102-152 description",
+  "location": "Project 823-109-816-102-152 location",
+  "id": "066a54bb-c3be-4829-a7b0-d91e14136019",
+  "department": {
+    "domain": "department",
+    "id": "f4df8d91-3ec8-4132-a862-81bc9de475cd"
+  }
+}
