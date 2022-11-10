@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-10T18:50:44.721814+08:00",
+  "code": "274-293-605-125-833",
+  "createdDate": "2022-11-10T18:50:44.719801+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "project",
+  "name": "Project 274-293-605-125-833",
+  "description": "Project 274-293-605-125-833 description",
+  "location": "Project 274-293-605-125-833 location",
+  "id": "ffb3c80e-89d9-4727-b8fe-90e03e68de4a",
+  "department": {
+    "domain": "department",
+    "id": "f4df8d91-3ec8-4132-a862-81bc9de475cd"
+  }
+}
