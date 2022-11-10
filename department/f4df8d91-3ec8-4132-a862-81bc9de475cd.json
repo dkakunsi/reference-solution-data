@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2022-11-10T17:24:47.496072+08:00",
+  "code": "646-541-682-155-475",
+  "createdDate": "2022-11-10T17:24:47.495423+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "department",
+  "name": "Department 646-541-682-155-475",
+  "description": "Department 646-541-682-155-475 description",
+  "id": "f4df8d91-3ec8-4132-a862-81bc9de475cd",
+  "region": {
+    "domain": "region",
+    "id": "40ec2771-7283-4ab5-8dee-58b7fd803646"
+  }
+}
