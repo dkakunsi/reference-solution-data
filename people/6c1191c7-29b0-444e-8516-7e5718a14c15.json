@@ -1,0 +1,27 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "addresses": [{
+    "region": {"id": "5f40b2789c516501cdc362c2"},
+    "detail": "Alamat rumah 3",
+    "primary": true
+  }],
+  "lastUpdatedDate": "2022-11-12T00:32:46.410346+08:00",
+  "code": "PE101",
+  "createdDate": "2022-11-12T00:32:46.39788+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "people",
+  "name": "People 101",
+  "dateOfBirth": "2000-08-17T00:00:00.000",
+  "id": "6c1191c7-29b0-444e-8516-7e5718a14c15",
+  "type": "people",
+  "contacts": [
+    {
+      "name": "PHONE",
+      "phone": "+6282122222222"
+    },
+    {
+      "name": "EMAIL",
+      "email": "dkakunsi@gmail.com"
+    }
+  ]
+}
