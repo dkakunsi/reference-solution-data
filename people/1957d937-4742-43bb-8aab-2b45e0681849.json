@@ -1,0 +1,26 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "addresses": [{
+    "region": {"id": "5f40b2789c516501cdc362c2"},
+    "detail": "Alamat rumah 3",
+    "primary": true
+  }],
+  "lastUpdatedDate": "2022-11-12T13:27:00.875322+08:00",
+  "code": "PE106",
+  "createdDate": "2022-11-12T13:27:00.873297+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "people",
+  "name": "People 106",
+  "dateOfBirth": "2000-08-17T00:00:00.000",
+  "id": "1957d937-4742-43bb-8aab-2b45e0681849",
+  "contacts": [
+    {
+      "name": "PHONE",
+      "phone": "+6282122222222"
+    },
+    {
+      "name": "EMAIL",
+      "email": "deddy.kakunsi@gmail.com"
+    }
+  ]
+}
