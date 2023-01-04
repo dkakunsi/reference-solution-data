@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2023-01-04T19:39:33.052668+08:00",
+  "code": "193-533-376-617-21",
+  "createdDate": "2023-01-04T19:39:33.043261+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "department",
+  "name": "Department 193-533-376-617-21",
+  "description": "Department 193-533-376-617-21 description",
+  "id": "0f9065c6-64dd-494e-912a-0ba2038b9e59",
+  "region": {
+    "domain": "region",
+    "id": "de82f43c-fe36-4297-bd8b-8fadd1a01386"
+  }
+}
