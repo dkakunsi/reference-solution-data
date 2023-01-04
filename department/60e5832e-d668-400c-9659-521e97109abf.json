@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2023-01-04T19:08:52.633058+08:00",
+  "code": "192-794-899-135-143",
+  "createdDate": "2023-01-04T19:08:52.632943+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "department",
+  "name": "Department 192-794-899-135-143",
+  "description": "Department 192-794-899-135-143 description",
+  "id": "60e5832e-d668-400c-9659-521e97109abf",
+  "region": {
+    "domain": "region",
+    "id": "a3d701b3-a446-48d8-92a2-9620f6d9f2c0"
+  }
+}
