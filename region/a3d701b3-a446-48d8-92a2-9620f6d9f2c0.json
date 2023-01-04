@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "eaf5ff63-4511-4ba2-b910-a15abe336613"
+  },
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2023-01-04T19:08:50.334734+08:00",
+  "code": "123-105-516-124-342",
+  "createdDate": "2023-01-04T19:08:50.334613+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 123-105-516-124-342",
+  "description": "City 123-105-516-124-342 description",
+  "id": "a3d701b3-a446-48d8-92a2-9620f6d9f2c0",
+  "type": "CITY"
+}
