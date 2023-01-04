@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "Admin Reference",
-  "lastUpdatedDate": "2023-01-04T19:41:55.298677+08:00",
+  "lastUpdatedDate": "2023-01-04T19:49:11.54194+08:00",
   "code": "996-947-719-963-470",
   "createdDate": "2023-01-04T19:41:55.298516+08:00",
   "createdBy": "Admin Reference",
@@ -12,5 +12,6 @@
   "department": {
     "domain": "department",
     "id": "8e559dca-807b-40a6-801a-bc7729d20308"
-  }
+  },
+  "status": "Declined"
 }
