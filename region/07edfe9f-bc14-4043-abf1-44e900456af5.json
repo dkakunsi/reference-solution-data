@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "null"
+  },
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2023-01-04T17:10:26.36348+08:00",
+  "code": "556-331-494-8-775",
+  "createdDate": "2023-01-04T17:10:26.359559+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 556-331-494-8-775",
+  "description": "City 556-331-494-8-775 description",
+  "id": "07edfe9f-bc14-4043-abf1-44e900456af5",
+  "type": "CITY"
+}
