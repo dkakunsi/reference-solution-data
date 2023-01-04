@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2023-01-04T19:41:53.0435+08:00",
+  "code": "257-400-985-799-167",
+  "createdDate": "2023-01-04T19:41:53.043171+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "department",
+  "name": "Department 257-400-985-799-167",
+  "description": "Department 257-400-985-799-167 description",
+  "id": "8e559dca-807b-40a6-801a-bc7729d20308",
+  "region": {
+    "domain": "region",
+    "id": "164426dc-ad18-4b09-bd57-c962204d96f5"
+  }
+}
