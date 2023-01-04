@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2023-01-04T19:41:55.298677+08:00",
+  "code": "996-947-719-963-470",
+  "createdDate": "2023-01-04T19:41:55.298516+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "project",
+  "name": "Project 996-947-719-963-470",
+  "description": "Project 996-947-719-963-470 description",
+  "location": "Project 996-947-719-963-470 location",
+  "id": "1ca57d09-0ddf-4993-81b6-62b27c585861",
+  "department": {
+    "domain": "department",
+    "id": "8e559dca-807b-40a6-801a-bc7729d20308"
+  }
+}
