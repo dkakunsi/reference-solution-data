@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2023-01-04T17:10:28.678252+08:00",
+  "code": "776-508-907-983-642",
+  "createdDate": "2023-01-04T17:10:28.678008+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "department",
+  "name": "Department 776-508-907-983-642",
+  "description": "Department 776-508-907-983-642 description",
+  "id": "06ca0dfa-ac53-49f9-a490-90ae2c4110b7",
+  "region": {
+    "domain": "region",
+    "id": "07edfe9f-bc14-4043-abf1-44e900456af5"
+  }
+}
