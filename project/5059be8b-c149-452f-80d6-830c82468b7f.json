@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2023-02-09T02:25:32.764966+08:00",
+  "code": "331-574-178-310-844",
+  "createdDate": "2023-02-09T02:25:32.762371+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "project",
+  "name": "Project 331-574-178-310-844",
+  "description": "Project 331-574-178-310-844 description",
+  "location": "Project 331-574-178-310-844 location",
+  "id": "5059be8b-c149-452f-80d6-830c82468b7f",
+  "department": {
+    "domain": "department",
+    "id": "8e559dca-807b-40a6-801a-bc7729d20308"
+  }
+}
