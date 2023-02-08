@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "Admin Reference",
+  "lastUpdatedDate": "2023-02-08T09:31:56.60656+08:00",
+  "code": "955-108-774-832-328",
+  "createdDate": "2023-02-08T09:31:56.600066+08:00",
+  "createdBy": "Admin Reference",
+  "domain": "project",
+  "name": "Project 955-108-774-832-328",
+  "description": "Project 955-108-774-832-328 description",
+  "location": "Project 955-108-774-832-328 location",
+  "id": "0b287c9c-22ec-432b-845b-370d9a8e6808",
+  "department": {
+    "domain": "department",
+    "id": "8e559dca-807b-40a6-801a-bc7729d20308"
+  }
+}
