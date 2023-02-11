@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "default user",
+  "lastUpdatedDate": "2023-02-11T16:38:36.438727+08:00",
+  "code": "376-149-533-457-388",
+  "createdDate": "2023-02-11T16:38:36.438518+08:00",
+  "createdBy": "default user",
+  "domain": "project",
+  "name": "Project 376-149-533-457-388",
+  "description": "Project 376-149-533-457-388 description",
+  "location": "Project 376-149-533-457-388 location",
+  "id": "dfa5f66a-c328-4dec-81ce-b499de060d4e",
+  "department": {
+    "domain": "department",
+    "id": "8e559dca-807b-40a6-801a-bc7729d20308"
+  }
+}
