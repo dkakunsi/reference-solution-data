@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "default user",
+  "lastUpdatedDate": "2023-02-11T13:24:02.427229+08:00",
+  "code": "84-993-531-943-531",
+  "createdDate": "2023-02-11T13:24:02.427029+08:00",
+  "createdBy": "default user",
+  "domain": "project",
+  "name": "Project 84-993-531-943-531",
+  "description": "Project 84-993-531-943-531 description",
+  "location": "Project 84-993-531-943-531 location",
+  "id": "15f868cf-599d-4582-8207-0256de1c24fc",
+  "department": {
+    "domain": "department",
+    "id": "8e559dca-807b-40a6-801a-bc7729d20308"
+  }
+}
