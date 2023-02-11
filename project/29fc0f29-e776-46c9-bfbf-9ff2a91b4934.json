@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "default user",
+  "lastUpdatedDate": "2023-02-11T11:49:46.582628+08:00",
+  "code": "560-418-485-95-574",
+  "createdDate": "2023-02-11T11:49:46.578753+08:00",
+  "createdBy": "default user",
+  "domain": "project",
+  "name": "Project 560-418-485-95-574",
+  "description": "Project 560-418-485-95-574 description",
+  "location": "Project 560-418-485-95-574 location",
+  "id": "29fc0f29-e776-46c9-bfbf-9ff2a91b4934",
+  "department": {
+    "domain": "department",
+    "id": "8e559dca-807b-40a6-801a-bc7729d20308"
+  }
+}
