@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin admin",
+  "lastUpdatedDate": "2023-02-18T00:36:08.670773+08:00",
+  "code": "822-246-600-926-802",
+  "createdDate": "2023-02-18T00:36:08.670524+08:00",
+  "createdBy": "admin admin",
+  "domain": "project",
+  "name": "Project 822-246-600-926-802",
+  "description": "Project 822-246-600-926-802 description",
+  "location": "Project 822-246-600-926-802 location",
+  "id": "8681e080-0930-4945-9c00-05817fa7b53b",
+  "department": {
+    "domain": "department",
+    "id": "8e559dca-807b-40a6-801a-bc7729d20308"
+  }
+}
