@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "admin admin",
-  "lastUpdatedDate": "2023-02-18T00:36:08.670773+08:00",
+  "lastUpdatedDate": "2023-02-18T00:38:19.413315+08:00",
   "code": "822-246-600-926-802",
   "createdDate": "2023-02-18T00:36:08.670524+08:00",
   "createdBy": "admin admin",
@@ -12,5 +12,6 @@
   "department": {
     "domain": "department",
     "id": "8e559dca-807b-40a6-801a-bc7729d20308"
-  }
+  },
+  "status": "Declined"
 }
