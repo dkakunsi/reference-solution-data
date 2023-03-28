@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-03-28T15:19:19.995757+08:00",
+  "code": "217-868-896-131-828",
+  "createdDate": "2023-03-28T15:19:19.987503+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 217-868-896-131-828",
+  "description": "Project 217-868-896-131-828 description",
+  "location": "Project 217-868-896-131-828 location",
+  "id": "05bc9782-ef2b-40c3-8f2c-8b139ad4895e",
+  "department": {
+    "domain": "department",
+    "id": ""
+  }
+}
