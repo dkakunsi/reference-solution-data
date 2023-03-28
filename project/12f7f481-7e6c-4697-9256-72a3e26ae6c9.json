@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-03-28T13:32:47.2804+08:00",
+  "code": "463-36-370-454-836",
+  "createdDate": "2023-03-28T13:32:47.27395+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 463-36-370-454-836",
+  "description": "Project 463-36-370-454-836 description",
+  "location": "Project 463-36-370-454-836 location",
+  "id": "12f7f481-7e6c-4697-9256-72a3e26ae6c9",
+  "department": {
+    "domain": "department",
+    "id": ""
+  }
+}
