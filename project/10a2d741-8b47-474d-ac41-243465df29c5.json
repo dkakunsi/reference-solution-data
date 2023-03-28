@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "admin default",
-  "lastUpdatedDate": "2023-03-28T14:54:20.495166+08:00",
+  "lastUpdatedDate": "2023-03-28T14:54:57.684198+08:00",
   "code": "571-431-117-995-477",
   "createdDate": "2023-03-28T14:54:20.494116+08:00",
   "createdBy": "admin default",
@@ -12,5 +12,6 @@
   "department": {
     "domain": "department",
     "id": ""
-  }
+  },
+  "status": "Active"
 }
