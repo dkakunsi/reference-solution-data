@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-03-28T14:54:20.495166+08:00",
+  "code": "571-431-117-995-477",
+  "createdDate": "2023-03-28T14:54:20.494116+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 571-431-117-995-477",
+  "description": "Project 571-431-117-995-477 description",
+  "location": "Project 571-431-117-995-477 location",
+  "id": "10a2d741-8b47-474d-ac41-243465df29c5",
+  "department": {
+    "domain": "department",
+    "id": ""
+  }
+}
