@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-03-28T19:22:07.243668+08:00",
+  "code": "685-516-699-40-488",
+  "createdDate": "2023-03-28T19:22:07.240183+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 685-516-699-40-488",
+  "description": "Project 685-516-699-40-488 description",
+  "location": "Project 685-516-699-40-488 location",
+  "id": "0d32afd6-2669-436c-b5c6-fa61b95c512c",
+  "department": {
+    "domain": "department",
+    "id": ""
+  }
+}
