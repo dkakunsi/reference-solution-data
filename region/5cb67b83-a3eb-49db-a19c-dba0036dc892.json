@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "0fdcc814-448e-4802-a9c3-2e1f53085e38"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-06-22T09:59:36.30298+08:00",
+  "code": "859-718-105-575-504",
+  "createdDate": "2023-06-22T09:59:36.302561+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 859-718-105-575-504",
+  "description": "City 859-718-105-575-504 description",
+  "id": "5cb67b83-a3eb-49db-a19c-dba0036dc892",
+  "type": "CITY"
+}
