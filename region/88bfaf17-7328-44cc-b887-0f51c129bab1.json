@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "991a41f9-b6b8-4adc-843d-f3733d15c66a"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-06-22T10:19:56.883895+08:00",
+  "code": "800-367-174-771-563",
+  "createdDate": "2023-06-22T10:19:56.883187+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 800-367-174-771-563",
+  "description": "City 800-367-174-771-563 description",
+  "id": "88bfaf17-7328-44cc-b887-0f51c129bab1",
+  "type": "CITY"
+}
