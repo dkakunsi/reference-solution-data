@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-06-22T10:25:53.147387+08:00",
+  "code": "867-952-762-766-58",
+  "createdDate": "2023-06-22T10:25:53.146391+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 867-952-762-766-58",
+  "description": "Department 867-952-762-766-58 description",
+  "id": "5ec624b6-d59e-4320-8eaa-7afcd25f677c",
+  "region": {
+    "domain": "region",
+    "id": "88bfaf17-7328-44cc-b887-0f51c129bab1"
+  }
+}
