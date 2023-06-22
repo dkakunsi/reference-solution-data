@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-06-22T10:27:10.136181+08:00",
+  "code": "558-165-594-118-211",
+  "createdDate": "2023-06-22T10:27:10.133778+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 558-165-594-118-211",
+  "description": "Project 558-165-594-118-211 description",
+  "location": "Project 558-165-594-118-211 location",
+  "id": "35fe366f-b7f2-4f7e-8414-dfa75153271d",
+  "department": {
+    "domain": "department",
+    "id": "5ec624b6-d59e-4320-8eaa-7afcd25f677c"
+  }
+}
