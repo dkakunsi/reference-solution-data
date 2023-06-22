@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-06-22T09:50:22.026326+08:00",
+  "code": "DEPT01",
+  "createdDate": "2023-06-22T09:50:22.013522+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Pemerintah Provinsi Sulawesi Utara",
+  "description": "Pemprov SULUT",
+  "id": "1819efb8-f93a-4c80-b1c6-273a38144835",
+  "region": {
+    "domain": "region",
+    "id": "5f40b2619c516501cdc362c0"
+  }
+}
