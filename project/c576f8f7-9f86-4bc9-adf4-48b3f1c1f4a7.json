@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-06-22T10:42:45.21557+08:00",
+  "code": "763-908-930-977-837",
+  "createdDate": "2023-06-22T10:42:45.214453+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 763-908-930-977-837",
+  "description": "Project 763-908-930-977-837 description",
+  "location": "Project 763-908-930-977-837 location",
+  "id": "c576f8f7-9f86-4bc9-adf4-48b3f1c1f4a7",
+  "department": {
+    "domain": "department",
+    "id": "5ec624b6-d59e-4320-8eaa-7afcd25f677c"
+  }
+}
