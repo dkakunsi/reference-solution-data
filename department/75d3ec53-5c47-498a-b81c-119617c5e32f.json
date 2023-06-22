@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-06-22T09:59:48.619618+08:00",
+  "code": "150-663-570-483-16",
+  "createdDate": "2023-06-22T09:59:48.619271+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 150-663-570-483-16",
+  "description": "Department 150-663-570-483-16 description",
+  "id": "75d3ec53-5c47-498a-b81c-119617c5e32f",
+  "region": {
+    "domain": "region",
+    "id": "5cb67b83-a3eb-49db-a19c-dba0036dc892"
+  }
+}
