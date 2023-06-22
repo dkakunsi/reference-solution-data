@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-06-22T10:00:28.476402+08:00",
+  "code": "34-529-231-175-586",
+  "createdDate": "2023-06-22T10:00:28.475767+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 34-529-231-175-586",
+  "description": "Department 34-529-231-175-586 description",
+  "id": "2b74cf97-8f1a-40c2-91f9-ab383fce6cee",
+  "region": {
+    "domain": "region",
+    "id": ""
+  }
+}
