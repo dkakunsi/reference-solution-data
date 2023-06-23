@@ -1,50 +1,17 @@
 {
   "lastUpdatedBy": "admin default",
-  "lastUpdatedDate": "2023-06-22T10:43:27.062159+08:00",
-  "code": "763-908-930-977-837",
+  "lastUpdatedDate": "2023-06-23T09:25:07.201228+08:00",
+  "code": "30-409-333-726-529",
   "createdDate": "2023-06-22T10:42:45.214453+08:00",
   "createdBy": "admin default",
   "domain": "project",
-  "name": "Project 763-908-930-977-837",
-  "description": "Project 763-908-930-977-837 description",
+  "name": "Project 30-409-333-726-529",
+  "description": "Project 30-409-333-726-529 description updated",
   "location": "Project 763-908-930-977-837 location",
   "id": "c576f8f7-9f86-4bc9-adf4-48b3f1c1f4a7",
   "department": {
-    "lastUpdatedBy": "admin default",
-    "lastUpdatedDate": "2023-06-22T10:25:53.147387+08:00",
-    "code": "867-952-762-766-58",
-    "createdDate": "2023-06-22T10:25:53.146391+08:00",
-    "createdBy": "admin default",
     "domain": "department",
-    "name": "Department 867-952-762-766-58",
-    "description": "Department 867-952-762-766-58 description",
-    "id": "5ec624b6-d59e-4320-8eaa-7afcd25f677c",
-    "region": {
-      "parent": {
-        "lastUpdatedBy": "admin default",
-        "lastUpdatedDate": "2023-06-22T10:18:58.567046+08:00",
-        "code": "262-767-634-791-313",
-        "createdDate": "2023-06-22T10:18:58.560193+08:00",
-        "createdBy": "admin default",
-        "domain": "region",
-        "postalCode": 1,
-        "name": "Province 262-767-634-791-313",
-        "description": "Province 262-767-634-791-313 description",
-        "id": "991a41f9-b6b8-4adc-843d-f3733d15c66a",
-        "type": "PROVINCE"
-      },
-      "lastUpdatedBy": "admin default",
-      "lastUpdatedDate": "2023-06-22T10:19:56.883895+08:00",
-      "code": "800-367-174-771-563",
-      "createdDate": "2023-06-22T10:19:56.883187+08:00",
-      "createdBy": "admin default",
-      "domain": "region",
-      "postalCode": 11,
-      "name": "City 800-367-174-771-563",
-      "description": "City 800-367-174-771-563 description",
-      "id": "88bfaf17-7328-44cc-b887-0f51c129bab1",
-      "type": "CITY"
-    }
+    "id": "5ec624b6-d59e-4320-8eaa-7afcd25f677c"
   },
   "status": "Active"
 }
