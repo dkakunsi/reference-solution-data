@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:33:22.440516+08:00",
+  "code": "47-792-942-543-154",
+  "createdDate": "2023-07-24T20:33:22.440142+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 47-792-942-543-154",
+  "description": "Department 47-792-942-543-154 description",
+  "id": "73b1f991-fd55-45c0-98fe-689f2d3d886e",
+  "region": {
+    "domain": "region",
+    "id": "e920f473-e3b5-475f-8d48-0c85ee9ed137"
+  }
+}
