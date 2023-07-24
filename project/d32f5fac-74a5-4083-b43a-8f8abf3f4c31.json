@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:28:14.41054+08:00",
+  "code": "348-962-525-247-132",
+  "createdDate": "2023-07-24T20:28:14.410154+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 348-962-525-247-132",
+  "description": "Project 348-962-525-247-132 description",
+  "location": "Project 348-962-525-247-132 location",
+  "id": "d32f5fac-74a5-4083-b43a-8f8abf3f4c31",
+  "department": {
+    "domain": "department",
+    "id": "cdc4dadd-c9f3-4071-861e-b7f28418883f"
+  }
+}
