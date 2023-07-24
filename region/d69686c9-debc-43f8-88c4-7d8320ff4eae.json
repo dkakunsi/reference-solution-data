@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "781b04c0-da85-4599-8162-599954740b65"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T21:11:16.554455+08:00",
+  "code": "202-610-163-178-826",
+  "createdDate": "2023-07-24T21:11:16.554084+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 202-610-163-178-826",
+  "description": "City 202-610-163-178-826 description",
+  "id": "d69686c9-debc-43f8-88c4-7d8320ff4eae",
+  "type": "CITY"
+}
