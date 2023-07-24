@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T22:02:10.066324+08:00",
+  "code": "836-95-881-285-623",
+  "createdDate": "2023-07-24T22:02:10.065951+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 836-95-881-285-623",
+  "description": "Department 836-95-881-285-623 description",
+  "id": "150a396c-8856-4908-84cf-4988cfaec949",
+  "region": {
+    "domain": "region",
+    "id": "41480012-1bcc-4a34-a07c-ff16f344baa6"
+  }
+}
