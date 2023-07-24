@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:40:27.10504+08:00",
+  "code": "480-236-394-18-808",
+  "createdDate": "2023-07-24T20:40:27.10463+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 480-236-394-18-808",
+  "description": "Department 480-236-394-18-808 description",
+  "id": "6b08eb82-3b98-47b4-83c9-c29fec960694",
+  "region": {
+    "domain": "region",
+    "id": "b9b325e3-7590-4fcf-88fc-d01451236b03"
+  }
+}
