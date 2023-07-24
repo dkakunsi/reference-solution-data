@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "f1bc87c1-c7b4-402f-9bd3-99810131f4fe"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:24:57.980806+08:00",
+  "code": "195-964-891-901-659",
+  "createdDate": "2023-07-24T20:24:57.980256+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 195-964-891-901-659",
+  "description": "City 195-964-891-901-659 description",
+  "id": "0d8fb5bb-2074-4bd2-a11f-a152f9a1e814",
+  "type": "CITY"
+}
