@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:40:39.928088+08:00",
+  "code": "653-769-57-931-312",
+  "createdDate": "2023-07-24T20:40:39.921582+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 653-769-57-931-312",
+  "description": "Project 653-769-57-931-312 description",
+  "location": "Project 653-769-57-931-312 location",
+  "id": "d0b21840-3baa-47e4-86eb-d229fc2f502c",
+  "department": {
+    "domain": "department",
+    "id": "6b08eb82-3b98-47b4-83c9-c29fec960694"
+  }
+}
