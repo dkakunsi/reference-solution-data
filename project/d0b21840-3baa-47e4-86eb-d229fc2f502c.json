@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "admin default",
-  "lastUpdatedDate": "2023-07-24T20:40:39.928088+08:00",
+  "lastUpdatedDate": "2023-07-24T20:40:44.723298+08:00",
   "code": "653-769-57-931-312",
   "createdDate": "2023-07-24T20:40:39.921582+08:00",
   "createdBy": "admin default",
@@ -12,5 +12,6 @@
   "department": {
     "domain": "department",
     "id": "6b08eb82-3b98-47b4-83c9-c29fec960694"
-  }
+  },
+  "status": "Active"
 }
