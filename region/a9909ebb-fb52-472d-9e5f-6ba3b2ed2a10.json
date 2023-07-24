@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "13a134c7-9abc-46fc-91ce-79c383f35cb4"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:36:24.949115+08:00",
+  "code": "101-720-535-412-425",
+  "createdDate": "2023-07-24T20:36:24.948281+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 101-720-535-412-425",
+  "description": "City 101-720-535-412-425 description",
+  "id": "a9909ebb-fb52-472d-9e5f-6ba3b2ed2a10",
+  "type": "CITY"
+}
