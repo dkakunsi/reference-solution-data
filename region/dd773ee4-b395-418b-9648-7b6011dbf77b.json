@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "a9c21c4d-9b9b-41cd-a8ed-8b70c0475ebc"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:27:59.475387+08:00",
+  "code": "11-765-490-468-837",
+  "createdDate": "2023-07-24T20:27:59.475175+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 11-765-490-468-837",
+  "description": "City 11-765-490-468-837 description",
+  "id": "dd773ee4-b395-418b-9648-7b6011dbf77b",
+  "type": "CITY"
+}
