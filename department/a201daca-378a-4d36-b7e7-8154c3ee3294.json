@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:36:27.181931+08:00",
+  "code": "307-596-879-79-435",
+  "createdDate": "2023-07-24T20:36:27.181112+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 307-596-879-79-435",
+  "description": "Department 307-596-879-79-435 description",
+  "id": "a201daca-378a-4d36-b7e7-8154c3ee3294",
+  "region": {
+    "domain": "region",
+    "id": "a9909ebb-fb52-472d-9e5f-6ba3b2ed2a10"
+  }
+}
