@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "39270d9f-8ec8-4757-8240-797776e77753"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:26:06.184092+08:00",
+  "code": "341-849-484-313-453",
+  "createdDate": "2023-07-24T20:26:06.183836+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 341-849-484-313-453",
+  "description": "City 341-849-484-313-453 description",
+  "id": "275d0a88-2961-4fd2-868e-b17013bbd769",
+  "type": "CITY"
+}
