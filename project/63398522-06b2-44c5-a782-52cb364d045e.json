@@ -1,0 +1,17 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:36:43.631032+08:00",
+  "code": "392-979-209-428-423",
+  "createdDate": "2023-07-24T20:36:39.872322+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 392-979-209-428-423",
+  "description": "Project 392-979-209-428-423 description",
+  "location": "Project 392-979-209-428-423 location",
+  "id": "63398522-06b2-44c5-a782-52cb364d045e",
+  "department": {
+    "domain": "department",
+    "id": "a201daca-378a-4d36-b7e7-8154c3ee3294"
+  },
+  "status": "Active"
+}
