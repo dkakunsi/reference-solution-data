@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "b83c5346-ff53-4a53-ac23-2bdaff2ae64c"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:33:20.183593+08:00",
+  "code": "419-11-440-805-906",
+  "createdDate": "2023-07-24T20:33:20.182976+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 419-11-440-805-906",
+  "description": "City 419-11-440-805-906 description",
+  "id": "e920f473-e3b5-475f-8d48-0c85ee9ed137",
+  "type": "CITY"
+}
