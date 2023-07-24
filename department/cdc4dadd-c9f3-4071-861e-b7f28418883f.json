@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:28:01.670036+08:00",
+  "code": "526-984-979-421-713",
+  "createdDate": "2023-07-24T20:28:01.669836+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 526-984-979-421-713",
+  "description": "Department 526-984-979-421-713 description",
+  "id": "cdc4dadd-c9f3-4071-861e-b7f28418883f",
+  "region": {
+    "domain": "region",
+    "id": "dd773ee4-b395-418b-9648-7b6011dbf77b"
+  }
+}
