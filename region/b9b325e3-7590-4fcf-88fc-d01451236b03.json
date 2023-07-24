@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "ff61a7f8-0b2d-4857-91fc-475aea5c7e4b"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:40:24.891952+08:00",
+  "code": "8-136-129-55-875",
+  "createdDate": "2023-07-24T20:40:24.891464+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 8-136-129-55-875",
+  "description": "City 8-136-129-55-875 description",
+  "id": "b9b325e3-7590-4fcf-88fc-d01451236b03",
+  "type": "CITY"
+}
