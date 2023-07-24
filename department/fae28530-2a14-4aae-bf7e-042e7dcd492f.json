@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T21:07:54.614148+08:00",
+  "code": "481-421-852-483-136",
+  "createdDate": "2023-07-24T21:07:54.613724+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 481-421-852-483-136",
+  "description": "Department 481-421-852-483-136 description",
+  "id": "fae28530-2a14-4aae-bf7e-042e7dcd492f",
+  "region": {
+    "domain": "region",
+    "id": "e6c4b992-9832-41c1-863d-f40219409a85"
+  }
+}
