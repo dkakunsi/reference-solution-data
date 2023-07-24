@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "29769511-deb5-48b8-9f37-47baa81e10ca"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T22:02:07.803579+08:00",
+  "code": "645-317-359-859-928",
+  "createdDate": "2023-07-24T22:02:07.803059+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 645-317-359-859-928",
+  "description": "City 645-317-359-859-928 description",
+  "id": "41480012-1bcc-4a34-a07c-ff16f344baa6",
+  "type": "CITY"
+}
