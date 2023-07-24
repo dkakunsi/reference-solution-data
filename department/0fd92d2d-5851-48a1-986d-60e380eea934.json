@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:26:08.50809+08:00",
+  "code": "862-822-419-629-766",
+  "createdDate": "2023-07-24T20:26:08.507606+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 862-822-419-629-766",
+  "description": "Department 862-822-419-629-766 description",
+  "id": "0fd92d2d-5851-48a1-986d-60e380eea934",
+  "region": {
+    "domain": "region",
+    "id": "275d0a88-2961-4fd2-868e-b17013bbd769"
+  }
+}
