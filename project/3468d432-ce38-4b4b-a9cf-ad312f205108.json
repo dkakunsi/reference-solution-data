@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "admin default",
-  "lastUpdatedDate": "2023-07-24T20:33:35.258505+08:00",
+  "lastUpdatedDate": "2023-07-24T20:33:39.376048+08:00",
   "code": "870-139-171-594-560",
   "createdDate": "2023-07-24T20:33:35.257331+08:00",
   "createdBy": "admin default",
@@ -12,5 +12,6 @@
   "department": {
     "domain": "department",
     "id": "73b1f991-fd55-45c0-98fe-689f2d3d886e"
-  }
+  },
+  "status": "Declined"
 }
