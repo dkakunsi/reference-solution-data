@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "c2aa9bf5-5c41-42a0-bf9c-bf5a5078a2c4"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T21:07:52.305082+08:00",
+  "code": "588-140-565-291-862",
+  "createdDate": "2023-07-24T21:07:52.304778+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 588-140-565-291-862",
+  "description": "City 588-140-565-291-862 description",
+  "id": "e6c4b992-9832-41c1-863d-f40219409a85",
+  "type": "CITY"
+}
