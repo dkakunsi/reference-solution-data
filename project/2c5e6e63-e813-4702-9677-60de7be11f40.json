@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:45:09.580509+08:00",
+  "code": "895-783-395-905-962",
+  "createdDate": "2023-07-24T20:45:09.579656+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 895-783-395-905-962",
+  "description": "Project 895-783-395-905-962 description",
+  "location": "Project 895-783-395-905-962 location",
+  "id": "2c5e6e63-e813-4702-9677-60de7be11f40",
+  "department": {
+    "domain": "department",
+    "id": "ae5c30e1-0cde-465b-a064-1dcbc17a144a"
+  }
+}
