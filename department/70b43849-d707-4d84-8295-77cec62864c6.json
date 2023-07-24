@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:25:00.267997+08:00",
+  "code": "929-48-923-668-450",
+  "createdDate": "2023-07-24T20:25:00.267689+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 929-48-923-668-450",
+  "description": "Department 929-48-923-668-450 description",
+  "id": "70b43849-d707-4d84-8295-77cec62864c6",
+  "region": {
+    "domain": "region",
+    "id": "0d8fb5bb-2074-4bd2-a11f-a152f9a1e814"
+  }
+}
