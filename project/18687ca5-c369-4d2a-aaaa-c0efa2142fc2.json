@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:34:28.988438+08:00",
+  "code": "713-461-295-713-100",
+  "createdDate": "2023-07-24T20:34:28.986755+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 713-461-295-713-100",
+  "description": "Project 713-461-295-713-100 description",
+  "location": "Project 713-461-295-713-100 location",
+  "id": "18687ca5-c369-4d2a-aaaa-c0efa2142fc2",
+  "department": {
+    "domain": "department",
+    "id": "5ec624b6-d59e-4320-8eaa-7afcd25f677c"
+  }
+}
