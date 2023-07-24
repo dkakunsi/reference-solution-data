@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T21:11:31.892213+08:00",
+  "code": "742-37-163-610-825",
+  "createdDate": "2023-07-24T21:11:31.890726+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 742-37-163-610-825",
+  "description": "Project 742-37-163-610-825 description",
+  "location": "Project 742-37-163-610-825 location",
+  "id": "a9b5fbfb-8f13-42cd-8843-ae52aa15e7a5",
+  "department": {
+    "domain": "department",
+    "id": "5039cb83-512d-45ff-a64b-aaed82da846b"
+  }
+}
