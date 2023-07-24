@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "admin default",
-  "lastUpdatedDate": "2023-07-24T22:01:15.750481+08:00",
+  "lastUpdatedDate": "2023-07-24T22:01:52.385114+08:00",
   "code": "744-482-325-677-593",
   "createdDate": "2023-07-24T22:01:15.744111+08:00",
   "createdBy": "admin default",
@@ -12,5 +12,6 @@
   "department": {
     "domain": "department",
     "id": "5ec624b6-d59e-4320-8eaa-7afcd25f677c"
-  }
+  },
+  "status": "Active"
 }
