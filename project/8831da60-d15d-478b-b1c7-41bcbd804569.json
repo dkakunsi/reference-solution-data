@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:26:22.644146+08:00",
+  "code": "22-331-63-741-560",
+  "createdDate": "2023-07-24T20:26:22.643417+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 22-331-63-741-560",
+  "description": "Project 22-331-63-741-560 description",
+  "location": "Project 22-331-63-741-560 location",
+  "id": "8831da60-d15d-478b-b1c7-41bcbd804569",
+  "department": {
+    "domain": "department",
+    "id": "0fd92d2d-5851-48a1-986d-60e380eea934"
+  }
+}
