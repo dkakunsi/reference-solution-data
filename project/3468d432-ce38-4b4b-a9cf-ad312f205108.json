@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:33:35.258505+08:00",
+  "code": "870-139-171-594-560",
+  "createdDate": "2023-07-24T20:33:35.257331+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 870-139-171-594-560",
+  "description": "Project 870-139-171-594-560 description",
+  "location": "Project 870-139-171-594-560 location",
+  "id": "3468d432-ce38-4b4b-a9cf-ad312f205108",
+  "department": {
+    "domain": "department",
+    "id": "73b1f991-fd55-45c0-98fe-689f2d3d886e"
+  }
+}
