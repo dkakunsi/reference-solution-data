@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "null"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T17:16:02.733315+08:00",
+  "code": "902-618-56-108-758",
+  "createdDate": "2023-07-24T17:16:02.726875+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 902-618-56-108-758",
+  "description": "City 902-618-56-108-758 description",
+  "id": "3b165674-c75e-4865-b2ac-4143c2c7c59e",
+  "type": "CITY"
+}
