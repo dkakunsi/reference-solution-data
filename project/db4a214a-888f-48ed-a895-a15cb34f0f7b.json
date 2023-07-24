@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T22:01:15.750481+08:00",
+  "code": "744-482-325-677-593",
+  "createdDate": "2023-07-24T22:01:15.744111+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 744-482-325-677-593",
+  "description": "Project 744-482-325-677-593 description",
+  "location": "Project 744-482-325-677-593 location",
+  "id": "db4a214a-888f-48ed-a895-a15cb34f0f7b",
+  "department": {
+    "domain": "department",
+    "id": "5ec624b6-d59e-4320-8eaa-7afcd25f677c"
+  }
+}
