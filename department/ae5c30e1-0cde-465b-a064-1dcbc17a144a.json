@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:44:56.848794+08:00",
+  "code": "962-241-606-948-271",
+  "createdDate": "2023-07-24T20:44:56.847773+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 962-241-606-948-271",
+  "description": "Department 962-241-606-948-271 description",
+  "id": "ae5c30e1-0cde-465b-a064-1dcbc17a144a",
+  "region": {
+    "domain": "region",
+    "id": "97762410-2a42-4b79-9c77-4de8359d2ec5"
+  }
+}
