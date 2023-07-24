@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T21:11:19.187332+08:00",
+  "code": "133-191-264-405-844",
+  "createdDate": "2023-07-24T21:11:19.175027+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 133-191-264-405-844",
+  "description": "Department 133-191-264-405-844 description",
+  "id": "5039cb83-512d-45ff-a64b-aaed82da846b",
+  "region": {
+    "domain": "region",
+    "id": "d69686c9-debc-43f8-88c4-7d8320ff4eae"
+  }
+}
