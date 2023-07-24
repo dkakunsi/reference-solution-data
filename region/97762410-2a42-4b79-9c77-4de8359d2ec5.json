@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "a0d06d06-cc96-4690-82f6-e0623f98fe64"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-07-24T20:44:54.636324+08:00",
+  "code": "773-289-792-179-207",
+  "createdDate": "2023-07-24T20:44:54.635982+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 773-289-792-179-207",
+  "description": "City 773-289-792-179-207 description",
+  "id": "97762410-2a42-4b79-9c77-4de8359d2ec5",
+  "type": "CITY"
+}
