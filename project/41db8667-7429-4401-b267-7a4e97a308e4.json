@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-08-09T21:21:09.970449+08:00",
+  "code": "46-869-460-39-453",
+  "createdDate": "2023-08-09T21:21:09.969894+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 46-869-460-39-453",
+  "description": "Project 46-869-460-39-453 description",
+  "location": "Project 46-869-460-39-453 location",
+  "id": "41db8667-7429-4401-b267-7a4e97a308e4",
+  "department": {
+    "domain": "department",
+    "id": "36f52fa3-cd9b-4447-afb4-ee51995c24ef"
+  }
+}
