@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-08-10T05:54:21.781461+08:00",
+  "code": "478-190-966-511-617",
+  "createdDate": "2023-08-10T05:54:21.780935+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 478-190-966-511-617",
+  "description": "Project 478-190-966-511-617 description",
+  "location": "Project 478-190-966-511-617 location",
+  "id": "65ff7cd8-df0f-4567-923b-ac81e8713fd6",
+  "department": {
+    "domain": "department",
+    "id": "d95458a4-9e45-4e21-9698-772ab0e490b9"
+  }
+}
