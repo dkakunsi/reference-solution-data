@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "07266892-d86d-41eb-8490-dd029f5ee518"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-08-10T05:54:06.259429+08:00",
+  "code": "389-141-150-878-627",
+  "createdDate": "2023-08-10T05:54:06.259078+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 389-141-150-878-627",
+  "description": "City 389-141-150-878-627 description",
+  "id": "212022c2-8958-417b-9c12-ad67e9adf55c",
+  "type": "CITY"
+}
