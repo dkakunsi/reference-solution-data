@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-09T15:56:02.129303+08:00",
+  "code": "820-937-774-23-304",
+  "createdDate": "2023-10-09T15:56:02.128986+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 820-937-774-23-304",
+  "description": "Department 820-937-774-23-304 description",
+  "id": "2501696b-22a8-46ff-a6fc-f7446667ad5e",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "admin default",
+      "lastUpdatedDate": "2023-10-09T15:50:21.533209+08:00",
+      "code": "873-305-287-590-427",
+      "createdDate": "2023-10-09T15:50:21.512822+08:00",
+      "createdBy": "admin default",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 873-305-287-590-427",
+      "description": "Province 873-305-287-590-427 description",
+      "id": "4df6283d-6d41-48a8-8989-d3ea22ce9fe8",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "admin default",
+    "lastUpdatedDate": "2023-10-09T15:55:52.521007+08:00",
+    "code": "593-2-907-945-951",
+    "createdDate": "2023-10-09T15:55:52.51985+08:00",
+    "createdBy": "admin default",
+    "domain": "region",
+    "postalCode": 11,
+    "name": "City 593-2-907-945-951",
+    "description": "City 593-2-907-945-951 description",
+    "id": "9de5c1be-b491-4457-b269-839b8a487a4e",
+    "type": "CITY"
+  }
+}
