@@ -1,0 +1,26 @@
+{
+  "parent": {
+    "lastUpdatedBy": "admin default",
+    "lastUpdatedDate": "2023-10-10T01:03:12.498678+08:00",
+    "code": "405-637-768-168-986",
+    "createdDate": "2023-10-10T01:03:12.497171+08:00",
+    "createdBy": "admin default",
+    "domain": "region",
+    "postalCode": 1,
+    "name": "Province 405-637-768-168-986",
+    "description": "Province 405-637-768-168-986 description",
+    "id": "ea2e944f-7273-444b-9168-4f380b610c84",
+    "type": "PROVINCE"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-10T01:03:19.332772+08:00",
+  "code": "437-624-778-598-109",
+  "createdDate": "2023-10-10T01:03:19.332431+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 437-624-778-598-109",
+  "description": "City 437-624-778-598-109 description",
+  "id": "76143951-860f-4f4b-bbeb-262cb80bef41",
+  "type": "CITY"
+}
