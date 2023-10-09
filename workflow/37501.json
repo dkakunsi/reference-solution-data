@@ -1,0 +1,22 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-10T00:13:33.777045+08:00",
+  "task": [{
+    "name": "Validate Project",
+    "executionId": "37512",
+    "id": "37519",
+    "status": "Active"
+  }],
+  "createdDate": "2023-10-10T00:13:33.776762+08:00",
+  "createdBy": "admin default",
+  "domain": "workflow",
+  "name": "Project 100-465-484-924-479",
+  "organisation": "Reference",
+  "action": "project.create",
+  "id": "37501",
+  "entity": {
+    "domain": "project",
+    "id": "1152cee0-db83-492e-a2c6-e1102af92777"
+  },
+  "status": "Active"
+}
