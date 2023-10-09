@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-10T00:13:19.565025+08:00",
+  "code": "816-782-361-797-298",
+  "createdDate": "2023-10-10T00:13:19.564804+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 816-782-361-797-298",
+  "description": "Department 816-782-361-797-298 description",
+  "id": "c83d209e-05ee-4451-8755-eea8cc86b6d9",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "admin default",
+      "lastUpdatedDate": "2023-10-10T00:13:13.220319+08:00",
+      "code": "825-155-526-980-908",
+      "createdDate": "2023-10-10T00:13:13.098632+08:00",
+      "createdBy": "admin default",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 825-155-526-980-908",
+      "description": "Province 825-155-526-980-908 description",
+      "id": "0b2afb0e-2252-4794-802c-7b68429ae3de",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "admin default",
+    "lastUpdatedDate": "2023-10-10T00:13:17.382067+08:00",
+    "code": "982-93-844-440-248",
+    "createdDate": "2023-10-10T00:13:17.381824+08:00",
+    "createdBy": "admin default",
+    "domain": "region",
+    "postalCode": 11,
+    "name": "City 982-93-844-440-248",
+    "description": "City 982-93-844-440-248 description",
+    "id": "9e316cdc-3b4b-4c3e-903f-6b7104707046",
+    "type": "CITY"
+  }
+}
