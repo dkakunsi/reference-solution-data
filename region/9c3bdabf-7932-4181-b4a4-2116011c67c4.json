@@ -1,0 +1,26 @@
+{
+  "parent": {
+    "lastUpdatedBy": "admin default",
+    "lastUpdatedDate": "2023-10-09T15:50:59.839986+08:00",
+    "code": "963-140-733-846-90",
+    "createdDate": "2023-10-09T15:50:59.838607+08:00",
+    "createdBy": "admin default",
+    "domain": "region",
+    "postalCode": 1,
+    "name": "Province 963-140-733-846-90",
+    "description": "Province 963-140-733-846-90 description",
+    "id": "3f137c6f-f9fc-462b-8e67-e482411fab05",
+    "type": "PROVINCE"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-09T15:51:02.381005+08:00",
+  "code": "216-289-239-707-342",
+  "createdDate": "2023-10-09T15:51:02.38074+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 216-289-239-707-342",
+  "description": "City 216-289-239-707-342 description",
+  "id": "9c3bdabf-7932-4181-b4a4-2116011c67c4",
+  "type": "CITY"
+}
