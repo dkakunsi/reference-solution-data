@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "7ea86ea4-7e5e-4c86-ac3e-0e4b9b406a24"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-17T08:53:16.375358+08:00",
+  "code": "132-106-535-599-800",
+  "createdDate": "2023-10-17T08:53:16.354435+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 132-106-535-599-800",
+  "description": "City 132-106-535-599-800 description",
+  "id": "77166709-357c-4376-a986-f7abfafc1881",
+  "type": "CITY"
+}
