@@ -1,0 +1,36 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-17T08:53:18.530376+08:00",
+  "code": "234-991-471-168-814",
+  "createdDate": "2023-10-17T08:53:18.52768+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 234-991-471-168-814",
+  "description": "Department 234-991-471-168-814 description",
+  "id": "4cfdca50-172f-48e6-a4ec-7b3bb8df97bf",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "admin default",
+      "lastUpdatedDate": "2023-10-17T08:53:20.812207+08:00",
+      "code": "439-590-242-972-30",
+      "createdDate": "2023-10-17T08:53:20.811982+08:00",
+      "createdBy": "admin default",
+      "domain": "region",
+      "name": "Province 439-590-242-972-30",
+      "description": "Province 439-590-242-972-30 updated description",
+      "id": "7ea86ea4-7e5e-4c86-ac3e-0e4b9b406a24",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "admin default",
+    "lastUpdatedDate": "2023-10-17T08:53:16.375358+08:00",
+    "code": "132-106-535-599-800",
+    "createdDate": "2023-10-17T08:53:16.354435+08:00",
+    "createdBy": "admin default",
+    "domain": "region",
+    "postalCode": 11,
+    "name": "City 132-106-535-599-800",
+    "description": "City 132-106-535-599-800 description",
+    "id": "77166709-357c-4376-a986-f7abfafc1881",
+    "type": "CITY"
+  }
+}
