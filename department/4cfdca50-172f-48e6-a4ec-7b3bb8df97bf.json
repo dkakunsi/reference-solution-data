@@ -10,16 +10,8 @@
   "id": "4cfdca50-172f-48e6-a4ec-7b3bb8df97bf",
   "region": {
     "parent": {
-      "lastUpdatedBy": "admin default",
-      "lastUpdatedDate": "2023-10-17T08:53:20.812207+08:00",
-      "code": "439-590-242-972-30",
-      "createdDate": "2023-10-17T08:53:20.811982+08:00",
-      "createdBy": "admin default",
       "domain": "region",
-      "name": "Province 439-590-242-972-30",
-      "description": "Province 439-590-242-972-30 updated description",
-      "id": "7ea86ea4-7e5e-4c86-ac3e-0e4b9b406a24",
-      "type": "PROVINCE"
+      "id": "7ea86ea4-7e5e-4c86-ac3e-0e4b9b406a24"
     },
     "lastUpdatedBy": "admin default",
     "lastUpdatedDate": "2023-10-17T08:53:16.375358+08:00",
