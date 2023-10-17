@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "null"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-17T10:21:49.105523+08:00",
+  "code": "379-733-203-884-498",
+  "createdDate": "2023-10-17T10:21:49.099569+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 379-733-203-884-498",
+  "description": "City 379-733-203-884-498 description",
+  "id": "5141b639-70c9-46e3-a7fb-fbd8eced2aba",
+  "type": "CITY"
+}
