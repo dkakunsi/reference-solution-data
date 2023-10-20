@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-20T13:27:13.708764632+08:00",
+  "code": "621-26-807-807-154",
+  "createdDate": "2023-10-20T13:27:13.708703674+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 621-26-807-807-154",
+  "description": "Department 621-26-807-807-154 description",
+  "id": "a711641b-d896-48e7-8831-7ce1cd00dbff",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "admin default",
+      "lastUpdatedDate": "2023-10-20T13:27:09.369431838+08:00",
+      "code": "786-186-655-821-80",
+      "createdDate": "2023-10-20T13:27:09.36915113+08:00",
+      "createdBy": "admin default",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 786-186-655-821-80",
+      "description": "Province 786-186-655-821-80 description",
+      "id": "eda95970-2cfc-441b-bf1a-c4e92e2abd57",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "admin default",
+    "lastUpdatedDate": "2023-10-20T13:27:11.559556339+08:00",
+    "code": "783-68-104-719-269",
+    "createdDate": "2023-10-20T13:27:11.559479714+08:00",
+    "createdBy": "admin default",
+    "domain": "region",
+    "postalCode": 11,
+    "name": "City 783-68-104-719-269",
+    "description": "City 783-68-104-719-269 description",
+    "id": "a1553caa-7b04-490a-b1cc-7ffdf68f352d",
+    "type": "CITY"
+  }
+}
