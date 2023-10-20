@@ -1,0 +1,26 @@
+{
+  "parent": {
+    "lastUpdatedBy": "admin default",
+    "lastUpdatedDate": "2023-10-20T18:02:28.528441929+08:00",
+    "code": "602-252-735-538-535",
+    "createdDate": "2023-10-20T18:02:21.646412509+08:00",
+    "createdBy": "admin default",
+    "domain": "region",
+    "postalCode": 1,
+    "name": "Province 602-252-735-538-535",
+    "description": "Province 602-252-735-538-535 updated description",
+    "id": "d0715faf-08d2-4a59-aa01-c2a4455918da",
+    "type": "PROVINCE"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-20T18:02:24.247126052+08:00",
+  "code": "123-96-26-803-911",
+  "createdDate": "2023-10-20T18:02:24.247043552+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 123-96-26-803-911",
+  "description": "City 123-96-26-803-911 description",
+  "id": "a3bc241c-c8f3-4026-8195-d27942a051a1",
+  "type": "CITY"
+}
