@@ -1,14 +1,14 @@
 {
   "parent": {
     "lastUpdatedBy": "admin default",
-    "lastUpdatedDate": "2023-10-20T18:02:28.528441929+08:00",
+    "lastUpdatedDate": "2023-10-20T18:02:21.647689968+08:00",
     "code": "602-252-735-538-535",
     "createdDate": "2023-10-20T18:02:21.646412509+08:00",
     "createdBy": "admin default",
     "domain": "region",
     "postalCode": 1,
     "name": "Province 602-252-735-538-535",
-    "description": "Province 602-252-735-538-535 updated description",
+    "description": "Province 602-252-735-538-535 description",
     "id": "d0715faf-08d2-4a59-aa01-c2a4455918da",
     "type": "PROVINCE"
   },
