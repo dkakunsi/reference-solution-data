@@ -11,7 +11,7 @@
   "region": {
     "parent": {
       "lastUpdatedBy": "admin default",
-      "lastUpdatedDate": "2023-10-20T16:19:29.126365513+08:00",
+      "lastUpdatedDate": "2023-10-20T17:08:15.270506965+08:00",
       "code": "850-796-887-91-520",
       "createdDate": "2023-10-20T16:17:27.790505638+08:00",
       "createdBy": "admin default",
@@ -27,8 +27,8 @@
     "code": "246-538-847-732-710",
     "createdDate": "2023-10-20T16:18:18.8474688+08:00",
     "createdBy": "admin default",
-    "domain": "region",
     "postalCode": 11,
+    "domain": "region",
     "name": "City 246-538-847-732-710",
     "description": "City 246-538-847-732-710 description",
     "id": "85650184-41ca-47fa-b148-1422ca8f10cf",
