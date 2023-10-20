@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-20T18:27:44.265064089+08:00",
+  "code": "1-411-247-34-107",
+  "createdDate": "2023-10-20T18:27:44.264981339+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 1-411-247-34-107",
+  "description": "Department 1-411-247-34-107 description",
+  "id": "1616bac6-f7a2-40e6-8f5c-8d3781473eb6",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "admin default",
+      "lastUpdatedDate": "2023-10-20T18:27:46.474971048+08:00",
+      "code": "695-463-79-396-461",
+      "createdDate": "2023-10-20T18:27:39.804493545+08:00",
+      "createdBy": "admin default",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 695-463-79-396-461",
+      "description": "Province 695-463-79-396-461 updated description",
+      "id": "12b69a6c-6958-4806-b4d4-801628001fa6",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "admin default",
+    "lastUpdatedDate": "2023-10-20T18:27:42.068950671+08:00",
+    "code": "938-529-943-48-545",
+    "createdDate": "2023-10-20T18:27:42.068839671+08:00",
+    "createdBy": "admin default",
+    "domain": "region",
+    "postalCode": 11,
+    "name": "City 938-529-943-48-545",
+    "description": "City 938-529-943-48-545 description",
+    "id": "39b8f9c5-7867-4be2-a076-1ecc21fc0304",
+    "type": "CITY"
+  }
+}
