@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-20T18:25:11.965834879+08:00",
+  "code": "11-851-874-370-749",
+  "createdDate": "2023-10-20T18:25:11.965772421+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 11-851-874-370-749",
+  "description": "Department 11-851-874-370-749 description",
+  "id": "467bafb8-1528-4cd2-adef-ed1ac5e8e7c9",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "admin default",
+      "lastUpdatedDate": "2023-10-20T18:25:14.094123005+08:00",
+      "code": "617-335-254-894-745",
+      "createdDate": "2023-10-20T18:25:07.653768961+08:00",
+      "createdBy": "admin default",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 617-335-254-894-745",
+      "description": "Province 617-335-254-894-745 updated description",
+      "id": "8f0f87a3-dc7f-4b6c-81ac-26db08e337b3",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "admin default",
+    "lastUpdatedDate": "2023-10-20T18:25:09.821535712+08:00",
+    "code": "211-563-456-665-896",
+    "createdDate": "2023-10-20T18:25:09.821471128+08:00",
+    "createdBy": "admin default",
+    "domain": "region",
+    "postalCode": 11,
+    "name": "City 211-563-456-665-896",
+    "description": "City 211-563-456-665-896 description",
+    "id": "339a5637-9850-4899-a5d2-c5ed586bbb2f",
+    "type": "CITY"
+  }
+}
