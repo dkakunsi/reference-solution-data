@@ -1,0 +1,49 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-20T17:17:08.358776378+08:00",
+  "code": "84-299-199-363-28",
+  "createdDate": "2023-10-20T17:17:08.358364503+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 84-299-199-363-28",
+  "description": "Project 84-299-199-363-28 description",
+  "location": "Project 84-299-199-363-28 location",
+  "id": "ab96fac7-442f-4b2c-bc3a-9ed2cd57de97",
+  "department": {
+    "lastUpdatedBy": "admin default",
+    "lastUpdatedDate": "2023-10-20T16:18:28.89088443+08:00",
+    "code": "528-518-465-92-842",
+    "createdDate": "2023-10-20T16:18:28.89072543+08:00",
+    "createdBy": "admin default",
+    "domain": "department",
+    "name": "Department 528-518-465-92-842",
+    "description": "Department 528-518-465-92-842 description",
+    "id": "995ebc52-4767-4835-918f-87386e0bc70b",
+    "region": {
+      "parent": {
+        "lastUpdatedBy": "admin default",
+        "lastUpdatedDate": "2023-10-20T17:08:15.270506965+08:00",
+        "code": "850-796-887-91-520",
+        "createdDate": "2023-10-20T16:17:27.790505638+08:00",
+        "createdBy": "admin default",
+        "domain": "region",
+        "postalCode": 1,
+        "name": "Province 850-796-887-91-520",
+        "description": "Province 850-796-887-91-520 updated description",
+        "id": "e2796074-e47f-490d-a7dc-1a52b3b80134",
+        "type": "PROVINCE"
+      },
+      "lastUpdatedBy": "admin default",
+      "lastUpdatedDate": "2023-10-20T16:18:18.848399133+08:00",
+      "code": "246-538-847-732-710",
+      "createdDate": "2023-10-20T16:18:18.8474688+08:00",
+      "createdBy": "admin default",
+      "postalCode": 11,
+      "domain": "region",
+      "name": "City 246-538-847-732-710",
+      "description": "City 246-538-847-732-710 description",
+      "id": "85650184-41ca-47fa-b148-1422ca8f10cf",
+      "type": "CITY"
+    }
+  }
+}
