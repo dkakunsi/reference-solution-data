@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-21T09:42:05.011011722+08:00",
+  "code": "705-547-434-743-780",
+  "createdDate": "2023-10-21T09:42:05.010506514+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 705-547-434-743-780",
+  "description": "Department 705-547-434-743-780 description",
+  "id": "f4a8e9af-5683-41d2-84b0-6f7fcf7822e9",
+  "region": {
+    "domain": "region",
+    "id": "a3bc241c-c8f3-4026-8195-d27942a051a1"
+  }
+}
