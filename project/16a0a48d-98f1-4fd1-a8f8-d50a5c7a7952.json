@@ -1,0 +1,16 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-21T09:38:42.761676712+08:00",
+  "code": "543-619-788-813-850",
+  "createdDate": "2023-10-21T09:38:42.76158442+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 543-619-788-813-850",
+  "description": "Project 543-619-788-813-850 description",
+  "location": "Project 543-619-788-813-850 location",
+  "id": "16a0a48d-98f1-4fd1-a8f8-d50a5c7a7952",
+  "department": {
+    "domain": "department",
+    "id": "07b6f762-f6c3-4184-992f-6f3ad10b3f98"
+  }
+}
