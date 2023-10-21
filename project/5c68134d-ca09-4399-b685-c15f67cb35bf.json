@@ -1,0 +1,49 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-21T17:12:55.632996718+08:00",
+  "code": "588-590-325-62-489",
+  "createdDate": "2023-10-21T17:12:55.632906676+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 588-590-325-62-489",
+  "description": "Project 588-590-325-62-489 description",
+  "location": "Project 588-590-325-62-489 location",
+  "id": "5c68134d-ca09-4399-b685-c15f67cb35bf",
+  "department": {
+    "lastUpdatedBy": "admin default",
+    "lastUpdatedDate": "2023-10-21T17:12:43.16317142+08:00",
+    "code": "634-506-384-165-26",
+    "createdDate": "2023-10-21T17:12:43.163104337+08:00",
+    "createdBy": "admin default",
+    "domain": "department",
+    "name": "Department 634-506-384-165-26",
+    "description": "Department 634-506-384-165-26 description",
+    "id": "041562c5-fb50-4d78-a979-a3c1fff3e14a",
+    "region": {
+      "parent": {
+        "lastUpdatedBy": "admin default",
+        "lastUpdatedDate": "2023-10-21T17:12:45.366886713+08:00",
+        "code": "888-826-349-562-192",
+        "createdDate": "2023-10-21T17:12:38.325090918+08:00",
+        "createdBy": "admin default",
+        "domain": "region",
+        "postalCode": 1,
+        "name": "Province 888-826-349-562-192",
+        "description": "Province 888-826-349-562-192 updated description",
+        "id": "94c91a03-b2a8-4ef8-aeb2-bbdb1a1f63b3",
+        "type": "PROVINCE"
+      },
+      "lastUpdatedBy": "admin default",
+      "lastUpdatedDate": "2023-10-21T17:12:40.908637502+08:00",
+      "code": "762-198-262-544-172",
+      "createdDate": "2023-10-21T17:12:40.908568044+08:00",
+      "createdBy": "admin default",
+      "domain": "region",
+      "postalCode": 11,
+      "name": "City 762-198-262-544-172",
+      "description": "City 762-198-262-544-172 description",
+      "id": "ef2b9697-45e1-436b-ad93-2c67ce02362e",
+      "type": "CITY"
+    }
+  }
+}
