@@ -1,0 +1,26 @@
+{
+  "parent": {
+    "lastUpdatedBy": "admin default",
+    "lastUpdatedDate": "2023-10-21T17:12:45.366886713+08:00",
+    "code": "888-826-349-562-192",
+    "createdDate": "2023-10-21T17:12:38.325090918+08:00",
+    "createdBy": "admin default",
+    "domain": "region",
+    "postalCode": 1,
+    "name": "Province 888-826-349-562-192",
+    "description": "Province 888-826-349-562-192 updated description",
+    "id": "94c91a03-b2a8-4ef8-aeb2-bbdb1a1f63b3",
+    "type": "PROVINCE"
+  },
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-21T17:12:40.908637502+08:00",
+  "code": "762-198-262-544-172",
+  "createdDate": "2023-10-21T17:12:40.908568044+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 762-198-262-544-172",
+  "description": "City 762-198-262-544-172 description",
+  "id": "ef2b9697-45e1-436b-ad93-2c67ce02362e",
+  "type": "CITY"
+}
