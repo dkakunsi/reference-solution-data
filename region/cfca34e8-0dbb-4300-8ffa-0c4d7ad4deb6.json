@@ -1,14 +1,14 @@
 {
   "parent": {
     "lastUpdatedBy": "admin default",
-    "lastUpdatedDate": "2023-10-21T09:38:32.512963096+08:00",
+    "lastUpdatedDate": "2023-10-21T09:38:25.431073884+08:00",
     "code": "890-301-667-681-583",
     "createdDate": "2023-10-21T09:38:25.429872134+08:00",
     "createdBy": "admin default",
     "domain": "region",
     "postalCode": 1,
     "name": "Province 890-301-667-681-583",
-    "description": "Province 890-301-667-681-583 updated description",
+    "description": "Province 890-301-667-681-583 description",
     "id": "cdea617a-4abb-489e-a6a9-ad8a4297d935",
     "type": "PROVINCE"
   },
