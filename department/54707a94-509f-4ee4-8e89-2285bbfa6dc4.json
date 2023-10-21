@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-22T07:56:52.724776667+08:00",
+  "code": "159-678-757-3-162",
+  "createdDate": "2023-10-22T07:56:52.724640292+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 159-678-757-3-162",
+  "description": "Department 159-678-757-3-162 description",
+  "id": "54707a94-509f-4ee4-8e89-2285bbfa6dc4",
+  "region": {
+    "domain": "region",
+    "id": "null"
+  }
+}
