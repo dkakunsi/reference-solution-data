@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-22T08:10:13.025081551+08:00",
+  "code": "151-139-454-733-115",
+  "createdDate": "2023-10-22T08:10:13.025003593+08:00",
+  "createdBy": "admin default",
+  "domain": "department",
+  "name": "Department 151-139-454-733-115",
+  "description": "Department 151-139-454-733-115 description",
+  "id": "45fc55a6-b188-44eb-9e5a-4eb7409bc11f",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "admin default",
+      "lastUpdatedDate": "2023-10-22T08:10:15.254195886+08:00",
+      "code": "349-304-327-282-821",
+      "createdDate": "2023-10-22T08:10:08.288217716+08:00",
+      "createdBy": "admin default",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 349-304-327-282-821",
+      "description": "Province 349-304-327-282-821 updated description",
+      "id": "be222d26-0e7b-45d8-bcba-01971eee7f78",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "admin default",
+    "code": "710-497-453-352-616",
+    "postalCode": 11,
+    "description": "City 710-497-453-352-616 description",
+    "type": "CITY",
+    "lastUpdatedDate": "2023-10-22T08:10:10.582313342+08:00",
+    "createdDate": "2023-10-22T08:10:10.582237175+08:00",
+    "createdBy": "admin default",
+    "domain": "region",
+    "name": "City 710-497-453-352-616",
+    "id": "75151881-3332-4c9f-8045-b3c37be16f6d"
+  }
+}
