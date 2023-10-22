@@ -1,0 +1,26 @@
+{
+  "parent": {
+    "lastUpdatedBy": "admin default",
+    "lastUpdatedDate": "2023-10-22T18:18:51.871709637+08:00",
+    "code": "574-679-994-409-266",
+    "createdDate": "2023-10-22T18:18:45.208603842+08:00",
+    "createdBy": "admin default",
+    "domain": "region",
+    "postalCode": 1,
+    "name": "Province 574-679-994-409-266",
+    "description": "Province 574-679-994-409-266 updated description",
+    "id": "cdf74855-b141-447f-bd0c-6d228b73b68c",
+    "type": "PROVINCE"
+  },
+  "lastUpdatedBy": "admin default",
+  "code": "286-850-976-388-928",
+  "postalCode": 11,
+  "description": "City 286-850-976-388-928 description",
+  "type": "CITY",
+  "lastUpdatedDate": "2023-10-22T18:18:47.471152593+08:00",
+  "createdDate": "2023-10-22T18:18:47.47106526+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "name": "City 286-850-976-388-928",
+  "id": "ee8f346e-a33f-4c0d-a342-45f70ada989a"
+}
