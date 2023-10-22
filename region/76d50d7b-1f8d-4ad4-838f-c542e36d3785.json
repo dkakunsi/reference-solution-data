@@ -1,26 +1,26 @@
 {
   "parent": {
     "lastUpdatedBy": "admin default",
-    "lastUpdatedDate": "2023-10-22T18:21:06.302137629+08:00",
+    "lastUpdatedDate": "2023-10-22T18:20:59.554908626+08:00",
     "code": "188-501-263-309-15",
     "createdDate": "2023-10-22T18:20:59.554540001+08:00",
     "createdBy": "admin default",
     "domain": "region",
     "postalCode": 1,
     "name": "Province 188-501-263-309-15",
-    "description": "Province 188-501-263-309-15 updated description",
+    "description": "Province 188-501-263-309-15 description",
     "id": "52db0035-47a9-43a4-8504-79986a2ece82",
     "type": "PROVINCE"
   },
   "lastUpdatedBy": "admin default",
-  "code": "418-339-201-546-519",
-  "postalCode": 11,
-  "description": "City 418-339-201-546-519 description",
-  "type": "CITY",
   "lastUpdatedDate": "2023-10-22T18:21:01.796387127+08:00",
+  "code": "418-339-201-546-519",
   "createdDate": "2023-10-22T18:21:01.79620171+08:00",
   "createdBy": "admin default",
   "domain": "region",
+  "postalCode": 11,
   "name": "City 418-339-201-546-519",
-  "id": "76d50d7b-1f8d-4ad4-838f-c542e36d3785"
+  "description": "City 418-339-201-546-519 description",
+  "id": "76d50d7b-1f8d-4ad4-838f-c542e36d3785",
+  "type": "CITY"
 }
