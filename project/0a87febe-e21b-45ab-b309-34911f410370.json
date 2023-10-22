@@ -1,0 +1,49 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-22T18:21:16.530050259+08:00",
+  "code": "408-561-967-999-975",
+  "createdDate": "2023-10-22T18:21:16.529910176+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 408-561-967-999-975",
+  "description": "Project 408-561-967-999-975 description",
+  "location": "Project 408-561-967-999-975 location",
+  "id": "0a87febe-e21b-45ab-b309-34911f410370",
+  "department": {
+    "lastUpdatedBy": "admin default",
+    "lastUpdatedDate": "2023-10-22T18:21:04.061580211+08:00",
+    "code": "547-137-520-823-987",
+    "createdDate": "2023-10-22T18:21:04.061495253+08:00",
+    "createdBy": "admin default",
+    "domain": "department",
+    "name": "Department 547-137-520-823-987",
+    "description": "Department 547-137-520-823-987 description",
+    "id": "c71896e2-50a5-4430-962f-808e977aea43",
+    "region": {
+      "parent": {
+        "lastUpdatedBy": "admin default",
+        "lastUpdatedDate": "2023-10-22T18:21:06.302137629+08:00",
+        "code": "188-501-263-309-15",
+        "createdDate": "2023-10-22T18:20:59.554540001+08:00",
+        "createdBy": "admin default",
+        "domain": "region",
+        "postalCode": 1,
+        "name": "Province 188-501-263-309-15",
+        "description": "Province 188-501-263-309-15 updated description",
+        "id": "52db0035-47a9-43a4-8504-79986a2ece82",
+        "type": "PROVINCE"
+      },
+      "lastUpdatedBy": "admin default",
+      "lastUpdatedDate": "2023-10-22T18:21:01.796387127+08:00",
+      "code": "418-339-201-546-519",
+      "createdDate": "2023-10-22T18:21:01.79620171+08:00",
+      "createdBy": "admin default",
+      "postalCode": 11,
+      "domain": "region",
+      "name": "City 418-339-201-546-519",
+      "description": "City 418-339-201-546-519 description",
+      "id": "76d50d7b-1f8d-4ad4-838f-c542e36d3785",
+      "type": "CITY"
+    }
+  }
+}
