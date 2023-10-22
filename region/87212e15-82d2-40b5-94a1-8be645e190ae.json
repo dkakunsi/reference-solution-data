@@ -1,0 +1,26 @@
+{
+  "parent": {
+    "lastUpdatedBy": "admin default",
+    "lastUpdatedDate": "2023-10-22T18:25:47.59426951+08:00",
+    "code": "237-617-290-596-305",
+    "createdDate": "2023-10-22T18:25:47.059512343+08:00",
+    "createdBy": "admin default",
+    "domain": "region",
+    "postalCode": 1,
+    "name": "Province 237-617-290-596-305",
+    "description": "Province 237-617-290-596-305 updated description",
+    "id": "4c5c217a-1044-4795-8ff9-0ea52c9789d9",
+    "type": "PROVINCE"
+  },
+  "lastUpdatedBy": "admin default",
+  "code": "787-927-693-189-81",
+  "postalCode": 11,
+  "description": "City 787-927-693-189-81 description",
+  "type": "CITY",
+  "lastUpdatedDate": "2023-10-22T18:25:47.278770384+08:00",
+  "createdDate": "2023-10-22T18:25:47.278699093+08:00",
+  "createdBy": "admin default",
+  "domain": "region",
+  "name": "City 787-927-693-189-81",
+  "id": "87212e15-82d2-40b5-94a1-8be645e190ae"
+}
