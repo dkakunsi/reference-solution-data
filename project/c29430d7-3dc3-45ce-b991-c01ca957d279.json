@@ -1,0 +1,49 @@
+{
+  "lastUpdatedBy": "admin default",
+  "lastUpdatedDate": "2023-10-22T18:19:02.096906586+08:00",
+  "code": "164-822-324-680-174",
+  "createdDate": "2023-10-22T18:19:02.096706461+08:00",
+  "createdBy": "admin default",
+  "domain": "project",
+  "name": "Project 164-822-324-680-174",
+  "description": "Project 164-822-324-680-174 description",
+  "location": "Project 164-822-324-680-174 location",
+  "id": "c29430d7-3dc3-45ce-b991-c01ca957d279",
+  "department": {
+    "lastUpdatedBy": "admin default",
+    "lastUpdatedDate": "2023-10-22T18:18:49.656892177+08:00",
+    "code": "18-275-932-500-578",
+    "createdDate": "2023-10-22T18:18:49.656802469+08:00",
+    "createdBy": "admin default",
+    "domain": "department",
+    "name": "Department 18-275-932-500-578",
+    "description": "Department 18-275-932-500-578 description",
+    "id": "8964bea0-c026-4ab8-9970-451b158595d3",
+    "region": {
+      "parent": {
+        "lastUpdatedBy": "admin default",
+        "lastUpdatedDate": "2023-10-22T18:18:51.871709637+08:00",
+        "code": "574-679-994-409-266",
+        "createdDate": "2023-10-22T18:18:45.208603842+08:00",
+        "createdBy": "admin default",
+        "domain": "region",
+        "postalCode": 1,
+        "name": "Province 574-679-994-409-266",
+        "description": "Province 574-679-994-409-266 updated description",
+        "id": "cdf74855-b141-447f-bd0c-6d228b73b68c",
+        "type": "PROVINCE"
+      },
+      "lastUpdatedBy": "admin default",
+      "lastUpdatedDate": "2023-10-22T18:18:47.471152593+08:00",
+      "code": "286-850-976-388-928",
+      "createdDate": "2023-10-22T18:18:47.47106526+08:00",
+      "createdBy": "admin default",
+      "postalCode": 11,
+      "domain": "region",
+      "name": "City 286-850-976-388-928",
+      "description": "City 286-850-976-388-928 description",
+      "id": "ee8f346e-a33f-4c0d-a342-45f70ada989a",
+      "type": "CITY"
+    }
+  }
+}
