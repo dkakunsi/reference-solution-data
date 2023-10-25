@@ -1,0 +1,26 @@
+{
+  "parent": {
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-10-25T16:45:21.581305218+08:00",
+    "code": "726-145-396-168-574",
+    "createdDate": "2023-10-25T16:45:20.308310551+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "region",
+    "postalCode": 1,
+    "name": "Province 726-145-396-168-574",
+    "description": "Province 726-145-396-168-574 updated description",
+    "id": "ad069704-298b-4389-be9b-fcb9f2debec6",
+    "type": "PROVINCE"
+  },
+  "lastUpdatedBy": "admin@gmail.com",
+  "code": "351-75-258-660-415",
+  "postalCode": 11,
+  "description": "City 351-75-258-660-415 description",
+  "type": "CITY",
+  "lastUpdatedDate": "2023-10-25T16:45:21.224267718+08:00",
+  "createdDate": "2023-10-25T16:45:21.224207176+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "region",
+  "name": "City 351-75-258-660-415",
+  "id": "09ffde5c-5232-4348-a9d3-b2fac3e38711"
+}
