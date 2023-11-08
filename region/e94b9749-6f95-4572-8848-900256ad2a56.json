@@ -1,0 +1,26 @@
+{
+  "parent": {
+    "lastUpdatedBy": "dkakunsi@gmail.com",
+    "lastUpdatedDate": "2023-11-08T20:15:47.106467711+08:00",
+    "code": "500-851-441-47-204",
+    "createdDate": "2023-11-08T20:15:46.323128169+08:00",
+    "createdBy": "dkakunsi@gmail.com",
+    "domain": "region",
+    "postalCode": 1,
+    "name": "Province 500-851-441-47-204",
+    "description": "Province 500-851-441-47-204 updated description",
+    "id": "715ed965-89e4-4b95-9167-45b681f9f1fc",
+    "type": "PROVINCE"
+  },
+  "lastUpdatedBy": "dkakunsi@gmail.com",
+  "code": "819-274-459-575-20",
+  "postalCode": 11,
+  "description": "City 819-274-459-575-20 description",
+  "type": "CITY",
+  "lastUpdatedDate": "2023-11-08T20:15:46.657330128+08:00",
+  "createdDate": "2023-11-08T20:15:46.657109086+08:00",
+  "createdBy": "dkakunsi@gmail.com",
+  "domain": "region",
+  "name": "City 819-274-459-575-20",
+  "id": "e94b9749-6f95-4572-8848-900256ad2a56"
+}
