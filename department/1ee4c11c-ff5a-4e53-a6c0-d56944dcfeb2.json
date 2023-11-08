@@ -11,27 +11,27 @@
   "region": {
     "parent": {
       "lastUpdatedBy": "dkakunsi@gmail.com",
-      "lastUpdatedDate": "2023-11-08T19:54:20.46283188+08:00",
+      "lastUpdatedDate": "2023-11-08T19:54:19.733796505+08:00",
       "code": "929-63-289-981-561",
       "createdDate": "2023-11-08T19:54:19.73308763+08:00",
       "createdBy": "dkakunsi@gmail.com",
       "domain": "region",
       "postalCode": 1,
       "name": "Province 929-63-289-981-561",
-      "description": "Province 929-63-289-981-561 updated description",
+      "description": "Province 929-63-289-981-561 description",
       "id": "ea4835a2-65e1-47b0-a433-33d55d0e5c76",
       "type": "PROVINCE"
     },
     "lastUpdatedBy": "dkakunsi@gmail.com",
-    "code": "785-991-392-392-973",
-    "postalCode": 11,
-    "description": "City 785-991-392-392-973 description",
-    "type": "CITY",
     "lastUpdatedDate": "2023-11-08T19:54:19.958899838+08:00",
+    "code": "785-991-392-392-973",
     "createdDate": "2023-11-08T19:54:19.958692255+08:00",
     "createdBy": "dkakunsi@gmail.com",
     "domain": "region",
+    "postalCode": 11,
     "name": "City 785-991-392-392-973",
-    "id": "f88473e5-7977-401f-b1c2-1582a949bcf7"
+    "description": "City 785-991-392-392-973 description",
+    "id": "f88473e5-7977-401f-b1c2-1582a949bcf7",
+    "type": "CITY"
   }
 }
