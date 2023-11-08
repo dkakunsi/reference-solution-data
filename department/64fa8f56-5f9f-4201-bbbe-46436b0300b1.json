@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "dkakunsi@gmail.com",
+  "lastUpdatedDate": "2023-11-08T21:22:31.421170233+08:00",
+  "code": "942-461-905-644-991",
+  "createdDate": "2023-11-08T21:22:31.421049732+08:00",
+  "createdBy": "dkakunsi@gmail.com",
+  "domain": "department",
+  "name": "Department 942-461-905-644-991",
+  "description": "Department 942-461-905-644-991 description",
+  "id": "64fa8f56-5f9f-4201-bbbe-46436b0300b1",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "dkakunsi@gmail.com",
+      "lastUpdatedDate": "2023-11-08T21:22:31.675957587+08:00",
+      "code": "574-548-928-836-890",
+      "createdDate": "2023-11-08T21:22:30.265190273+08:00",
+      "createdBy": "dkakunsi@gmail.com",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 574-548-928-836-890",
+      "description": "Province 574-548-928-836-890 updated description",
+      "id": "f30636e2-565d-4d1c-a1d8-7bd149c7557b",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "dkakunsi@gmail.com",
+    "code": "878-5-136-382-571",
+    "postalCode": 11,
+    "description": "City 878-5-136-382-571 description",
+    "type": "CITY",
+    "lastUpdatedDate": "2023-11-08T21:22:31.105816661+08:00",
+    "createdDate": "2023-11-08T21:22:31.105705161+08:00",
+    "createdBy": "dkakunsi@gmail.com",
+    "domain": "region",
+    "name": "City 878-5-136-382-571",
+    "id": "5a4c42bd-996a-4476-a529-3a5447001522"
+  }
+}
