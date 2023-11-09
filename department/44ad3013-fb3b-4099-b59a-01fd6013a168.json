@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-11-09T22:21:38.471462234+08:00",
+  "code": "503-351-391-311-61",
+  "createdDate": "2023-11-09T22:21:38.471352425+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "department",
+  "name": "Department 503-351-391-311-61",
+  "description": "Department 503-351-391-311-61 description",
+  "id": "44ad3013-fb3b-4099-b59a-01fd6013a168",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "admin@gmail.com",
+      "lastUpdatedDate": "2023-11-09T22:21:32.414477382+08:00",
+      "code": "456-273-811-864-267",
+      "createdDate": "2023-11-09T22:21:32.413521303+08:00",
+      "createdBy": "admin@gmail.com",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 456-273-811-864-267",
+      "description": "Province 456-273-811-864-267 description",
+      "id": "19df292a-44bf-4532-9b60-25a2b2f42de7",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-11-09T22:21:33.219856358+08:00",
+    "code": "639-982-636-664-663",
+    "createdDate": "2023-11-09T22:21:33.219737348+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "region",
+    "postalCode": 11,
+    "name": "City 639-982-636-664-663",
+    "description": "City 639-982-636-664-663 description",
+    "id": "2615de68-97af-4522-919c-884e2e5b3aaa",
+    "type": "CITY"
+  }
+}
