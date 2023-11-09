@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-11-09T20:07:40.823446179+08:00",
+  "code": "77-469-655-859-505",
+  "createdDate": "2023-11-09T20:07:40.82333697+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "department",
+  "name": "Department 77-469-655-859-505",
+  "description": "Department 77-469-655-859-505 description",
+  "id": "f7463ad7-5f66-46eb-b893-8ea6182da48b",
+  "region": {
+    "domain": "region",
+    "id": "c5a2f208-a950-40cd-bff5-964849852bd8"
+  }
+}
