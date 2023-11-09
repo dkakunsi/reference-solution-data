@@ -1,26 +1,26 @@
 {
   "parent": {
     "lastUpdatedBy": "admin@gmail.com",
-    "lastUpdatedDate": "2023-11-09T19:59:56.386494251+08:00",
+    "lastUpdatedDate": "2023-11-09T19:59:51.731153055+08:00",
     "code": "277-725-291-344-73",
     "createdDate": "2023-11-09T19:59:51.73071368+08:00",
     "createdBy": "admin@gmail.com",
     "domain": "region",
     "postalCode": 1,
     "name": "Province 277-725-291-344-73",
-    "description": "Province 277-725-291-344-73 updated description",
+    "description": "Province 277-725-291-344-73 description",
     "id": "f8f7614a-de90-4ec4-b9de-3f7e383612de",
     "type": "PROVINCE"
   },
   "lastUpdatedBy": "admin@gmail.com",
-  "code": "584-997-925-524-745",
-  "postalCode": 11,
-  "description": "City 584-997-925-524-745 description",
-  "type": "CITY",
   "lastUpdatedDate": "2023-11-09T19:59:51.960138264+08:00",
+  "code": "584-997-925-524-745",
   "createdDate": "2023-11-09T19:59:51.95992168+08:00",
   "createdBy": "admin@gmail.com",
   "domain": "region",
+  "postalCode": 11,
   "name": "City 584-997-925-524-745",
-  "id": "dcfebcdc-00c4-4164-ab5b-c42343f3874d"
+  "description": "City 584-997-925-524-745 description",
+  "id": "dcfebcdc-00c4-4164-ab5b-c42343f3874d",
+  "type": "CITY"
 }
