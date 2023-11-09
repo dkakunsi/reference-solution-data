@@ -1,0 +1,40 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-11-09T19:38:42.566395634+08:00",
+  "code": "329-903-978-680-496",
+  "createdDate": "2023-11-09T19:38:42.565575926+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "project",
+  "name": "Project 329-903-978-680-496",
+  "description": "Project 329-903-978-680-496 description",
+  "location": "Project 329-903-978-680-496 location",
+  "id": "13d3dd1d-c20b-4c30-ac7c-679e6313895b",
+  "department": {
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-11-09T19:38:37.25924934+08:00",
+    "code": "46-19-322-576-417",
+    "createdDate": "2023-11-09T19:38:37.258990673+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "department",
+    "name": "Department 46-19-322-576-417",
+    "description": "Department 46-19-322-576-417 description",
+    "id": "358c6561-6f4f-4ac8-be46-0866cb085345",
+    "region": {
+      "parent": {
+        "domain": "region",
+        "id": ""
+      },
+      "lastUpdatedBy": "admin@gmail.com",
+      "lastUpdatedDate": "2023-11-09T19:38:34.508592922+08:00",
+      "code": "852-771-703-153-106",
+      "createdDate": "2023-11-09T19:38:34.508123505+08:00",
+      "createdBy": "admin@gmail.com",
+      "domain": "region",
+      "postalCode": 11,
+      "name": "City 852-771-703-153-106",
+      "description": "City 852-771-703-153-106 description",
+      "id": "bb66d12d-6ea7-4c36-a307-2250d9d15024",
+      "type": "CITY"
+    }
+  }
+}
