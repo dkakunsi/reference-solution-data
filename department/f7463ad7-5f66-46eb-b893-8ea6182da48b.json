@@ -9,7 +9,29 @@
   "description": "Department 77-469-655-859-505 description",
   "id": "f7463ad7-5f66-46eb-b893-8ea6182da48b",
   "region": {
+    "parent": {
+      "lastUpdatedBy": "admin@gmail.com",
+      "lastUpdatedDate": "2023-11-09T20:07:46.077623338+08:00",
+      "code": "142-811-772-892-997",
+      "createdDate": "2023-11-09T20:07:37.508549061+08:00",
+      "createdBy": "admin@gmail.com",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 142-811-772-892-997",
+      "description": "Province 142-811-772-892-997 updated description",
+      "id": "15c4b437-72d6-4f53-8b20-6ac638d87dd9",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "admin@gmail.com",
+    "code": "515-607-228-721-183",
+    "postalCode": 11,
+    "description": "City 515-607-228-721-183 description",
+    "type": "CITY",
+    "lastUpdatedDate": "2023-11-09T20:07:38.407951653+08:00",
+    "createdDate": "2023-11-09T20:07:38.407840542+08:00",
+    "createdBy": "admin@gmail.com",
     "domain": "region",
+    "name": "City 515-607-228-721-183",
     "id": "c5a2f208-a950-40cd-bff5-964849852bd8"
   }
 }
