@@ -1,0 +1,49 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-11-09T22:55:08.42107295+08:00",
+  "code": "600-24-555-557-214",
+  "createdDate": "2023-11-09T22:55:08.420959477+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "project",
+  "name": "Project 600-24-555-557-214",
+  "description": "Project 600-24-555-557-214 description",
+  "location": "Project 600-24-555-557-214 location",
+  "id": "4a5bfec0-537f-43ae-9324-7d35f5f12e48",
+  "department": {
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-11-09T22:55:06.041809974+08:00",
+    "code": "316-52-687-592-793",
+    "createdDate": "2023-11-09T22:55:06.041687514+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "department",
+    "name": "Department 316-52-687-592-793",
+    "description": "Department 316-52-687-592-793 description",
+    "id": "f23bd3f0-1e0d-4206-a5e5-c95cf593fad4",
+    "region": {
+      "parent": {
+        "lastUpdatedBy": "admin@gmail.com",
+        "lastUpdatedDate": "2023-11-09T22:55:07.208128625+08:00",
+        "code": "595-581-486-496-626",
+        "createdDate": "2023-11-09T22:55:04.459308479+08:00",
+        "createdBy": "admin@gmail.com",
+        "domain": "region",
+        "postalCode": 1,
+        "name": "Province 595-581-486-496-626",
+        "description": "Province 595-581-486-496-626 updated description",
+        "id": "aca85aae-1ad0-42f4-bcf8-6a3c66e44772",
+        "type": "PROVINCE"
+      },
+      "lastUpdatedBy": "admin@gmail.com",
+      "lastUpdatedDate": "2023-11-09T22:55:04.854052062+08:00",
+      "code": "792-106-774-448-71",
+      "createdDate": "2023-11-09T22:55:04.853938599+08:00",
+      "createdBy": "admin@gmail.com",
+      "postalCode": 11,
+      "domain": "region",
+      "name": "City 792-106-774-448-71",
+      "description": "City 792-106-774-448-71 description",
+      "id": "31d9ab5b-3c14-482a-8fcb-ea23052502b9",
+      "type": "CITY"
+    }
+  }
+}
