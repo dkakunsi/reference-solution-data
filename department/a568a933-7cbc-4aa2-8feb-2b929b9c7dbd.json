@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-11-09T23:25:35.960760596+08:00",
+  "code": "550-590-972-49-325",
+  "createdDate": "2023-11-09T23:25:35.96063432+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "department",
+  "name": "Department 550-590-972-49-325",
+  "description": "Department 550-590-972-49-325 description",
+  "id": "a568a933-7cbc-4aa2-8feb-2b929b9c7dbd",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "admin@gmail.com",
+      "lastUpdatedDate": "2023-11-09T23:25:34.337770618+08:00",
+      "code": "339-93-221-291-864",
+      "createdDate": "2023-11-09T23:25:34.336932515+08:00",
+      "createdBy": "admin@gmail.com",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 339-93-221-291-864",
+      "description": "Province 339-93-221-291-864 description",
+      "id": "bfa6b910-a9c3-46a9-a350-4d1b341a298f",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-11-09T23:25:34.736877766+08:00",
+    "code": "642-549-801-605-115",
+    "createdDate": "2023-11-09T23:25:34.736771448+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "region",
+    "postalCode": 11,
+    "name": "City 642-549-801-605-115",
+    "description": "City 642-549-801-605-115 description",
+    "id": "61114e93-8dfc-49a0-bfd8-6a3976aeb6e2",
+    "type": "CITY"
+  }
+}
