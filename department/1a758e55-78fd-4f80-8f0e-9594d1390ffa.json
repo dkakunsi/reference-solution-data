@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-11-09T19:47:18.48695871+08:00",
+  "code": "717-828-495-534-141",
+  "createdDate": "2023-11-09T19:47:18.486849335+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "department",
+  "name": "Department 717-828-495-534-141",
+  "description": "Department 717-828-495-534-141 description",
+  "id": "1a758e55-78fd-4f80-8f0e-9594d1390ffa",
+  "region": {
+    "domain": "region",
+    "id": "41ce9e50-edba-4d1f-8ba5-bda899c1b2ff"
+  }
+}
