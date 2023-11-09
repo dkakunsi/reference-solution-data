@@ -1,0 +1,49 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-11-09T20:07:48.48491132+08:00",
+  "code": "714-891-38-26-208",
+  "createdDate": "2023-11-09T20:07:48.484800209+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "project",
+  "name": "Project 714-891-38-26-208",
+  "description": "Project 714-891-38-26-208 description",
+  "location": "Project 714-891-38-26-208 location",
+  "id": "11f12074-98e2-49e3-939f-559223d146b5",
+  "department": {
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-11-09T20:07:40.823446179+08:00",
+    "code": "77-469-655-859-505",
+    "createdDate": "2023-11-09T20:07:40.82333697+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "department",
+    "name": "Department 77-469-655-859-505",
+    "description": "Department 77-469-655-859-505 description",
+    "id": "f7463ad7-5f66-46eb-b893-8ea6182da48b",
+    "region": {
+      "parent": {
+        "lastUpdatedBy": "admin@gmail.com",
+        "lastUpdatedDate": "2023-11-09T20:07:46.077623338+08:00",
+        "code": "142-811-772-892-997",
+        "createdDate": "2023-11-09T20:07:37.508549061+08:00",
+        "createdBy": "admin@gmail.com",
+        "domain": "region",
+        "postalCode": 1,
+        "name": "Province 142-811-772-892-997",
+        "description": "Province 142-811-772-892-997 updated description",
+        "id": "15c4b437-72d6-4f53-8b20-6ac638d87dd9",
+        "type": "PROVINCE"
+      },
+      "lastUpdatedBy": "admin@gmail.com",
+      "lastUpdatedDate": "2023-11-09T20:07:38.407951653+08:00",
+      "code": "515-607-228-721-183",
+      "createdDate": "2023-11-09T20:07:38.407840542+08:00",
+      "createdBy": "admin@gmail.com",
+      "postalCode": 11,
+      "domain": "region",
+      "name": "City 515-607-228-721-183",
+      "description": "City 515-607-228-721-183 description",
+      "id": "c5a2f208-a950-40cd-bff5-964849852bd8",
+      "type": "CITY"
+    }
+  }
+}
