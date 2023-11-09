@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-11-09T20:20:09.118721424+08:00",
+  "code": "391-456-911-514-424",
+  "createdDate": "2023-11-09T20:20:09.118605277+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "department",
+  "name": "Department 391-456-911-514-424",
+  "description": "Department 391-456-911-514-424 description",
+  "id": "d1fcba10-f6ce-44ca-84a8-edd036f0930a",
+  "region": {
+    "domain": "region",
+    "id": "835ab220-10dd-42a1-963a-98a255c259d2"
+  }
+}
