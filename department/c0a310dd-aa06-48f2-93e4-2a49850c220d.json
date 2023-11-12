@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-11-12T19:57:06.959419644+08:00",
+  "code": "42-570-896-33-493",
+  "createdDate": "2023-11-12T19:57:06.959327962+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "department",
+  "name": "Department 42-570-896-33-493",
+  "description": "Department 42-570-896-33-493 description",
+  "id": "c0a310dd-aa06-48f2-93e4-2a49850c220d",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "admin@gmail.com",
+      "lastUpdatedDate": "2023-11-12T19:57:05.409408473+08:00",
+      "code": "1-478-92-766-628",
+      "createdDate": "2023-11-12T19:57:05.408303924+08:00",
+      "createdBy": "admin@gmail.com",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 1-478-92-766-628",
+      "description": "Province 1-478-92-766-628 description",
+      "id": "903e2efa-acd3-486d-89fb-ec66b83a5a82",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-11-12T19:57:05.770625791+08:00",
+    "code": "904-107-775-865-980",
+    "createdDate": "2023-11-12T19:57:05.770512038+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "region",
+    "postalCode": 11,
+    "name": "City 904-107-775-865-980",
+    "description": "City 904-107-775-865-980 description",
+    "id": "b4107972-e30c-4324-83b2-142f37bf3feb",
+    "type": "CITY"
+  }
+}
