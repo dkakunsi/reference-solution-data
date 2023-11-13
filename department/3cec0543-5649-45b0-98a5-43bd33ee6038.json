@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-11-13T20:30:52.575423498+08:00",
+  "code": "655-360-666-788-685",
+  "createdDate": "2023-11-13T20:30:52.575313396+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "department",
+  "name": "Department 655-360-666-788-685",
+  "description": "Department 655-360-666-788-685 description",
+  "id": "3cec0543-5649-45b0-98a5-43bd33ee6038",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "admin@gmail.com",
+      "lastUpdatedDate": "2023-11-13T20:30:53.836893474+08:00",
+      "code": "688-369-901-195-927",
+      "createdDate": "2023-11-13T20:30:50.362329917+08:00",
+      "createdBy": "admin@gmail.com",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 688-369-901-195-927",
+      "description": "Province 688-369-901-195-927 updated description",
+      "id": "79b0aec1-bfca-47e7-885f-b8d078e76522",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "admin@gmail.com",
+    "code": "385-115-47-976-113",
+    "postalCode": 11,
+    "description": "City 385-115-47-976-113 description",
+    "type": "CITY",
+    "lastUpdatedDate": "2023-11-13T20:30:51.216370148+08:00",
+    "createdDate": "2023-11-13T20:30:51.216261847+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "region",
+    "name": "City 385-115-47-976-113",
+    "id": "95baa403-0bd4-4a0c-b1ab-f77e2adafe51"
+  }
+}
