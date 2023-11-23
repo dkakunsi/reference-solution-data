@@ -1,0 +1,26 @@
+{
+  "parent": {
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-11-23T21:22:13.151081591+08:00",
+    "code": "604-255-345-185-463",
+    "createdDate": "2023-11-23T21:22:13.150496341+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "region",
+    "postalCode": 1,
+    "name": "Province 604-255-345-185-463",
+    "description": "Province 604-255-345-185-463 description",
+    "id": "03fa9383-bde6-42fc-aafd-0e2c3fb49210",
+    "type": "PROVINCE"
+  },
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-11-23T21:22:23.28809693+08:00",
+  "code": "30-503-152-869-570",
+  "createdDate": "2023-11-23T21:22:23.287919388+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 30-503-152-869-570",
+  "description": "City 30-503-152-869-570 description",
+  "id": "205b88ca-3c41-449f-b8f4-86bbb06c4272",
+  "type": "CITY"
+}
