@@ -1,0 +1,26 @@
+{
+  "parent": {
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-11-24T11:16:37.5921939+08:00",
+    "code": "962-772-300-393-267",
+    "createdDate": "2023-11-24T11:16:37.591781188+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "region",
+    "postalCode": 1,
+    "name": "Province 962-772-300-393-267",
+    "description": "Province 962-772-300-393-267 description",
+    "id": "cffd6149-96b0-41fe-b2bd-7a19a589271a",
+    "type": "PROVINCE"
+  },
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-11-24T11:16:37.978206079+08:00",
+  "code": "982-832-739-344-846",
+  "createdDate": "2023-11-24T11:16:37.97809903+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 982-832-739-344-846",
+  "description": "City 982-832-739-344-846 description",
+  "id": "a89cfb98-928a-4b10-bf68-042a6ec00abf",
+  "type": "CITY"
+}
