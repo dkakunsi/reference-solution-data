@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-11-28T21:49:43.139766263+08:00",
+  "code": "21-30-864-279-124",
+  "createdDate": "2023-11-28T21:49:43.139138263+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "department",
+  "name": "Department 21-30-864-279-124",
+  "description": "Department 21-30-864-279-124 description",
+  "id": "952965bd-abef-494d-9a62-141ae01e788f",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "admin@gmail.com",
+      "lastUpdatedDate": "2023-11-28T21:48:59.792364381+08:00",
+      "code": "105-439-709-456-133",
+      "createdDate": "2023-11-28T21:48:59.790532714+08:00",
+      "createdBy": "admin@gmail.com",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 105-439-709-456-133",
+      "description": "Province 105-439-709-456-133 description",
+      "id": "2bfa3f00-9721-4778-bfa3-3ebe41528320",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-11-28T21:49:18.061944167+08:00",
+    "code": "435-96-905-28-698",
+    "createdDate": "2023-11-28T21:49:18.059891334+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "region",
+    "postalCode": 11,
+    "name": "City 435-96-905-28-698",
+    "description": "City 435-96-905-28-698 description",
+    "id": "b7d03357-e553-4afc-adf3-663cb862d004",
+    "type": "CITY"
+  }
+}
