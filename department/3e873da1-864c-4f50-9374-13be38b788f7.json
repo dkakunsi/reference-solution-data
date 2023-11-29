@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-11-30T02:11:03.979443397+08:00",
+  "code": "165-241-980-675-450",
+  "createdDate": "2023-11-30T02:11:03.979338997+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "department",
+  "name": "Department 165-241-980-675-450",
+  "description": "Department 165-241-980-675-450 description",
+  "id": "3e873da1-864c-4f50-9374-13be38b788f7",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "admin@gmail.com",
+      "lastUpdatedDate": "2023-11-30T02:11:00.934377086+08:00",
+      "code": "35-609-127-660-869",
+      "createdDate": "2023-11-30T02:11:00.934026287+08:00",
+      "createdBy": "admin@gmail.com",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 35-609-127-660-869",
+      "description": "Province 35-609-127-660-869 description",
+      "id": "31b90bc5-8118-443d-8bb1-3fd47617121e",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-11-30T02:11:01.691842901+08:00",
+    "code": "676-461-805-532-546",
+    "createdDate": "2023-11-30T02:11:01.691743101+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "region",
+    "postalCode": 11,
+    "name": "City 676-461-805-532-546",
+    "description": "City 676-461-805-532-546 description",
+    "id": "8292ae56-a52e-431f-afac-93587789b94b",
+    "type": "CITY"
+  }
+}
