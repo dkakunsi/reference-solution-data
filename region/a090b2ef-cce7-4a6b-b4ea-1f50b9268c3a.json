@@ -1,0 +1,26 @@
+{
+  "parent": {
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-12-08T20:25:00.442612053+08:00",
+    "code": "197-236-481-908-814",
+    "createdDate": "2023-12-08T20:25:00.442418178+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "region",
+    "postalCode": 1,
+    "name": "Province 197-236-481-908-814",
+    "description": "Province 197-236-481-908-814 description",
+    "id": "a966d3f8-9d22-4f73-992d-45e94c4fd173",
+    "type": "PROVINCE"
+  },
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-12-08T20:25:11.004837877+08:00",
+  "code": "740-762-784-566-92",
+  "createdDate": "2023-12-08T20:25:11.004658086+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 740-762-784-566-92",
+  "description": "City 740-762-784-566-92 description",
+  "id": "a090b2ef-cce7-4a6b-b4ea-1f50b9268c3a",
+  "type": "CITY"
+}
