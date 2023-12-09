@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-12-09T23:55:31.998973966+08:00",
+  "code": "957-145-586-241-221",
+  "createdDate": "2023-12-09T23:55:31.998879049+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "department",
+  "name": "Department 957-145-586-241-221",
+  "description": "Department 957-145-586-241-221 description",
+  "id": "65748df3775f414b29e84805",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "admin@gmail.com",
+      "lastUpdatedDate": "2023-12-09T23:54:33.129818425+08:00",
+      "code": "244-403-508-167-999",
+      "createdDate": "2023-12-09T23:54:33.128379758+08:00",
+      "createdBy": "admin@gmail.com",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 244-403-508-167-999",
+      "description": "Province 244-403-508-167-999 description",
+      "id": "65748db8775f414b29e84803",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-12-09T23:54:45.543935875+08:00",
+    "code": "67-424-562-964-296",
+    "createdDate": "2023-12-09T23:54:45.54387225+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "region",
+    "postalCode": 11,
+    "name": "City 67-424-562-964-296",
+    "description": "City 67-424-562-964-296 description",
+    "id": "65748dc5775f414b29e84804",
+    "type": "CITY"
+  }
+}
