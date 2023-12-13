@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-12-13T21:46:28.432079169+08:00",
+  "code": "251-931-486-562-174",
+  "createdDate": "2023-12-13T21:46:28.431873169+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "department",
+  "name": "Department 251-931-486-562-174",
+  "description": "Department 251-931-486-562-174 description",
+  "id": "6579b5b4e97b720245092bda",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "admin@gmail.com",
+      "lastUpdatedDate": "2023-12-13T21:46:24.323547917+08:00",
+      "code": "96-817-690-158-255",
+      "createdDate": "2023-12-13T21:46:24.322653167+08:00",
+      "createdBy": "admin@gmail.com",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 96-817-690-158-255",
+      "description": "Province 96-817-690-158-255 description",
+      "id": "6579b5b0e97b720245092bd8",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-12-13T21:46:25.716622835+08:00",
+    "code": "330-267-486-719-483",
+    "createdDate": "2023-12-13T21:46:25.716564626+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "region",
+    "postalCode": 11,
+    "name": "City 330-267-486-719-483",
+    "description": "City 330-267-486-719-483 description",
+    "id": "6579b5b1e97b720245092bd9",
+    "type": "CITY"
+  }
+}
