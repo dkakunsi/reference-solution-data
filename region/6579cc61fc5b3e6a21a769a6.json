@@ -1,17 +1,25 @@
 {
   "parent": {
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-12-13T23:25:05.485108795+08:00",
+    "code": "244-403-508-167-999",
+    "createdDate": "2023-12-13T23:25:05.482874253+08:00",
+    "createdBy": "admin@gmail.com",
     "domain": "region",
-    "id": "6579b5b0e97b720245092bd8"
+    "name": "Province 244-403-508-167-999",
+    "description": "Province 244-403-508-167-999 updated description",
+    "id": "6579b5b0e97b720245092bd8",
+    "type": "PROVINCE"
   },
   "lastUpdatedBy": "admin@gmail.com",
-  "lastUpdatedDate": "2023-12-13T23:23:14.029909632+08:00",
   "code": "213-122-329-374-818",
+  "postalCode": 11,
+  "description": "City 213-122-329-374-818 description",
+  "type": "CITY",
+  "lastUpdatedDate": "2023-12-13T23:23:14.029909632+08:00",
   "createdDate": "2023-12-13T23:23:14.029618882+08:00",
   "createdBy": "admin@gmail.com",
   "domain": "region",
-  "postalCode": 11,
   "name": "City 213-122-329-374-818",
-  "description": "City 213-122-329-374-818 description",
-  "id": "6579cc61fc5b3e6a21a769a6",
-  "type": "CITY"
+  "id": "6579cc61fc5b3e6a21a769a6"
 }
