@@ -1,0 +1,49 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-12-14T10:22:50.76334868+08:00",
+  "code": "566-391-426-403-382",
+  "createdDate": "2023-12-14T10:22:50.763285347+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "project",
+  "name": "Project 566-391-426-403-382",
+  "description": "Project 566-391-426-403-382 description",
+  "location": "Project 566-391-426-403-382 location",
+  "id": "657a66fae495c15963c77198",
+  "department": {
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-12-14T10:22:47.38346947+08:00",
+    "code": "193-350-102-333-581",
+    "createdDate": "2023-12-14T10:22:47.383400428+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "department",
+    "name": "Department 193-350-102-333-581",
+    "description": "Department 193-350-102-333-581 description",
+    "id": "657a66f7e495c15963c77197",
+    "region": {
+      "parent": {
+        "lastUpdatedBy": "admin@gmail.com",
+        "lastUpdatedDate": "2023-12-14T10:22:48.513183012+08:00",
+        "code": "748-370-610-886-804",
+        "createdDate": "2023-12-14T10:22:45.062420427+08:00",
+        "createdBy": "admin@gmail.com",
+        "domain": "region",
+        "postalCode": 1,
+        "name": "Province 748-370-610-886-804",
+        "description": "Province 748-370-610-886-804 updated description",
+        "id": "657a66f5e495c15963c77195",
+        "type": "PROVINCE"
+      },
+      "lastUpdatedBy": "admin@gmail.com",
+      "lastUpdatedDate": "2023-12-14T10:22:45.233890719+08:00",
+      "code": "886-858-878-994-291",
+      "createdDate": "2023-12-14T10:22:45.233827844+08:00",
+      "createdBy": "admin@gmail.com",
+      "postalCode": 11,
+      "domain": "region",
+      "name": "City 886-858-878-994-291",
+      "description": "City 886-858-878-994-291 description",
+      "id": "657a66f5e495c15963c77196",
+      "type": "CITY"
+    }
+  }
+}
