@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-12-14T10:00:05.002051923+08:00",
+  "code": "120-465-758-489-469",
+  "createdDate": "2023-12-14T10:00:05.001984089+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "department",
+  "name": "Department 120-465-758-489-469",
+  "description": "Department 120-465-758-489-469 description",
+  "id": "657a61a4f8d67622ffa6e4f4",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "admin@gmail.com",
+      "lastUpdatedDate": "2023-12-14T09:59:58.061845336+08:00",
+      "code": "28-126-947-865-916",
+      "createdDate": "2023-12-14T09:59:58.061739461+08:00",
+      "createdBy": "admin@gmail.com",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 28-126-947-865-916",
+      "description": "Province 28-126-947-865-916 description",
+      "id": "657a619ef8d67622ffa6e4f2",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-12-14T10:00:01.815643213+08:00",
+    "code": "97-488-769-470-354",
+    "createdDate": "2023-12-14T10:00:01.815537421+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "region",
+    "postalCode": 11,
+    "name": "City 97-488-769-470-354",
+    "description": "City 97-488-769-470-354 description",
+    "id": "657a61a1f8d67622ffa6e4f3",
+    "type": "CITY"
+  }
+}
