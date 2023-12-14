@@ -1,0 +1,49 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-12-14T10:21:54.523863667+08:00",
+  "code": "347-780-816-410-505",
+  "createdDate": "2023-12-14T10:21:54.523810292+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "project",
+  "name": "Project 347-780-816-410-505",
+  "description": "Project 347-780-816-410-505 description",
+  "location": "Project 347-780-816-410-505 location",
+  "id": "657a66c2e495c15963c77194",
+  "department": {
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-12-14T10:21:50.380600221+08:00",
+    "code": "496-605-836-418-547",
+    "createdDate": "2023-12-14T10:21:50.380530471+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "department",
+    "name": "Department 496-605-836-418-547",
+    "description": "Department 496-605-836-418-547 description",
+    "id": "657a66bee495c15963c77193",
+    "region": {
+      "parent": {
+        "lastUpdatedBy": "admin@gmail.com",
+        "lastUpdatedDate": "2023-12-14T10:21:51.890842583+08:00",
+        "code": "542-535-852-977-107",
+        "createdDate": "2023-12-14T10:21:46.329184928+08:00",
+        "createdBy": "admin@gmail.com",
+        "domain": "region",
+        "postalCode": 1,
+        "name": "Province 542-535-852-977-107",
+        "description": "Province 542-535-852-977-107 updated description",
+        "id": "657a66bae495c15963c77191",
+        "type": "PROVINCE"
+      },
+      "lastUpdatedBy": "admin@gmail.com",
+      "lastUpdatedDate": "2023-12-14T10:21:47.704586054+08:00",
+      "code": "431-620-83-363-537",
+      "createdDate": "2023-12-14T10:21:47.704520054+08:00",
+      "createdBy": "admin@gmail.com",
+      "postalCode": 11,
+      "domain": "region",
+      "name": "City 431-620-83-363-537",
+      "description": "City 431-620-83-363-537 description",
+      "id": "657a66bbe495c15963c77192",
+      "type": "CITY"
+    }
+  }
+}
