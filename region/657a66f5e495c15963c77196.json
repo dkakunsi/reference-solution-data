@@ -1,0 +1,26 @@
+{
+  "parent": {
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-12-14T10:22:48.513183012+08:00",
+    "code": "748-370-610-886-804",
+    "createdDate": "2023-12-14T10:22:45.062420427+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "region",
+    "postalCode": 1,
+    "name": "Province 748-370-610-886-804",
+    "description": "Province 748-370-610-886-804 updated description",
+    "id": "657a66f5e495c15963c77195",
+    "type": "PROVINCE"
+  },
+  "lastUpdatedBy": "admin@gmail.com",
+  "code": "886-858-878-994-291",
+  "postalCode": 11,
+  "description": "City 886-858-878-994-291 description",
+  "type": "CITY",
+  "lastUpdatedDate": "2023-12-14T10:22:45.233890719+08:00",
+  "createdDate": "2023-12-14T10:22:45.233827844+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "region",
+  "name": "City 886-858-878-994-291",
+  "id": "657a66f5e495c15963c77196"
+}
