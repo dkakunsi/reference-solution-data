@@ -11,27 +11,27 @@
   "region": {
     "parent": {
       "lastUpdatedBy": "admin@gmail.com",
-      "lastUpdatedDate": "2023-12-17T07:13:57.133412335+08:00",
+      "lastUpdatedDate": "2023-12-17T07:13:51.416277722+08:00",
       "code": "62-754-624-994-271",
       "createdDate": "2023-12-17T07:13:51.415613263+08:00",
       "createdBy": "admin@gmail.com",
       "domain": "region",
       "postalCode": 1,
       "name": "Province 62-754-624-994-271",
-      "description": "Province 62-754-624-994-271 updated description",
+      "description": "Province 62-754-624-994-271 description",
       "id": "657e2f2f0a63530d6538061a",
       "type": "PROVINCE"
     },
     "lastUpdatedBy": "admin@gmail.com",
-    "code": "623-759-213-479-255",
-    "postalCode": 11,
-    "description": "City 623-759-213-479-255 description",
-    "type": "CITY",
     "lastUpdatedDate": "2023-12-17T07:13:52.927997917+08:00",
+    "code": "623-759-213-479-255",
     "createdDate": "2023-12-17T07:13:52.927920792+08:00",
     "createdBy": "admin@gmail.com",
     "domain": "region",
+    "postalCode": 11,
     "name": "City 623-759-213-479-255",
-    "id": "657e2f300a63530d6538061b"
+    "description": "City 623-759-213-479-255 description",
+    "id": "657e2f300a63530d6538061b",
+    "type": "CITY"
   }
 }
