@@ -1,0 +1,37 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-12-17T20:35:52.286051376+08:00",
+  "code": "231-182-425-48-928",
+  "createdDate": "2023-12-17T20:35:52.285969001+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "department",
+  "name": "Department 231-182-425-48-928",
+  "description": "Department 231-182-425-48-928 description",
+  "id": "657eeb28f955bf261e069188",
+  "region": {
+    "parent": {
+      "lastUpdatedBy": "admin@gmail.com",
+      "lastUpdatedDate": "2023-12-17T20:35:53.959082377+08:00",
+      "code": "642-92-530-385-359",
+      "createdDate": "2023-12-17T20:35:47.906428055+08:00",
+      "createdBy": "admin@gmail.com",
+      "domain": "region",
+      "postalCode": 1,
+      "name": "Province 642-92-530-385-359",
+      "description": "Province 642-92-530-385-359 updated description",
+      "id": "657eeb23f955bf261e069186",
+      "type": "PROVINCE"
+    },
+    "lastUpdatedBy": "admin@gmail.com",
+    "code": "887-164-30-107-740",
+    "postalCode": 11,
+    "description": "City 887-164-30-107-740 description",
+    "type": "CITY",
+    "lastUpdatedDate": "2023-12-17T20:35:49.375925666+08:00",
+    "createdDate": "2023-12-17T20:35:49.375871708+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "region",
+    "name": "City 887-164-30-107-740",
+    "id": "657eeb25f955bf261e069187"
+  }
+}
