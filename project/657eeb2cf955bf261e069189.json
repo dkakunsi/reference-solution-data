@@ -1,0 +1,49 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-12-17T20:35:56.70362867+08:00",
+  "code": "457-231-593-249-194",
+  "createdDate": "2023-12-17T20:35:56.703486003+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "project",
+  "name": "Project 457-231-593-249-194",
+  "description": "Project 457-231-593-249-194 description",
+  "location": "Project 457-231-593-249-194 location",
+  "id": "657eeb2cf955bf261e069189",
+  "department": {
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-12-17T20:35:52.286051376+08:00",
+    "code": "231-182-425-48-928",
+    "createdDate": "2023-12-17T20:35:52.285969001+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "department",
+    "name": "Department 231-182-425-48-928",
+    "description": "Department 231-182-425-48-928 description",
+    "id": "657eeb28f955bf261e069188",
+    "region": {
+      "parent": {
+        "lastUpdatedBy": "admin@gmail.com",
+        "lastUpdatedDate": "2023-12-17T20:35:53.959082377+08:00",
+        "code": "642-92-530-385-359",
+        "createdDate": "2023-12-17T20:35:47.906428055+08:00",
+        "createdBy": "admin@gmail.com",
+        "domain": "region",
+        "postalCode": 1,
+        "name": "Province 642-92-530-385-359",
+        "description": "Province 642-92-530-385-359 updated description",
+        "id": "657eeb23f955bf261e069186",
+        "type": "PROVINCE"
+      },
+      "lastUpdatedBy": "admin@gmail.com",
+      "lastUpdatedDate": "2023-12-17T20:35:49.375925666+08:00",
+      "code": "887-164-30-107-740",
+      "createdDate": "2023-12-17T20:35:49.375871708+08:00",
+      "createdBy": "admin@gmail.com",
+      "postalCode": 11,
+      "domain": "region",
+      "name": "City 887-164-30-107-740",
+      "description": "City 887-164-30-107-740 description",
+      "id": "657eeb25f955bf261e069187",
+      "type": "CITY"
+    }
+  }
+}
