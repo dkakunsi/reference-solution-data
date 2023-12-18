@@ -1,0 +1,49 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-12-18T23:57:37.407868134+08:00",
+  "code": "320-279-966-795-570",
+  "createdDate": "2023-12-18T23:57:37.407787009+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "project",
+  "name": "Project 320-279-966-795-570",
+  "description": "Project 320-279-966-795-570 description",
+  "location": "Project 320-279-966-795-570 location",
+  "id": "65806bf1957e97158d773e16",
+  "department": {
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-12-18T23:57:32.78594709+08:00",
+    "code": "655-658-970-312-41",
+    "createdDate": "2023-12-18T23:57:32.785875965+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "department",
+    "name": "Department 655-658-970-312-41",
+    "description": "Department 655-658-970-312-41 description",
+    "id": "65806bec957e97158d773e15",
+    "region": {
+      "parent": {
+        "lastUpdatedBy": "admin@gmail.com",
+        "lastUpdatedDate": "2023-12-18T23:57:34.522583466+08:00",
+        "code": "330-328-493-148-748",
+        "createdDate": "2023-12-18T23:57:28.242609505+08:00",
+        "createdBy": "admin@gmail.com",
+        "domain": "region",
+        "postalCode": 1,
+        "name": "Province 330-328-493-148-748",
+        "description": "Province 330-328-493-148-748 updated description",
+        "id": "65806be8957e97158d773e13",
+        "type": "PROVINCE"
+      },
+      "lastUpdatedBy": "admin@gmail.com",
+      "lastUpdatedDate": "2023-12-18T23:57:30.025943881+08:00",
+      "code": "746-275-606-613-376",
+      "createdDate": "2023-12-18T23:57:30.025872256+08:00",
+      "createdBy": "admin@gmail.com",
+      "postalCode": 11,
+      "domain": "region",
+      "name": "City 746-275-606-613-376",
+      "description": "City 746-275-606-613-376 description",
+      "id": "65806bea957e97158d773e14",
+      "type": "CITY"
+    }
+  }
+}
