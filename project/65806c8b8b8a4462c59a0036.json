@@ -1,0 +1,49 @@
+{
+  "lastUpdatedBy": "admin@gmail.com",
+  "lastUpdatedDate": "2023-12-19T00:00:11.26152572+08:00",
+  "code": "640-406-67-817-168",
+  "createdDate": "2023-12-19T00:00:11.261424345+08:00",
+  "createdBy": "admin@gmail.com",
+  "domain": "project",
+  "name": "Project 640-406-67-817-168",
+  "description": "Project 640-406-67-817-168 description",
+  "location": "Project 640-406-67-817-168 location",
+  "id": "65806c8b8b8a4462c59a0036",
+  "department": {
+    "lastUpdatedBy": "admin@gmail.com",
+    "lastUpdatedDate": "2023-12-19T00:00:06.857597717+08:00",
+    "code": "497-842-48-577-906",
+    "createdDate": "2023-12-19T00:00:06.857523634+08:00",
+    "createdBy": "admin@gmail.com",
+    "domain": "department",
+    "name": "Department 497-842-48-577-906",
+    "description": "Department 497-842-48-577-906 description",
+    "id": "65806c868b8a4462c59a0035",
+    "region": {
+      "parent": {
+        "lastUpdatedBy": "admin@gmail.com",
+        "lastUpdatedDate": "2023-12-19T00:00:08.479840218+08:00",
+        "code": "324-175-742-523-622",
+        "createdDate": "2023-12-19T00:00:02.73462709+08:00",
+        "createdBy": "admin@gmail.com",
+        "domain": "region",
+        "postalCode": 1,
+        "name": "Province 324-175-742-523-622",
+        "description": "Province 324-175-742-523-622 updated description",
+        "id": "65806c828b8a4462c59a0033",
+        "type": "PROVINCE"
+      },
+      "lastUpdatedBy": "admin@gmail.com",
+      "lastUpdatedDate": "2023-12-19T00:00:04.110567633+08:00",
+      "code": "641-569-969-807-724",
+      "createdDate": "2023-12-19T00:00:04.110491174+08:00",
+      "createdBy": "admin@gmail.com",
+      "postalCode": 11,
+      "domain": "region",
+      "name": "City 641-569-969-807-724",
+      "description": "City 641-569-969-807-724 description",
+      "id": "65806c848b8a4462c59a0034",
+      "type": "CITY"
+    }
+  }
+}
