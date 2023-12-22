@@ -1,0 +1,49 @@
+{
+  "lastUpdatedBy": "cortechdigitallab@gmail.com",
+  "lastUpdatedDate": "2023-12-23T07:56:28.22866863+08:00",
+  "code": "185-958-993-858-589",
+  "createdDate": "2023-12-23T07:56:28.228510296+08:00",
+  "createdBy": "cortechdigitallab@gmail.com",
+  "domain": "project",
+  "name": "Project 185-958-993-858-589",
+  "description": "Project 185-958-993-858-589 description",
+  "location": "Project 185-958-993-858-589 location",
+  "id": "6586222ce40d3519fc8a825c",
+  "department": {
+    "lastUpdatedBy": "cortechdigitallab@gmail.com",
+    "lastUpdatedDate": "2023-12-23T07:56:23.620945169+08:00",
+    "code": "299-187-931-158-70",
+    "createdDate": "2023-12-23T07:56:23.620893669+08:00",
+    "createdBy": "cortechdigitallab@gmail.com",
+    "domain": "department",
+    "name": "Department 299-187-931-158-70",
+    "description": "Department 299-187-931-158-70 description",
+    "id": "65862227e40d3519fc8a825b",
+    "region": {
+      "parent": {
+        "lastUpdatedBy": "cortechdigitallab@gmail.com",
+        "lastUpdatedDate": "2023-12-23T07:56:25.32814042+08:00",
+        "code": "78-13-550-511-700",
+        "createdDate": "2023-12-23T07:56:19.392628501+08:00",
+        "createdBy": "cortechdigitallab@gmail.com",
+        "domain": "region",
+        "postalCode": 1,
+        "name": "Province 78-13-550-511-700",
+        "description": "Province 78-13-550-511-700 updated description",
+        "id": "65862223e40d3519fc8a8259",
+        "type": "PROVINCE"
+      },
+      "lastUpdatedBy": "cortechdigitallab@gmail.com",
+      "lastUpdatedDate": "2023-12-23T07:56:20.862374918+08:00",
+      "code": "484-178-522-604-27",
+      "createdDate": "2023-12-23T07:56:20.86231146+08:00",
+      "createdBy": "cortechdigitallab@gmail.com",
+      "postalCode": 11,
+      "domain": "region",
+      "name": "City 484-178-522-604-27",
+      "description": "City 484-178-522-604-27 description",
+      "id": "65862224e40d3519fc8a825a",
+      "type": "CITY"
+    }
+  }
+}
