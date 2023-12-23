@@ -11,27 +11,27 @@
   "region": {
     "parent": {
       "lastUpdatedBy": "cortechdigitallab@gmail.com",
-      "lastUpdatedDate": "2023-12-23T08:51:52.144967336+08:00",
+      "lastUpdatedDate": "2023-12-23T08:51:48.302459251+08:00",
       "code": "253-983-848-335-669",
       "createdDate": "2023-12-23T08:51:48.301896084+08:00",
       "createdBy": "cortechdigitallab@gmail.com",
       "domain": "region",
       "postalCode": 1,
       "name": "Province 253-983-848-335-669",
-      "description": "Province 253-983-848-335-669 updated description",
+      "description": "Province 253-983-848-335-669 description",
       "id": "65862f24e40d3519fc8a825e",
       "type": "PROVINCE"
     },
     "lastUpdatedBy": "cortechdigitallab@gmail.com",
-    "code": "505-105-42-174-898",
-    "postalCode": 11,
-    "description": "City 505-105-42-174-898 description",
-    "type": "CITY",
     "lastUpdatedDate": "2023-12-23T08:51:48.682011876+08:00",
+    "code": "505-105-42-174-898",
     "createdDate": "2023-12-23T08:51:48.681843626+08:00",
     "createdBy": "cortechdigitallab@gmail.com",
     "domain": "region",
+    "postalCode": 11,
     "name": "City 505-105-42-174-898",
-    "id": "65862f24e40d3519fc8a825f"
+    "description": "City 505-105-42-174-898 description",
+    "id": "65862f24e40d3519fc8a825f",
+    "type": "CITY"
   }
 }
