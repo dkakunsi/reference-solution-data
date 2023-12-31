@@ -1,7 +1,10 @@
 {
   "lastUpdatedBy": "cortechdigitallab@gmail.com",
-  "lastUpdatedDate": "2023-12-31T14:47:44.220318759+08:00",
-  "address": {"street": "Jl. Wiratama, No. 40"},
+  "lastUpdatedDate": "2023-12-31T15:01:02.487796963+08:00",
+  "address": {
+    "city": "Manado",
+    "street": "Jl. Wiratama, No. 40"
+  },
   "createdDate": "2023-12-31T14:02:28.200749465+08:00",
   "createdBy": "cortechdigitallab@gmail.com",
   "domain": "customer",
