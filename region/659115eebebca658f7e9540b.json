@@ -1,0 +1,17 @@
+{
+  "parent": {
+    "domain": "region",
+    "id": "659113c3604fda2a7c4c907d"
+  },
+  "lastUpdatedBy": "cortechdigitallab@gmail.com",
+  "lastUpdatedDate": "2023-12-31T15:19:10.849690383+08:00",
+  "code": "405-896-917-640-652",
+  "createdDate": "2023-12-31T15:19:10.849395425+08:00",
+  "createdBy": "cortechdigitallab@gmail.com",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 405-896-917-640-652",
+  "description": "City 405-896-917-640-652 description",
+  "id": "659115eebebca658f7e9540b",
+  "type": "CITY"
+}
