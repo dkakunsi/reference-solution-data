@@ -1,0 +1,26 @@
+{
+  "parent": {
+    "lastUpdatedBy": "cortechdigitallab@gmail.com",
+    "lastUpdatedDate": "2024-01-03T01:08:27.610007844+08:00",
+    "code": "336-3-553-482-973",
+    "createdDate": "2024-01-03T01:08:27.609950344+08:00",
+    "createdBy": "cortechdigitallab@gmail.com",
+    "domain": "region",
+    "postalCode": 1,
+    "name": "Province 336-3-553-482-973",
+    "description": "Province 336-3-553-482-973 description",
+    "id": "6594430bb8e7f551175e6493",
+    "type": "PROVINCE"
+  },
+  "lastUpdatedBy": "cortechdigitallab@gmail.com",
+  "lastUpdatedDate": "2024-01-03T01:08:28.591135594+08:00",
+  "code": "312-32-285-116-23",
+  "createdDate": "2024-01-03T01:08:28.591081719+08:00",
+  "createdBy": "cortechdigitallab@gmail.com",
+  "domain": "region",
+  "postalCode": 11,
+  "name": "City 312-32-285-116-23",
+  "description": "City 312-32-285-116-23 description",
+  "id": "6594430cb8e7f551175e6494",
+  "type": "CITY"
+}
