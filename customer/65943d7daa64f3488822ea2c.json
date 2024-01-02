@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "cortechdigitallab@gmail.com",
-  "lastUpdatedDate": "2024-01-03T00:44:45.174994713+08:00",
+  "lastUpdatedDate": "2024-01-03T01:02:37.175268251+08:00",
   "address": {
     "city": "Manado",
     "street": "Puskopad B, Blok D, No. 11",
@@ -8,6 +8,13 @@
     "sub-district": "Paniki Bawah"
   },
   "createdDate": "2024-01-03T00:44:45.174391046+08:00",
+  "notes": [{
+    "entryDate": "2023-12-23T12:30:15.000+08:00",
+    "id": "c5b0f9f8-5cbb-4e00-8aee-566946cbbf83",
+    "detail": "Tambah bandwidth untuk natalan",
+    "type": "GENERAL_INFO",
+    "title": "Tambah bandwidth"
+  }],
   "createdBy": "cortechdigitallab@gmail.com",
   "domain": "customer",
   "name": "John Doe",
