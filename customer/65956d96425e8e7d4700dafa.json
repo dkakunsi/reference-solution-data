@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "dkakunsi@gmail.com",
-  "lastUpdatedDate": "2024-01-03T22:22:14.20105771+08:00",
+  "lastUpdatedDate": "2024-01-03T22:23:29.441576051+08:00",
   "address": {
     "city": "Manado",
     "street": "Puskopad B, Blok D, No. 11",
@@ -8,6 +8,13 @@
     "sub-district": "Paniki Bawah"
   },
   "createdDate": "2024-01-03T22:22:14.200764627+08:00",
+  "notes": [{
+    "entryDate": "2023-12-30T12:30:15.000+08:00",
+    "id": "07ac10fc-a9b6-4835-af3c-61d679c5b866",
+    "detail": "Tambah bandwidth untuk natalan",
+    "type": "GENERAL_INFO",
+    "title": "Tambah bandwidth"
+  }],
   "createdBy": "dkakunsi@gmail.com",
   "domain": "customer",
   "name": "John Doe",
