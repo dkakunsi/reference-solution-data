@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "cortechdigitallab@gmail.com",
-  "lastUpdatedDate": "2024-01-03T01:03:32.733363179+08:00",
+  "lastUpdatedDate": "2024-01-03T17:23:39.725917177+08:00",
   "address": {
     "city": "Manado",
     "street": "Puskopad B, Blok D, No. 11",
@@ -20,6 +20,13 @@
       "entryDate": "2023-12-30T12:30:15.000+08:00",
       "id": "30755985-d826-4603-a659-feaa6314379e",
       "detail": "Tambah bandwidth untuk tahun baruan",
+      "type": "GENERAL_INFO",
+      "title": "Tambah bandwidth"
+    },
+    {
+      "entryDate": "2023-12-30T12:30:15.000+08:00",
+      "id": "8650c79e-392a-4660-9693-a1d5a7955e4f",
+      "detail": "Tambah bandwidth untuk tahun baruan 2",
       "type": "GENERAL_INFO",
       "title": "Tambah bandwidth"
     }
