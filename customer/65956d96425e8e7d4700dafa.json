@@ -1,6 +1,6 @@
 {
-  "lastUpdatedBy": "dkakunsi@gmail.com",
-  "lastUpdatedDate": "2024-01-03T22:24:37.878913263+08:00",
+  "lastUpdatedBy": "UNKNOWN",
+  "lastUpdatedDate": "2024-01-04T17:15:56.156968044+08:00",
   "address": {
     "city": "Manado",
     "street": "Puskopad B, Blok D, No. 11",
@@ -16,5 +16,6 @@
   "contacts": {
     "phone": "089608981378",
     "email": "dkakunsi.unitedvision@gmail.com"
-  }
+  },
+  "status": "INACTIVE"
 }
