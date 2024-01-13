@@ -1,0 +1,20 @@
+{
+  "lastUpdatedBy": "cortechdigitallab@gmail.com",
+  "lastUpdatedDate": "2024-01-14T04:32:58.708788505+08:00",
+  "address": {
+    "city": "Manado",
+    "street": "Puskopad B, Blok D, No. 11",
+    "district": "Mapanget",
+    "sub-district": "Paniki Bawah"
+  },
+  "createdDate": "2024-01-14T04:32:58.707751838+08:00",
+  "createdBy": "cortechdigitallab@gmail.com",
+  "domain": "customer",
+  "name": "John Doe",
+  "id": "a3434441-c26c-4eaf-97ee-a8a44bc60ecf",
+  "user": "c4255517-9cd5-456c-982b-d15093a0f4dc",
+  "contacts": {
+    "phone": "089608981378",
+    "email": "dkakunsi.unitedvision@gmail.com"
+  }
+}
