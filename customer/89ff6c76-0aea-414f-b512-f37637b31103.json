@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "cortechdigitallab@gmail.com",
-  "lastUpdatedDate": "2024-01-14T13:49:30.980209546+08:00",
+  "lastUpdatedDate": "2024-01-14T13:50:03.391509589+08:00",
   "address": {
     "city": "Bitung",
     "street": "Puskopad B, Blok D, No. 11",
@@ -8,13 +8,22 @@
     "sub-district": "Paniki Bawah"
   },
   "createdDate": "2024-01-14T13:48:49.375229847+08:00",
-  "notes": [{
-    "entryDate": "2023-12-30T12:30:15.000+08:00",
-    "id": "9954ab21-eac3-4cf7-adfd-d36a7753d2ee",
-    "detail": "Tambah bandwidth untuk natalan",
-    "type": "GENERAL_INFO",
-    "title": "Tambah bandwidth"
-  }],
+  "notes": [
+    {
+      "entryDate": "2023-12-30T12:30:15.000+08:00",
+      "id": "9954ab21-eac3-4cf7-adfd-d36a7753d2ee",
+      "detail": "Tambah bandwidth untuk natalan",
+      "type": "GENERAL_INFO",
+      "title": "Tambah bandwidth"
+    },
+    {
+      "entryDate": "2023-12-30T12:30:15.000+08:00",
+      "detail": "Tambah bandwidth untuk tahun baruan (Updated)",
+      "id": "4dab618d-2094-41ac-82c7-77bf2609fdda",
+      "title": "Tambah bandwidth",
+      "type": "GENERAL_INFO"
+    }
+  ],
   "createdBy": "cortechdigitallab@gmail.com",
   "domain": "customer",
   "name": "John Doe",
