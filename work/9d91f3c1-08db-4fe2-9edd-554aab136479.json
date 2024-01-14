@@ -1,6 +1,6 @@
 {
   "lastUpdatedBy": "UNKNOWN",
-  "lastUpdatedDate": "2024-01-14T21:50:30.087684795+08:00",
+  "lastUpdatedDate": "2024-01-14T21:50:43.15884576+08:00",
   "createdDate": "2024-01-14T21:50:30.087277545+08:00",
   "createdBy": "UNKNOWN",
   "domain": "work",
@@ -8,5 +8,5 @@
   "title": "Perbaiki mobil 3",
   "user": "443d1a0f-98a5-4ba6-8431-5f15a501e5fb",
   "customer": "89ff6c76-0aea-414f-b512-f37637b31103",
-  "status": "PLANNED"
+  "status": "IN_PROGRESS"
 }
