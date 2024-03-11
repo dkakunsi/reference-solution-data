@@ -1,12 +1,14 @@
 {
   "lastUpdatedBy": "cortechdigitallab@gmail.com",
+  "remainingAmount": -90000,
   "amount": 10000,
-  "lastUpdatedDate": "2024-03-12T02:31:48.667851435+08:00",
+  "lastUpdatedDate": "2024-03-12T02:33:03.670977132+08:00",
   "createdDate": "2024-03-12T02:31:31.849623999+08:00",
   "createdBy": "dkakunsi3@gmail.com",
   "name": "Updated",
   "id": "d4a43088-36d3-4cc9-b624-f4a6603045d7",
   "type": "DEBT",
   "title": "Bayar tagihan indihome",
-  "user": "e7133f86-8979-451b-9794-a111b5c5f22a"
+  "user": "e7133f86-8979-451b-9794-a111b5c5f22a",
+  "status": "SETTLED"
 }
