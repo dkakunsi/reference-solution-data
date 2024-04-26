@@ -1,0 +1,15 @@
+{
+  "lastUpdatedBy": "cortechdigitallab@gmail.com",
+  "amount": 100000,
+  "beneficiaryPocket": "31f95afe-f940-4b21-997e-f14754e4e849",
+  "type": "INCOMING",
+  "lastUpdatedDate": "2024-04-27T02:23:25.536982577+08:00",
+  "createdDate": "2024-04-27T02:23:25.536855391+08:00",
+  "createdBy": "cortechdigitallab@gmail.com",
+  "sourceName": "BNI",
+  "id": "cf68596f-0841-4aa7-9133-2288ddf596f0",
+  "category": "de92dce6-a848-4a67-959a-c06c881ec944",
+  "user": "81b42d38-5c80-4410-84c1-efcfcadc5d38",
+  "debt": "d4a43088-36d3-4cc9-b624-f4a6603045d7",
+  "status": "ACTIVE"
+}
