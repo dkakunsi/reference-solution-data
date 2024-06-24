@@ -1,0 +1,19 @@
+{
+  "lastUpdatedBy": "dkakunsi@gmail.com",
+  "lastUpdatedDate": "2024-06-25T06:56:10.856763511+08:00",
+  "address": {
+    "city": "Manado",
+    "street": "Puskopad B, Blok D, No. 11",
+    "district": "Mapanget",
+    "sub-district": "Paniki Bawah"
+  },
+  "createdDate": "2024-06-25T06:56:10.856437803+08:00",
+  "createdBy": "dkakunsi@gmail.com",
+  "name": "John Doe",
+  "id": "a308d2eb-786a-406e-8b7b-e9de15bc8514",
+  "user": "f585ae82-7d05-479c-be1c-975e49f8bab6",
+  "contacts": {
+    "phone": "089608981378",
+    "email": "dkakunsi.unitedvision@gmail.com"
+  }
+}
