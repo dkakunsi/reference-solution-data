@@ -1,7 +1,7 @@
 {
   "lastUpdatedBy": "cortechdigitallab@gmail.com",
   "amount": 0,
-  "lastUpdatedDate": "2024-06-27T14:46:32.428537084+08:00",
+  "lastUpdatedDate": "2024-06-27T14:46:31.901843542+08:00",
   "createdDate": "2024-06-27T14:46:31.279798084+08:00",
   "balance": 0,
   "createdBy": "dkakunsi@gmail.com",
@@ -13,6 +13,5 @@
     "accountNo": "1000046"
   },
   "id": "a31c3719-9b64-46a3-9ca1-3ddbb9ba82fb",
-  "user": "3042d3df-c677-46e9-a715-d96bb4d6b074",
-  "status": "INACTIVE"
+  "user": "3042d3df-c677-46e9-a715-d96bb4d6b074"
 }
