@@ -1,17 +1,18 @@
 {
-  "lastUpdatedBy": "dkakunsi@gmail.com",
+  "lastUpdatedBy": "cortechdigitallab@gmail.com",
   "amount": 0,
-  "lastUpdatedDate": "2024-07-12T16:07:44.488807801+08:00",
+  "lastUpdatedDate": "2024-07-12T16:07:46.06524451+08:00",
   "createdDate": "2024-07-12T16:07:44.488719842+08:00",
   "balance": 0,
   "createdBy": "dkakunsi@gmail.com",
   "name": "BNI",
-  "description": "Bank Negara Indonesia",
+  "description": "BNI 46",
   "details": {
     "accountName": "User name",
-    "institutionName": "Bank BNI",
-    "accountNo": "1000046"
+    "accountNo": "1000046",
+    "institutionName": "Bank BNI"
   },
   "id": "a65bfd6f-0601-424e-bb5c-f1db4565fff2",
-  "user": "0ad59329-38c9-46c6-970b-bf9ecd4f6508"
+  "user": "0ad59329-38c9-46c6-970b-bf9ecd4f6508",
+  "status": "INACTIVE"
 }
