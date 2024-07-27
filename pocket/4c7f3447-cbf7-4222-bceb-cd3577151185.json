@@ -1,16 +1,16 @@
 {
-  "lastUpdatedBy": "dkakunsi@gmail.com",
+  "lastUpdatedBy": "UNKNOWN",
   "amount": 0,
-  "lastUpdatedDate": "2024-07-27T21:06:07.828581213+08:00",
+  "lastUpdatedDate": "2024-07-27T21:06:48.120677385+08:00",
   "createdDate": "2024-07-27T21:06:07.828252005+08:00",
   "balance": 0,
   "createdBy": "dkakunsi@gmail.com",
   "name": "BNI",
-  "description": "Bank Negara Indonesia",
+  "description": "BNI 46",
   "details": {
     "accountName": "User name",
-    "institutionName": "Bank BNI",
-    "accountNo": "1000046"
+    "accountNo": "1000046",
+    "institutionName": "Bank BNI"
   },
   "id": "4c7f3447-cbf7-4222-bceb-cd3577151185",
   "user": "ebb737d9-75e9-49f1-8f26-de4546d49cea"
