@@ -1,0 +1,18 @@
+{
+  "lastUpdatedBy": "cortechdigitallab@gmail.com",
+  "amount": 0,
+  "lastUpdatedDate": "2024-08-19T14:56:27.110140007+08:00",
+  "createdDate": "2024-08-19T14:56:25.108962756+08:00",
+  "balance": 0,
+  "createdBy": "dkakunsi@gmail.com",
+  "name": "BNI",
+  "description": "BNI 46",
+  "details": {
+    "accountName": "User name",
+    "accountNo": "1000046",
+    "institutionName": "Bank BNI"
+  },
+  "id": "3703e6b5-ac4a-42cc-9530-fb6f17ad4265",
+  "user": "c1551c93-fc5e-4239-b161-b9cce8b98948",
+  "status": "INACTIVE"
+}
