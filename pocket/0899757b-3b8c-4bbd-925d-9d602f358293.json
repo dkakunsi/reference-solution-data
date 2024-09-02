@@ -1,0 +1,17 @@
+{
+  "lastUpdatedBy": "dkakunsi@gmail.com",
+  "amount": 0,
+  "lastUpdatedDate": "2024-09-02T17:41:37.143034116+08:00",
+  "createdDate": "2024-09-02T17:41:37.142909753+08:00",
+  "balance": 0,
+  "createdBy": "dkakunsi@gmail.com",
+  "name": "BNI",
+  "description": "Bank Negara Indonesia",
+  "details": {
+    "accountName": "User name",
+    "institutionName": "Bank BNI",
+    "accountNo": "1000046"
+  },
+  "id": "0899757b-3b8c-4bbd-925d-9d602f358293",
+  "user": "e69def86-ab9d-4624-8f7c-7b6b4d46ad6c"
+}
