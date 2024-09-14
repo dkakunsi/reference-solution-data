@@ -1,7 +1,7 @@
 {
   "lastUpdatedBy": "cortechdigitallab@gmail.com",
   "amount": 0,
-  "lastUpdatedDate": "2024-09-14T17:51:59.229670211+08:00",
+  "lastUpdatedDate": "2024-09-14T17:51:59.076691128+08:00",
   "createdDate": "2024-09-14T17:51:58.922144419+08:00",
   "balance": 0,
   "createdBy": "dkakunsi@gmail.com",
@@ -13,6 +13,5 @@
     "institutionName": "Bank BNI"
   },
   "id": "d07a7066-8623-41bb-a009-f035a52eb605",
-  "user": "d14248e7-88f8-4f6d-8e42-a716b8ee57a2",
-  "status": "INACTIVE"
+  "user": "d14248e7-88f8-4f6d-8e42-a716b8ee57a2"
 }
